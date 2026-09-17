@@ -1,0 +1,1137 @@
+﻿standort,zielcluster,referenzcluster,gewichtungsverfahren,referenzgewicht_0_bis_1
+Alpen-Sevelen,AS-01,AS-02,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-01,AS-03,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-01,AS-04,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-01,AS-05,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-01,AS-06,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-01,AS-02,1/d^2,0.5126653791840815
+Alpen-Sevelen,AS-01,AS-03,1/d^2,0.1031900147559679
+Alpen-Sevelen,AS-01,AS-04,1/d^2,0.1369961671774571
+Alpen-Sevelen,AS-01,AS-05,1/d^2,0.1351204583732307
+Alpen-Sevelen,AS-01,AS-06,1/d^2,0.1120279805092628
+Alpen-Sevelen,AS-01,AS-02,Wald + Wind,0.2153732365336516
+Alpen-Sevelen,AS-01,AS-03,Wald + Wind,0.2316744772995163
+Alpen-Sevelen,AS-01,AS-04,Wald + Wind,0.1984058507767648
+Alpen-Sevelen,AS-01,AS-05,Wald + Wind,0.1697658404729309
+Alpen-Sevelen,AS-01,AS-06,Wald + Wind,0.1847805949171364
+Alpen-Sevelen,AS-01,AS-02,Vollstaendig,0.2249006514864991
+Alpen-Sevelen,AS-01,AS-03,Vollstaendig,0.2266535632662473
+Alpen-Sevelen,AS-01,AS-04,Vollstaendig,0.201864976882664
+Alpen-Sevelen,AS-01,AS-05,Vollstaendig,0.1636998782683797
+Alpen-Sevelen,AS-01,AS-06,Vollstaendig,0.1828809300962097
+Alpen-Sevelen,AS-02,AS-01,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-02,AS-03,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-02,AS-04,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-02,AS-05,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-02,AS-06,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-02,AS-01,1/d^2,0.6517931654542823
+Alpen-Sevelen,AS-02,AS-03,1/d^2,0.0706872126190582
+Alpen-Sevelen,AS-02,AS-04,1/d^2,0.0901065385747074
+Alpen-Sevelen,AS-02,AS-05,1/d^2,0.1016890685460625
+Alpen-Sevelen,AS-02,AS-06,1/d^2,0.0857240148058893
+Alpen-Sevelen,AS-02,AS-01,Wald + Wind,0.1842233049498549
+Alpen-Sevelen,AS-02,AS-03,Wald + Wind,0.1744475283923101
+Alpen-Sevelen,AS-02,AS-04,Wald + Wind,0.2209138469483155
+Alpen-Sevelen,AS-02,AS-05,Wald + Wind,0.1958322676047163
+Alpen-Sevelen,AS-02,AS-06,Wald + Wind,0.224583052104803
+Alpen-Sevelen,AS-02,AS-01,Vollstaendig,0.2038691983100053
+Alpen-Sevelen,AS-02,AS-03,Vollstaendig,0.1839429924371938
+Alpen-Sevelen,AS-02,AS-04,Vollstaendig,0.2088524802163597
+Alpen-Sevelen,AS-02,AS-05,Vollstaendig,0.1883401107764266
+Alpen-Sevelen,AS-02,AS-06,Vollstaendig,0.2149952182600143
+Alpen-Sevelen,AS-03,AS-01,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-03,AS-02,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-03,AS-04,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-03,AS-05,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-03,AS-06,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-03,AS-01,1/d^2,0.0192277543620285
+Alpen-Sevelen,AS-03,AS-02,1/d^2,0.0103599088705684
+Alpen-Sevelen,AS-03,AS-04,1/d^2,0.6506044598995518
+Alpen-Sevelen,AS-03,AS-05,1/d^2,0.1305622541380985
+Alpen-Sevelen,AS-03,AS-06,1/d^2,0.1892456227297526
+Alpen-Sevelen,AS-03,AS-01,Wald + Wind,0.1812430263658777
+Alpen-Sevelen,AS-03,AS-02,Wald + Wind,0.1595775302999878
+Alpen-Sevelen,AS-03,AS-04,Wald + Wind,0.2439787003173362
+Alpen-Sevelen,AS-03,AS-05,Wald + Wind,0.1922031107470254
+Alpen-Sevelen,AS-03,AS-06,Wald + Wind,0.2229976322697726
+Alpen-Sevelen,AS-03,AS-01,Vollstaendig,0.1879830417048573
+Alpen-Sevelen,AS-03,AS-02,Vollstaendig,0.1682196058997772
+Alpen-Sevelen,AS-03,AS-04,Vollstaendig,0.2377811908588412
+Alpen-Sevelen,AS-03,AS-05,Vollstaendig,0.1887405387220535
+Alpen-Sevelen,AS-03,AS-06,Vollstaendig,0.2172756228144704
+Alpen-Sevelen,AS-04,AS-01,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-04,AS-02,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-04,AS-03,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-04,AS-05,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-04,AS-06,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-04,AS-01,1/d^2,0.0173170552814214
+Alpen-Sevelen,AS-04,AS-02,1/d^2,0.0089587232568957
+Alpen-Sevelen,AS-04,AS-03,1/d^2,0.4413587813861467
+Alpen-Sevelen,AS-04,AS-05,1/d^2,0.2336799290287741
+Alpen-Sevelen,AS-04,AS-06,1/d^2,0.2986855110467618
+Alpen-Sevelen,AS-04,AS-01,Wald + Wind,0.1344593105072628
+Alpen-Sevelen,AS-04,AS-02,Wald + Wind,0.1765863022941273
+Alpen-Sevelen,AS-04,AS-03,Wald + Wind,0.2146178977313563
+Alpen-Sevelen,AS-04,AS-05,Wald + Wind,0.2087658025508119
+Alpen-Sevelen,AS-04,AS-06,Wald + Wind,0.2655706869164417
+Alpen-Sevelen,AS-04,AS-01,Vollstaendig,0.1522308098181439
+Alpen-Sevelen,AS-04,AS-02,Vollstaendig,0.1745878857764497
+Alpen-Sevelen,AS-04,AS-03,Vollstaendig,0.2195638722019121
+Alpen-Sevelen,AS-04,AS-05,Vollstaendig,0.200896058180001
+Alpen-Sevelen,AS-04,AS-06,Vollstaendig,0.252721374023493
+Alpen-Sevelen,AS-05,AS-01,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-05,AS-02,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-05,AS-03,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-05,AS-04,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-05,AS-06,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-05,AS-01,1/d^2,0.011143369433525
+Alpen-Sevelen,AS-05,AS-02,1/d^2,0.0065962009252624
+Alpen-Sevelen,AS-05,AS-03,1/d^2,0.0577859380618703
+Alpen-Sevelen,AS-05,AS-04,1/d^2,0.1524583462292365
+Alpen-Sevelen,AS-05,AS-06,1/d^2,0.7720161453501057
+Alpen-Sevelen,AS-05,AS-01,Wald + Wind,0.1253345550748276
+Alpen-Sevelen,AS-05,AS-02,Wald + Wind,0.1729903221735155
+Alpen-Sevelen,AS-05,AS-03,Wald + Wind,0.1867984132909416
+Alpen-Sevelen,AS-05,AS-04,Wald + Wind,0.2366083345644747
+Alpen-Sevelen,AS-05,AS-06,Wald + Wind,0.2782683748962402
+Alpen-Sevelen,AS-05,AS-01,Vollstaendig,0.1371042720915317
+Alpen-Sevelen,AS-05,AS-02,Vollstaendig,0.1778488890852252
+Alpen-Sevelen,AS-05,AS-03,Vollstaendig,0.1970500927958754
+Alpen-Sevelen,AS-05,AS-04,Vollstaendig,0.2328839580426382
+Alpen-Sevelen,AS-05,AS-06,Vollstaendig,0.2551127879847294
+Alpen-Sevelen,AS-06,AS-01,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-06,AS-02,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-06,AS-03,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-06,AS-04,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-06,AS-05,Gleichgewichtung,0.2
+Alpen-Sevelen,AS-06,AS-01,1/d^2,0.0086714414365058
+Alpen-Sevelen,AS-06,AS-02,1/d^2,0.0052190502541671
+Alpen-Sevelen,AS-06,AS-03,1/d^2,0.0786139721398568
+Alpen-Sevelen,AS-06,AS-04,1/d^2,0.1828998366416183
+Alpen-Sevelen,AS-06,AS-05,1/d^2,0.7245956995278519
+Alpen-Sevelen,AS-06,AS-01,Wald + Wind,0.1258933033989336
+Alpen-Sevelen,AS-06,AS-02,Wald + Wind,0.1792321971030018
+Alpen-Sevelen,AS-06,AS-03,Wald + Wind,0.1944490778861423
+Alpen-Sevelen,AS-06,AS-04,Wald + Wind,0.2611977620988301
+Alpen-Sevelen,AS-06,AS-05,Wald + Wind,0.2392276595130919
+Alpen-Sevelen,AS-06,AS-01,Vollstaendig,0.1410588260996306
+Alpen-Sevelen,AS-06,AS-02,Vollstaendig,0.1830597574166903
+Alpen-Sevelen,AS-06,AS-03,Vollstaendig,0.2022857948801573
+Alpen-Sevelen,AS-06,AS-04,Vollstaendig,0.2533261016015223
+Alpen-Sevelen,AS-06,AS-05,Vollstaendig,0.2202695200019993
+Altenmellrich,AM-01,AM-02,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-01,AM-03,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-01,AM-04,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-01,AM-02,1/d^2,0.9288541705879648
+Altenmellrich,AM-01,AM-03,1/d^2,0.055552832649452
+Altenmellrich,AM-01,AM-04,1/d^2,0.0155929967625831
+Altenmellrich,AM-01,AM-02,Wald + Wind,0.2415919362442554
+Altenmellrich,AM-01,AM-03,Wald + Wind,0.4926734650503762
+Altenmellrich,AM-01,AM-04,Wald + Wind,0.2657345987053683
+Altenmellrich,AM-01,AM-02,Vollstaendig,0.2345261034348742
+Altenmellrich,AM-01,AM-03,Vollstaendig,0.4844354537170536
+Altenmellrich,AM-01,AM-04,Vollstaendig,0.2810384428480721
+Altenmellrich,AM-02,AM-01,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-02,AM-03,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-02,AM-04,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-02,AM-01,1/d^2,0.9119709378361364
+Altenmellrich,AM-02,AM-03,1/d^2,0.0697606820623252
+Altenmellrich,AM-02,AM-04,1/d^2,0.0182683801015386
+Altenmellrich,AM-02,AM-01,Wald + Wind,0.3623747254557728
+Altenmellrich,AM-02,AM-03,Wald + Wind,0.3436112332595069
+Altenmellrich,AM-02,AM-04,Wald + Wind,0.2940140412847203
+Altenmellrich,AM-02,AM-01,Vollstaendig,0.366125838616323
+Altenmellrich,AM-02,AM-03,Vollstaendig,0.3469090017513466
+Altenmellrich,AM-02,AM-04,Vollstaendig,0.2869651596323304
+Altenmellrich,AM-03,AM-01,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-03,AM-02,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-03,AM-04,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-03,AM-01,1/d^2,0.2875168617559851
+Altenmellrich,AM-03,AM-02,1/d^2,0.3677344910567958
+Altenmellrich,AM-03,AM-04,1/d^2,0.3447486471872192
+Altenmellrich,AM-03,AM-01,Wald + Wind,0.4468064770765823
+Altenmellrich,AM-03,AM-02,Wald + Wind,0.2034331659275943
+Altenmellrich,AM-03,AM-04,Wald + Wind,0.3497603569958233
+Altenmellrich,AM-03,AM-01,Vollstaendig,0.4504874556540889
+Altenmellrich,AM-03,AM-02,Vollstaendig,0.2020764244735206
+Altenmellrich,AM-03,AM-04,Vollstaendig,0.3474361198723905
+Altenmellrich,AM-04,AM-01,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-04,AM-02,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-04,AM-03,Gleichgewichtung,0.3333333333333333
+Altenmellrich,AM-04,AM-01,1/d^2,0.1546763131031526
+Altenmellrich,AM-04,AM-02,1/d^2,0.1845698667963339
+Altenmellrich,AM-04,AM-03,1/d^2,0.6607538201005134
+Altenmellrich,AM-04,AM-01,Wald + Wind,0.2996004513267379
+Altenmellrich,AM-04,AM-02,Wald + Wind,0.2454565864307107
+Altenmellrich,AM-04,AM-03,Wald + Wind,0.4549429622425514
+Altenmellrich,AM-04,AM-01,Vollstaendig,0.3200252141387747
+Altenmellrich,AM-04,AM-02,Vollstaendig,0.2359568063522794
+Altenmellrich,AM-04,AM-03,Vollstaendig,0.4440179795089457
+Bad Berleburg,BB-01,BB-02,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-01,BB-03,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-01,BB-04,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-01,BB-05,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-01,BB-06,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-01,BB-07,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-01,BB-02,1/d^2,0.2961789104532988
+Bad Berleburg,BB-01,BB-03,1/d^2,0.3734449141288904
+Bad Berleburg,BB-01,BB-04,1/d^2,0.1627303274726198
+Bad Berleburg,BB-01,BB-05,1/d^2,0.0847194874944643
+Bad Berleburg,BB-01,BB-06,1/d^2,0.0505879010808622
+Bad Berleburg,BB-01,BB-07,1/d^2,0.032338459369864
+Bad Berleburg,BB-01,BB-02,Wald + Wind,0.1881166649702302
+Bad Berleburg,BB-01,BB-03,Wald + Wind,0.2088962243065727
+Bad Berleburg,BB-01,BB-04,Wald + Wind,0.162621287956548
+Bad Berleburg,BB-01,BB-05,Wald + Wind,0.2035621555831804
+Bad Berleburg,BB-01,BB-06,Wald + Wind,0.1042275639114084
+Bad Berleburg,BB-01,BB-07,Wald + Wind,0.1325761032720602
+Bad Berleburg,BB-01,BB-02,Vollstaendig,0.1709657624767856
+Bad Berleburg,BB-01,BB-03,Vollstaendig,0.1992904796994428
+Bad Berleburg,BB-01,BB-04,Vollstaendig,0.1690379426286177
+Bad Berleburg,BB-01,BB-05,Vollstaendig,0.2415280848524516
+Bad Berleburg,BB-01,BB-06,Vollstaendig,0.1131763967945442
+Bad Berleburg,BB-01,BB-07,Vollstaendig,0.1060013335481579
+Bad Berleburg,BB-02,BB-01,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-02,BB-03,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-02,BB-04,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-02,BB-05,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-02,BB-06,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-02,BB-07,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-02,BB-01,1/d^2,0.1756241705273377
+Bad Berleburg,BB-02,BB-03,1/d^2,0.2696477567097471
+Bad Berleburg,BB-02,BB-04,1/d^2,0.3382791331775662
+Bad Berleburg,BB-02,BB-05,1/d^2,0.122799450956173
+Bad Berleburg,BB-02,BB-06,1/d^2,0.0593363263122234
+Bad Berleburg,BB-02,BB-07,1/d^2,0.0343131623169523
+Bad Berleburg,BB-02,BB-01,Wald + Wind,0.2162108630112137
+Bad Berleburg,BB-02,BB-03,Wald + Wind,0.1486930179416109
+Bad Berleburg,BB-02,BB-04,Wald + Wind,0.2040259748055822
+Bad Berleburg,BB-02,BB-05,Wald + Wind,0.1502943597431968
+Bad Berleburg,BB-02,BB-06,Wald + Wind,0.0714806298443276
+Bad Berleburg,BB-02,BB-07,Wald + Wind,0.2092951546540686
+Bad Berleburg,BB-02,BB-01,Vollstaendig,0.2028512796559982
+Bad Berleburg,BB-02,BB-03,Vollstaendig,0.1326534732991901
+Bad Berleburg,BB-02,BB-04,Vollstaendig,0.1875875989871361
+Bad Berleburg,BB-02,BB-05,Vollstaendig,0.1692219400649074
+Bad Berleburg,BB-02,BB-06,Vollstaendig,0.0755813670858525
+Bad Berleburg,BB-02,BB-07,Vollstaendig,0.2321043409069156
+Bad Berleburg,BB-03,BB-01,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-03,BB-02,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-03,BB-04,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-03,BB-05,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-03,BB-06,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-03,BB-07,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-03,BB-01,1/d^2,0.1723720949601095
+Bad Berleburg,BB-03,BB-02,1/d^2,0.209897404045098
+Bad Berleburg,BB-03,BB-04,1/d^2,0.4064754992804987
+Bad Berleburg,BB-03,BB-05,1/d^2,0.1271329220709136
+Bad Berleburg,BB-03,BB-06,1/d^2,0.0555451999412414
+Bad Berleburg,BB-03,BB-07,1/d^2,0.0285768797021386
+Bad Berleburg,BB-03,BB-01,Wald + Wind,0.2551704184184237
+Bad Berleburg,BB-03,BB-02,Wald + Wind,0.1565500168821934
+Bad Berleburg,BB-03,BB-04,Wald + Wind,0.165514427188703
+Bad Berleburg,BB-03,BB-05,Wald + Wind,0.1835322765658821
+Bad Berleburg,BB-03,BB-06,Wald + Wind,0.1291217861543825
+Bad Berleburg,BB-03,BB-07,Wald + Wind,0.1101110747904151
+Bad Berleburg,BB-03,BB-01,Vollstaendig,0.2551350846134104
+Bad Berleburg,BB-03,BB-02,Vollstaendig,0.1421454785896559
+Bad Berleburg,BB-03,BB-04,Vollstaendig,0.1902020750159425
+Bad Berleburg,BB-03,BB-05,Vollstaendig,0.1864501624585994
+Bad Berleburg,BB-03,BB-06,Vollstaendig,0.1563427655915376
+Bad Berleburg,BB-03,BB-07,Vollstaendig,0.0697244337308541
+Bad Berleburg,BB-04,BB-01,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-04,BB-02,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-04,BB-03,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-04,BB-05,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-04,BB-06,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-04,BB-07,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-04,BB-01,1/d^2,0.0537226190927485
+Bad Berleburg,BB-04,BB-02,1/d^2,0.1883361694242581
+Bad Berleburg,BB-04,BB-03,1/d^2,0.2907251755152617
+Bad Berleburg,BB-04,BB-05,1/d^2,0.3489651488503096
+Bad Berleburg,BB-04,BB-06,1/d^2,0.0835626412468432
+Bad Berleburg,BB-04,BB-07,1/d^2,0.0346882458705786
+Bad Berleburg,BB-04,BB-01,Wald + Wind,0.1815561439893124
+Bad Berleburg,BB-04,BB-02,Wald + Wind,0.2004616321102624
+Bad Berleburg,BB-04,BB-03,Wald + Wind,0.1544610963850168
+Bad Berleburg,BB-04,BB-05,Wald + Wind,0.1904363901425312
+Bad Berleburg,BB-04,BB-06,Wald + Wind,0.1042146513842095
+Bad Berleburg,BB-04,BB-07,Wald + Wind,0.1688700859886673
+Bad Berleburg,BB-04,BB-01,Vollstaendig,0.2018578451575511
+Bad Berleburg,BB-04,BB-02,Vollstaendig,0.1888862866160444
+Bad Berleburg,BB-04,BB-03,Vollstaendig,0.1787298661982548
+Bad Berleburg,BB-04,BB-05,Vollstaendig,0.1808976768307706
+Bad Berleburg,BB-04,BB-06,Vollstaendig,0.1305539855693136
+Bad Berleburg,BB-04,BB-07,Vollstaendig,0.1190743396280652
+Bad Berleburg,BB-05,BB-01,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-05,BB-02,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-05,BB-03,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-05,BB-04,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-05,BB-06,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-05,BB-07,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-05,BB-01,1/d^2,0.0300948456686675
+Bad Berleburg,BB-05,BB-02,1/d^2,0.0735656490173768
+Bad Berleburg,BB-05,BB-03,1/d^2,0.0978422472491605
+Bad Berleburg,BB-05,BB-04,1/d^2,0.3754932876274596
+Bad Berleburg,BB-05,BB-06,1/d^2,0.3445262985585376
+Bad Berleburg,BB-05,BB-07,1/d^2,0.0784776718787978
+Bad Berleburg,BB-05,BB-01,Wald + Wind,0.2323940665842278
+Bad Berleburg,BB-05,BB-02,Wald + Wind,0.1484190069629346
+Bad Berleburg,BB-05,BB-03,Wald + Wind,0.1720897294507461
+Bad Berleburg,BB-05,BB-04,Wald + Wind,0.1912908193490836
+Bad Berleburg,BB-05,BB-06,Wald + Wind,0.1108172365862705
+Bad Berleburg,BB-05,BB-07,Wald + Wind,0.1449891410667372
+Bad Berleburg,BB-05,BB-01,Vollstaendig,0.2796345627169258
+Bad Berleburg,BB-05,BB-02,Vollstaendig,0.1624331858185885
+Bad Berleburg,BB-05,BB-03,Vollstaendig,0.1670135433326834
+Bad Berleburg,BB-05,BB-04,Vollstaendig,0.1724338738489449
+Bad Berleburg,BB-05,BB-06,Vollstaendig,0.1011734948271623
+Bad Berleburg,BB-05,BB-07,Vollstaendig,0.1173113394556949
+Bad Berleburg,BB-06,BB-01,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-06,BB-02,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-06,BB-03,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-06,BB-04,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-06,BB-05,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-06,BB-07,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-06,BB-01,1/d^2,0.0223593707629154
+Bad Berleburg,BB-06,BB-02,1/d^2,0.0442286227807495
+Bad Berleburg,BB-06,BB-03,1/d^2,0.053188658943676
+Bad Berleburg,BB-06,BB-04,1/d^2,0.1118758625261878
+Bad Berleburg,BB-06,BB-05,1/d^2,0.42867335942449
+Bad Berleburg,BB-06,BB-07,1/d^2,0.3396741255619812
+Bad Berleburg,BB-06,BB-01,Wald + Wind,0.197702591951426
+Bad Berleburg,BB-06,BB-02,Wald + Wind,0.1174370577837565
+Bad Berleburg,BB-06,BB-03,Wald + Wind,0.2115322216357678
+Bad Berleburg,BB-06,BB-04,Wald + Wind,0.1800390031550471
+Bad Berleburg,BB-06,BB-05,Wald + Wind,0.1914973014778405
+Bad Berleburg,BB-06,BB-07,Wald + Wind,0.1017918239961617
+Bad Berleburg,BB-06,BB-01,Vollstaendig,0.2111268412848812
+Bad Berleburg,BB-06,BB-02,Vollstaendig,0.117276835541975
+Bad Berleburg,BB-06,BB-03,Vollstaendig,0.2341432260044486
+Bad Berleburg,BB-06,BB-04,Vollstaendig,0.2064382866343262
+Bad Berleburg,BB-06,BB-05,Vollstaendig,0.1657979590114469
+Bad Berleburg,BB-06,BB-07,Vollstaendig,0.0652168515229219
+Bad Berleburg,BB-07,BB-01,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-07,BB-02,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-07,BB-03,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-07,BB-04,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-07,BB-05,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-07,BB-06,Gleichgewichtung,0.1666666666666666
+Bad Berleburg,BB-07,BB-01,1/d^2,0.0259408667292499
+Bad Berleburg,BB-07,BB-02,1/d^2,0.0464189963764613
+Bad Berleburg,BB-07,BB-03,1/d^2,0.0496637549660246
+Bad Berleburg,BB-07,BB-04,1/d^2,0.0842866545616911
+Bad Berleburg,BB-07,BB-05,1/d^2,0.1772158110583238
+Bad Berleburg,BB-07,BB-06,1/d^2,0.6164739163082491
+Bad Berleburg,BB-07,BB-01,Wald + Wind,0.1761753777848777
+Bad Berleburg,BB-07,BB-02,Wald + Wind,0.2482493560022866
+Bad Berleburg,BB-07,BB-03,Wald + Wind,0.1238725401543017
+Bad Berleburg,BB-07,BB-04,Wald + Wind,0.2037573803634003
+Bad Berleburg,BB-07,BB-05,Wald + Wind,0.1739905151529472
+Bad Berleburg,BB-07,BB-06,Wald + Wind,0.0739548305421862
+Bad Berleburg,BB-07,BB-01,Vollstaendig,0.1758193739081766
+Bad Berleburg,BB-07,BB-02,Vollstaendig,0.3298456462045373
+Bad Berleburg,BB-07,BB-03,Vollstaendig,0.0923591606917584
+Bad Berleburg,BB-07,BB-04,Vollstaendig,0.1679175870182183
+Bad Berleburg,BB-07,BB-05,Vollstaendig,0.1734854818088655
+Bad Berleburg,BB-07,BB-06,Vollstaendig,0.0605727503684436
+Borken-Coesfeld,BC-01,BC-02,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-01,BC-03,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-01,BC-04,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-01,BC-05,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-01,BC-06,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-01,BC-02,1/d^2,0.7872864692005189
+Borken-Coesfeld,BC-01,BC-03,1/d^2,0.0337612964010618
+Borken-Coesfeld,BC-01,BC-04,1/d^2,0.0372412871443873
+Borken-Coesfeld,BC-01,BC-05,1/d^2,0.0572429323471799
+Borken-Coesfeld,BC-01,BC-06,1/d^2,0.0844680149068518
+Borken-Coesfeld,BC-01,BC-02,Wald + Wind,0.2045563225928866
+Borken-Coesfeld,BC-01,BC-03,Wald + Wind,0.2130997206376419
+Borken-Coesfeld,BC-01,BC-04,Wald + Wind,0.1866054733677863
+Borken-Coesfeld,BC-01,BC-05,Wald + Wind,0.2282615394792634
+Borken-Coesfeld,BC-01,BC-06,Wald + Wind,0.1674769439224216
+Borken-Coesfeld,BC-01,BC-02,Vollstaendig,0.1823361940030266
+Borken-Coesfeld,BC-01,BC-03,Vollstaendig,0.2142153288020671
+Borken-Coesfeld,BC-01,BC-04,Vollstaendig,0.2061207773806121
+Borken-Coesfeld,BC-01,BC-05,Vollstaendig,0.2173613876796985
+Borken-Coesfeld,BC-01,BC-06,Vollstaendig,0.1799663121345955
+Borken-Coesfeld,BC-02,BC-01,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-02,BC-03,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-02,BC-04,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-02,BC-05,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-02,BC-06,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-02,BC-01,1/d^2,0.7915594759427351
+Borken-Coesfeld,BC-02,BC-03,1/d^2,0.0288407574532254
+Borken-Coesfeld,BC-02,BC-04,1/d^2,0.0326274843676245
+Borken-Coesfeld,BC-02,BC-05,1/d^2,0.0483459384024508
+Borken-Coesfeld,BC-02,BC-06,1/d^2,0.0986263438339639
+Borken-Coesfeld,BC-02,BC-01,Wald + Wind,0.2270998762224846
+Borken-Coesfeld,BC-02,BC-03,Wald + Wind,0.1824631295424896
+Borken-Coesfeld,BC-02,BC-04,Wald + Wind,0.1855072065187782
+Borken-Coesfeld,BC-02,BC-05,Wald + Wind,0.2574207011784684
+Borken-Coesfeld,BC-02,BC-06,Wald + Wind,0.1475090865377791
+Borken-Coesfeld,BC-02,BC-01,Vollstaendig,0.2284702328045519
+Borken-Coesfeld,BC-02,BC-03,Vollstaendig,0.1711882987001465
+Borken-Coesfeld,BC-02,BC-04,Vollstaendig,0.1891254657608535
+Borken-Coesfeld,BC-02,BC-05,Vollstaendig,0.2614053650952441
+Borken-Coesfeld,BC-02,BC-06,Vollstaendig,0.1498106376392036
+Borken-Coesfeld,BC-03,BC-01,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-03,BC-02,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-03,BC-04,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-03,BC-05,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-03,BC-06,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-03,BC-01,1/d^2,0.0091826712662576
+Borken-Coesfeld,BC-03,BC-02,1/d^2,0.0078019977317453
+Borken-Coesfeld,BC-03,BC-04,1/d^2,0.8167240093619648
+Borken-Coesfeld,BC-03,BC-05,1/d^2,0.1456512196666754
+Borken-Coesfeld,BC-03,BC-06,1/d^2,0.020640101973357
+Borken-Coesfeld,BC-03,BC-01,Wald + Wind,0.1926091285951915
+Borken-Coesfeld,BC-03,BC-02,Wald + Wind,0.1509693047996222
+Borken-Coesfeld,BC-03,BC-04,Wald + Wind,0.2521984185077209
+Borken-Coesfeld,BC-03,BC-05,Wald + Wind,0.1990521626850757
+Borken-Coesfeld,BC-03,BC-06,Wald + Wind,0.2051709854123896
+Borken-Coesfeld,BC-03,BC-01,Vollstaendig,0.2082499010075182
+Borken-Coesfeld,BC-03,BC-02,Vollstaendig,0.1360844906781645
+Borken-Coesfeld,BC-03,BC-04,Vollstaendig,0.2416788650274763
+Borken-Coesfeld,BC-03,BC-05,Vollstaendig,0.1895153491375141
+Borken-Coesfeld,BC-03,BC-06,Vollstaendig,0.2244713941493268
+Borken-Coesfeld,BC-04,BC-01,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-04,BC-02,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-04,BC-03,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-04,BC-05,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-04,BC-06,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-04,BC-01,1/d^2,0.0089339329643902
+Borken-Coesfeld,BC-04,BC-02,1/d^2,0.0077848604529189
+Borken-Coesfeld,BC-04,BC-03,1/d^2,0.7203497454998865
+Borken-Coesfeld,BC-04,BC-05,1/d^2,0.2380102678318192
+Borken-Coesfeld,BC-04,BC-06,1/d^2,0.024921193250985
+Borken-Coesfeld,BC-04,BC-01,Wald + Wind,0.1783115259213462
+Borken-Coesfeld,BC-04,BC-02,Wald + Wind,0.1608158155970415
+Borken-Coesfeld,BC-04,BC-03,Wald + Wind,0.2766630931387537
+Borken-Coesfeld,BC-04,BC-05,Wald + Wind,0.1984923053228704
+Borken-Coesfeld,BC-04,BC-06,Wald + Wind,0.1857172600199883
+Borken-Coesfeld,BC-04,BC-01,Vollstaendig,0.2085975642877107
+Borken-Coesfeld,BC-04,BC-02,Vollstaendig,0.1511587866580089
+Borken-Coesfeld,BC-04,BC-03,Vollstaendig,0.2572031330235486
+Borken-Coesfeld,BC-04,BC-05,Vollstaendig,0.1994377319781995
+Borken-Coesfeld,BC-04,BC-06,Vollstaendig,0.1836027840525322
+Borken-Coesfeld,BC-05,BC-01,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-05,BC-02,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-05,BC-03,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-05,BC-04,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-05,BC-06,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-05,BC-01,1/d^2,0.0316304059064577
+Borken-Coesfeld,BC-05,BC-02,1/d^2,0.0265700347065539
+Borken-Coesfeld,BC-05,BC-03,1/d^2,0.2959014514916323
+Borken-Coesfeld,BC-05,BC-04,1/d^2,0.5482271994422391
+Borken-Coesfeld,BC-05,BC-06,1/d^2,0.0976709084531167
+Borken-Coesfeld,BC-05,BC-01,Wald + Wind,0.211785966442342
+Borken-Coesfeld,BC-05,BC-02,Wald + Wind,0.2130473132838448
+Borken-Coesfeld,BC-05,BC-03,Wald + Wind,0.2044563349069632
+Borken-Coesfeld,BC-05,BC-04,Wald + Wind,0.1915328774092472
+Borken-Coesfeld,BC-05,BC-06,Wald + Wind,0.1791775079576026
+Borken-Coesfeld,BC-05,BC-01,Vollstaendig,0.2198668869892872
+Borken-Coesfeld,BC-05,BC-02,Vollstaendig,0.2086863839757279
+Borken-Coesfeld,BC-05,BC-03,Vollstaendig,0.1972442288496188
+Borken-Coesfeld,BC-05,BC-04,Vollstaendig,0.2003257103693888
+Borken-Coesfeld,BC-05,BC-06,Vollstaendig,0.1738767898159772
+Borken-Coesfeld,BC-06,BC-01,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-06,BC-02,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-06,BC-03,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-06,BC-04,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-06,BC-05,Gleichgewichtung,0.2
+Borken-Coesfeld,BC-06,BC-01,1/d^2,0.1566857605177488
+Borken-Coesfeld,BC-06,BC-02,1/d^2,0.181961459199895
+Borken-Coesfeld,BC-06,BC-03,1/d^2,0.1407664500048448
+Borken-Coesfeld,BC-06,BC-04,1/d^2,0.192702819184365
+Borken-Coesfeld,BC-06,BC-05,1/d^2,0.3278835110931462
+Borken-Coesfeld,BC-06,BC-01,Wald + Wind,0.1810797662864337
+Borken-Coesfeld,BC-06,BC-02,Wald + Wind,0.1457521306660811
+Borken-Coesfeld,BC-06,BC-03,Wald + Wind,0.251073024543433
+Borken-Coesfeld,BC-06,BC-04,Wald + Wind,0.2116412800043917
+Borken-Coesfeld,BC-06,BC-05,Wald + Wind,0.2104537984996601
+Borken-Coesfeld,BC-06,BC-01,Vollstaendig,0.2019721756490569
+Borken-Coesfeld,BC-06,BC-02,Vollstaendig,0.1344414479947823
+Borken-Coesfeld,BC-06,BC-03,Vollstaendig,0.2657893809849623
+Borken-Coesfeld,BC-06,BC-04,Vollstaendig,0.2061219691029636
+Borken-Coesfeld,BC-06,BC-05,Vollstaendig,0.1916750262682347
+Lorup,LO-01,LO-02,Gleichgewichtung,0.5
+Lorup,LO-01,LO-03,Gleichgewichtung,0.5
+Lorup,LO-01,LO-02,1/d^2,0.4941709436192891
+Lorup,LO-01,LO-03,1/d^2,0.5058290563807109
+Lorup,LO-01,LO-02,Wald + Wind,0.593361216243856
+Lorup,LO-01,LO-03,Wald + Wind,0.406638783756144
+Lorup,LO-01,LO-02,Vollstaendig,0.5977885522555058
+Lorup,LO-01,LO-03,Vollstaendig,0.4022114477444942
+Lorup,LO-02,LO-01,Gleichgewichtung,0.5
+Lorup,LO-02,LO-03,Gleichgewichtung,0.5
+Lorup,LO-02,LO-01,1/d^2,0.419619865677842
+Lorup,LO-02,LO-03,1/d^2,0.580380134322158
+Lorup,LO-02,LO-01,Wald + Wind,0.5161102426785636
+Lorup,LO-02,LO-03,Wald + Wind,0.4838897573214363
+Lorup,LO-02,LO-01,Vollstaendig,0.5176814708774422
+Lorup,LO-02,LO-03,Vollstaendig,0.4823185291225578
+Lorup,LO-03,LO-01,Gleichgewichtung,0.5
+Lorup,LO-03,LO-02,Gleichgewichtung,0.5
+Lorup,LO-03,LO-01,1/d^2,0.4253089389595512
+Lorup,LO-03,LO-02,1/d^2,0.5746910610404488
+Lorup,LO-03,LO-01,Wald + Wind,0.4233344964867152
+Lorup,LO-03,LO-02,Wald + Wind,0.5766655035132848
+Lorup,LO-03,LO-01,Vollstaendig,0.4205941230516444
+Lorup,LO-03,LO-02,Vollstaendig,0.5794058769483554
+Ostfriesland,OF-01,OF-02,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-01,OF-03,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-01,OF-04,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-01,OF-02,1/d^2,0.9513516213830588
+Ostfriesland,OF-01,OF-03,1/d^2,0.0344733485394269
+Ostfriesland,OF-01,OF-04,1/d^2,0.0141750300775142
+Ostfriesland,OF-01,OF-02,Wald + Wind,0.3691974784991398
+Ostfriesland,OF-01,OF-03,Wald + Wind,0.3588808365110045
+Ostfriesland,OF-01,OF-04,Wald + Wind,0.2719216849898557
+Ostfriesland,OF-01,OF-02,Vollstaendig,0.4630917476884502
+Ostfriesland,OF-01,OF-03,Vollstaendig,0.3291423287334416
+Ostfriesland,OF-01,OF-04,Vollstaendig,0.2077659235781082
+Ostfriesland,OF-02,OF-01,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-02,OF-03,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-02,OF-04,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-02,OF-01,1/d^2,0.930908528745291
+Ostfriesland,OF-02,OF-03,1/d^2,0.0514257284242081
+Ostfriesland,OF-02,OF-04,1/d^2,0.0176657428305007
+Ostfriesland,OF-02,OF-01,Wald + Wind,0.3733880456795269
+Ostfriesland,OF-02,OF-03,Wald + Wind,0.3496224849643346
+Ostfriesland,OF-02,OF-04,Wald + Wind,0.2769894693561383
+Ostfriesland,OF-02,OF-01,Vollstaendig,0.4485774311107924
+Ostfriesland,OF-02,OF-03,Vollstaendig,0.3295346762183663
+Ostfriesland,OF-02,OF-04,Vollstaendig,0.2218878926708411
+Ostfriesland,OF-03,OF-01,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-03,OF-02,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-03,OF-04,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-03,OF-01,1/d^2,0.2107130168834866
+Ostfriesland,OF-03,OF-02,1/d^2,0.3212346618430248
+Ostfriesland,OF-03,OF-04,1/d^2,0.4680523212734885
+Ostfriesland,OF-03,OF-01,Wald + Wind,0.386355595349917
+Ostfriesland,OF-03,OF-02,Wald + Wind,0.3728544538078246
+Ostfriesland,OF-03,OF-04,Wald + Wind,0.2407899508422583
+Ostfriesland,OF-03,OF-01,Vollstaendig,0.3451687373231564
+Ostfriesland,OF-03,OF-02,Vollstaendig,0.3588604462347938
+Ostfriesland,OF-03,OF-04,Vollstaendig,0.2959708164420498
+Ostfriesland,OF-04,OF-01,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-04,OF-02,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-04,OF-03,Gleichgewichtung,0.3333333333333333
+Ostfriesland,OF-04,OF-01,1/d^2,0.1302808544572293
+Ostfriesland,OF-04,OF-02,1/d^2,0.1659291034210697
+Ostfriesland,OF-04,OF-03,1/d^2,0.7037900421217009
+Ostfriesland,OF-04,OF-01,Wald + Wind,0.3530065804546437
+Ostfriesland,OF-04,OF-02,Wald + Wind,0.3571858920322657
+Ostfriesland,OF-04,OF-03,Wald + Wind,0.2898075275130906
+Ostfriesland,OF-04,OF-01,Vollstaendig,0.2891532429714769
+Ostfriesland,OF-04,OF-02,Vollstaendig,0.3220078011528152
+Ostfriesland,OF-04,OF-03,Vollstaendig,0.3888389558757079
+Paderborn,PA-01,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-01,PA-02,1/d^2,0.6437742441476502
+Paderborn,PA-01,PA-03,1/d^2,0.1138901944817364
+Paderborn,PA-01,PA-04,1/d^2,0.0950424213504993
+Paderborn,PA-01,PA-05,1/d^2,0.0383984744775108
+Paderborn,PA-01,PA-06,1/d^2,0.0217564974698758
+Paderborn,PA-01,PA-07,1/d^2,0.0234465539725403
+Paderborn,PA-01,PA-08,1/d^2,0.0243421289172533
+Paderborn,PA-01,PA-09,1/d^2,0.0095211810594726
+Paderborn,PA-01,PA-10,1/d^2,0.0127243813600039
+Paderborn,PA-01,PA-11,1/d^2,0.0088859445979888
+Paderborn,PA-01,PA-12,1/d^2,0.0082179781654682
+Paderborn,PA-01,PA-02,Wald + Wind,0.107907313251978
+Paderborn,PA-01,PA-03,Wald + Wind,0.15847392687344
+Paderborn,PA-01,PA-04,Wald + Wind,0.2019673310282356
+Paderborn,PA-01,PA-05,Wald + Wind,0.0821400368537742
+Paderborn,PA-01,PA-06,Wald + Wind,0.075211287345113
+Paderborn,PA-01,PA-07,Wald + Wind,0.0753224391521614
+Paderborn,PA-01,PA-08,Wald + Wind,0.086281912998718
+Paderborn,PA-01,PA-09,Wald + Wind,0.0534547037376826
+Paderborn,PA-01,PA-10,Wald + Wind,0.0597704744647951
+Paderborn,PA-01,PA-11,Wald + Wind,0.0556039322490784
+Paderborn,PA-01,PA-12,Wald + Wind,0.0438666420450233
+Paderborn,PA-01,PA-02,Vollstaendig,0.0723889378488466
+Paderborn,PA-01,PA-03,Vollstaendig,0.0958427642033108
+Paderborn,PA-01,PA-04,Vollstaendig,0.1305474220835723
+Paderborn,PA-01,PA-05,Vollstaendig,0.087200268649587
+Paderborn,PA-01,PA-06,Vollstaendig,0.1086685450772434
+Paderborn,PA-01,PA-07,Vollstaendig,0.0932303041426693
+Paderborn,PA-01,PA-08,Vollstaendig,0.0896183491268549
+Paderborn,PA-01,PA-09,Vollstaendig,0.0803835556690818
+Paderborn,PA-01,PA-10,Vollstaendig,0.093099188871007
+Paderborn,PA-01,PA-11,Vollstaendig,0.0763955417784824
+Paderborn,PA-01,PA-12,Vollstaendig,0.0726251225493439
+Paderborn,PA-02,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-02,PA-01,1/d^2,0.6609710929865416
+Paderborn,PA-02,PA-03,1/d^2,0.1287272589260782
+Paderborn,PA-02,PA-04,1/d^2,0.0728869433042021
+Paderborn,PA-02,PA-05,1/d^2,0.0350749100935536
+Paderborn,PA-02,PA-06,1/d^2,0.0191901917900273
+Paderborn,PA-02,PA-07,1/d^2,0.02211422485775
+Paderborn,PA-02,PA-08,1/d^2,0.0241463489052863
+Paderborn,PA-02,PA-09,1/d^2,0.0086297385806327
+Paderborn,PA-02,PA-10,1/d^2,0.0118998329843157
+Paderborn,PA-02,PA-11,1/d^2,0.0085325333224632
+Paderborn,PA-02,PA-12,1/d^2,0.0078269242491489
+Paderborn,PA-02,PA-01,Wald + Wind,0.126235223029505
+Paderborn,PA-02,PA-03,Wald + Wind,0.0871967058575852
+Paderborn,PA-02,PA-04,Wald + Wind,0.1428997506900309
+Paderborn,PA-02,PA-05,Wald + Wind,0.0720521439641286
+Paderborn,PA-02,PA-06,Wald + Wind,0.0675406167622384
+Paderborn,PA-02,PA-07,Wald + Wind,0.0858796564633504
+Paderborn,PA-02,PA-08,Wald + Wind,0.0651169787945186
+Paderborn,PA-02,PA-09,Wald + Wind,0.0617036636688918
+Paderborn,PA-02,PA-10,Wald + Wind,0.0718613341590863
+Paderborn,PA-02,PA-11,Wald + Wind,0.0929829743796597
+Paderborn,PA-02,PA-12,Wald + Wind,0.1265309522310047
+Paderborn,PA-02,PA-01,Vollstaendig,0.0726910284356032
+Paderborn,PA-02,PA-03,Vollstaendig,0.0908280147632574
+Paderborn,PA-02,PA-04,Vollstaendig,0.0806987717588944
+Paderborn,PA-02,PA-05,Vollstaendig,0.0852040028211064
+Paderborn,PA-02,PA-06,Vollstaendig,0.0767375734954504
+Paderborn,PA-02,PA-07,Vollstaendig,0.093163577001012
+Paderborn,PA-02,PA-08,Vollstaendig,0.0911922546215568
+Paderborn,PA-02,PA-09,Vollstaendig,0.0975857582842304
+Paderborn,PA-02,PA-10,Vollstaendig,0.081796263442023
+Paderborn,PA-02,PA-11,Vollstaendig,0.1101623290183303
+Paderborn,PA-02,PA-12,Vollstaendig,0.1199404263585355
+Paderborn,PA-03,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-03,PA-01,1/d^2,0.1235429220421381
+Paderborn,PA-03,PA-02,1/d^2,0.1360044715645985
+Paderborn,PA-03,PA-04,1/d^2,0.3407132352333502
+Paderborn,PA-03,PA-05,1/d^2,0.1411718418671468
+Paderborn,PA-03,PA-06,1/d^2,0.045812300711753
+Paderborn,PA-03,PA-07,1/d^2,0.0646289514817621
+Paderborn,PA-03,PA-08,1/d^2,0.0787273154082427
+Paderborn,PA-03,PA-09,1/d^2,0.014883855275538
+Paderborn,PA-03,PA-10,1/d^2,0.0245434112994972
+Paderborn,PA-03,PA-11,1/d^2,0.0159160219613886
+Paderborn,PA-03,PA-12,1/d^2,0.0140556731545844
+Paderborn,PA-03,PA-01,Wald + Wind,0.0719757519279451
+Paderborn,PA-03,PA-02,Wald + Wind,0.0345063861916893
+Paderborn,PA-03,PA-04,Wald + Wind,0.1081860503098524
+Paderborn,PA-03,PA-05,Wald + Wind,0.1194398080886799
+Paderborn,PA-03,PA-06,Wald + Wind,0.1192351661877589
+Paderborn,PA-03,PA-07,Wald + Wind,0.1177061225215889
+Paderborn,PA-03,PA-08,Wald + Wind,0.1475521472454649
+Paderborn,PA-03,PA-09,Wald + Wind,0.1024243490299699
+Paderborn,PA-03,PA-10,Wald + Wind,0.0768188994367479
+Paderborn,PA-03,PA-11,Wald + Wind,0.0624856996918472
+Paderborn,PA-03,PA-12,Wald + Wind,0.0396696193684551
+Paderborn,PA-03,PA-01,Vollstaendig,0.0728498832122211
+Paderborn,PA-03,PA-02,Vollstaendig,0.0683895389890424
+Paderborn,PA-03,PA-04,Vollstaendig,0.0857462552102053
+Paderborn,PA-03,PA-05,Vollstaendig,0.0984056935872079
+Paderborn,PA-03,PA-06,Vollstaendig,0.0907433811510523
+Paderborn,PA-03,PA-07,Vollstaendig,0.1029783814220562
+Paderborn,PA-03,PA-08,Vollstaendig,0.1132468064253865
+Paderborn,PA-03,PA-09,Vollstaendig,0.104836671583401
+Paderborn,PA-03,PA-10,Vollstaendig,0.0925324071620471
+Paderborn,PA-03,PA-11,Vollstaendig,0.0889401487775719
+Paderborn,PA-03,PA-12,Vollstaendig,0.0813308324798077
+Paderborn,PA-04,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-04,PA-01,1/d^2,0.0869399263484922
+Paderborn,PA-04,PA-02,1/d^2,0.064938558573862
+Paderborn,PA-04,PA-03,1/d^2,0.2873156256302024
+Paderborn,PA-04,PA-05,1/d^2,0.2477009806727644
+Paderborn,PA-04,PA-06,1/d^2,0.0716238894113033
+Paderborn,PA-04,PA-07,1/d^2,0.0825502134645002
+Paderborn,PA-04,PA-08,1/d^2,0.0802133563522744
+Paderborn,PA-04,PA-09,1/d^2,0.017860690826969
+Paderborn,PA-04,PA-10,1/d^2,0.028924370882448
+Paderborn,PA-04,PA-11,1/d^2,0.0168635389756572
+Paderborn,PA-04,PA-12,1/d^2,0.0150688488615262
+Paderborn,PA-04,PA-01,Wald + Wind,0.1021877149234559
+Paderborn,PA-04,PA-02,Wald + Wind,0.0628060988829231
+Paderborn,PA-04,PA-03,Wald + Wind,0.1209183780959678
+Paderborn,PA-04,PA-05,Wald + Wind,0.1160458041175108
+Paderborn,PA-04,PA-06,Wald + Wind,0.1143160072536215
+Paderborn,PA-04,PA-07,Wald + Wind,0.1021800509247757
+Paderborn,PA-04,PA-08,Wald + Wind,0.1029635980436316
+Paderborn,PA-04,PA-09,Wald + Wind,0.0879922410030081
+Paderborn,PA-04,PA-10,Wald + Wind,0.0867001920466372
+Paderborn,PA-04,PA-11,Wald + Wind,0.061191357895201
+Paderborn,PA-04,PA-12,Wald + Wind,0.0426985568132672
+Paderborn,PA-04,PA-01,Vollstaendig,0.1048679481898592
+Paderborn,PA-04,PA-02,Vollstaendig,0.0659152254394069
+Paderborn,PA-04,PA-03,Vollstaendig,0.0918481831814885
+Paderborn,PA-04,PA-05,Vollstaendig,0.0927126491856792
+Paderborn,PA-04,PA-06,Vollstaendig,0.1144358900474417
+Paderborn,PA-04,PA-07,Vollstaendig,0.0992002553577808
+Paderborn,PA-04,PA-08,Vollstaendig,0.0936793134539847
+Paderborn,PA-04,PA-09,Vollstaendig,0.0887206213772053
+Paderborn,PA-04,PA-10,Vollstaendig,0.0994100858499841
+Paderborn,PA-04,PA-11,Vollstaendig,0.0776226997592423
+Paderborn,PA-04,PA-12,Vollstaendig,0.071587128157927
+Paderborn,PA-05,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-05,PA-01,1/d^2,0.0217840877553838
+Paderborn,PA-05,PA-02,1/d^2,0.0193808626972104
+Paderborn,PA-05,PA-03,1/d^2,0.0738315444926483
+Paderborn,PA-05,PA-04,1/d^2,0.1536212721674145
+Paderborn,PA-05,PA-06,1/d^2,0.1225062404377939
+Paderborn,PA-05,PA-07,1/d^2,0.2782897733895206
+Paderborn,PA-05,PA-08,1/d^2,0.2424772239474935
+Paderborn,PA-05,PA-09,1/d^2,0.0168268332724868
+Paderborn,PA-05,PA-10,1/d^2,0.0374271143274425
+Paderborn,PA-05,PA-11,1/d^2,0.0183509612815463
+Paderborn,PA-05,PA-12,1/d^2,0.0155040862310588
+Paderborn,PA-05,PA-01,Wald + Wind,0.0261133165134519
+Paderborn,PA-05,PA-02,Wald + Wind,0.0197445927562435
+Paderborn,PA-05,PA-03,Wald + Wind,0.0854816712973128
+Paderborn,PA-05,PA-04,Wald + Wind,0.0737580632266516
+Paderborn,PA-05,PA-06,Wald + Wind,0.1481103388639395
+Paderborn,PA-05,PA-07,Wald + Wind,0.1954527095750843
+Paderborn,PA-05,PA-08,Wald + Wind,0.1336241055961623
+Paderborn,PA-05,PA-09,Wald + Wind,0.0976196552760105
+Paderborn,PA-05,PA-10,Wald + Wind,0.0694304880657105
+Paderborn,PA-05,PA-11,Wald + Wind,0.0998885399087448
+Paderborn,PA-05,PA-12,Wald + Wind,0.0507765189206877
+Paderborn,PA-05,PA-01,Vollstaendig,0.0631050209095139
+Paderborn,PA-05,PA-02,Vollstaendig,0.0610912689118269
+Paderborn,PA-05,PA-03,Vollstaendig,0.0949722171386796
+Paderborn,PA-05,PA-04,Vollstaendig,0.0830454089407632
+Paderborn,PA-05,PA-06,Vollstaendig,0.0995880237554348
+Paderborn,PA-05,PA-07,Vollstaendig,0.1188125479687943
+Paderborn,PA-05,PA-08,Vollstaendig,0.1083795552050691
+Paderborn,PA-05,PA-09,Vollstaendig,0.1007641010690683
+Paderborn,PA-05,PA-10,Vollstaendig,0.0892323130982981
+Paderborn,PA-05,PA-11,Vollstaendig,0.0964609909447209
+Paderborn,PA-05,PA-12,Vollstaendig,0.0845485520578305
+Paderborn,PA-06,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-06,PA-01,1/d^2,0.015734633147738
+Paderborn,PA-06,PA-02,1/d^2,0.0135175532057695
+Paderborn,PA-06,PA-03,1/d^2,0.030543458354558
+Paderborn,PA-06,PA-04,1/d^2,0.0566270276772888
+Paderborn,PA-06,PA-05,1/d^2,0.1561710198028811
+Paderborn,PA-06,PA-07,1/d^2,0.3153360761260043
+Paderborn,PA-06,PA-08,1/d^2,0.1206946075823851
+Paderborn,PA-06,PA-09,1/d^2,0.0536564850424944
+Paderborn,PA-06,PA-10,1/d^2,0.1525965133991042
+Paderborn,PA-06,PA-11,1/d^2,0.0458857158040245
+Paderborn,PA-06,PA-12,1/d^2,0.0392369098577516
+Paderborn,PA-06,PA-01,Wald + Wind,0.022092205633223
+Paderborn,PA-06,PA-02,Wald + Wind,0.0171900484446057
+Paderborn,PA-06,PA-03,Wald + Wind,0.0751304205503507
+Paderborn,PA-06,PA-04,Wald + Wind,0.0645465620881785
+Paderborn,PA-06,PA-05,Wald + Wind,0.1244018517464281
+Paderborn,PA-06,PA-07,Wald + Wind,0.1318002903630352
+Paderborn,PA-06,PA-08,Wald + Wind,0.146838474858033
+Paderborn,PA-06,PA-09,Wald + Wind,0.1448396623416413
+Paderborn,PA-06,PA-10,Wald + Wind,0.1237753770065663
+Paderborn,PA-06,PA-11,Wald + Wind,0.0978780261254309
+Paderborn,PA-06,PA-12,Wald + Wind,0.0515070808425068
+Paderborn,PA-06,PA-01,Vollstaendig,0.0788308790949431
+Paderborn,PA-06,PA-02,Vollstaendig,0.0561605313221432
+Paderborn,PA-06,PA-03,Vollstaendig,0.086803506028275
+Paderborn,PA-06,PA-04,Vollstaendig,0.1023771918857006
+Paderborn,PA-06,PA-05,Vollstaendig,0.0982475219684886
+Paderborn,PA-06,PA-07,Vollstaendig,0.107699634766663
+Paderborn,PA-06,PA-08,Vollstaendig,0.1022033649045385
+Paderborn,PA-06,PA-09,Vollstaendig,0.0987993659390576
+Paderborn,PA-06,PA-10,Vollstaendig,0.1054842692410501
+Paderborn,PA-06,PA-11,Vollstaendig,0.0868070244268414
+Paderborn,PA-06,PA-12,Vollstaendig,0.0765867104222984
+Paderborn,PA-07,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-07,PA-01,1/d^2,0.0091931211788611
+Paderborn,PA-07,PA-02,1/d^2,0.00844513925778
+Paderborn,PA-07,PA-03,1/d^2,0.0233603603911947
+Paderborn,PA-07,PA-04,1/d^2,0.0353834672699345
+Paderborn,PA-07,PA-05,1/d^2,0.1923338844920521
+Paderborn,PA-07,PA-06,1/d^2,0.1709582174472846
+Paderborn,PA-07,PA-08,1/d^2,0.4437969652031133
+Paderborn,PA-07,PA-09,1/d^2,0.0171594225683362
+Paderborn,PA-07,PA-10,1/d^2,0.0589282782388673
+Paderborn,PA-07,PA-11,1/d^2,0.0226184551401825
+Paderborn,PA-07,PA-12,1/d^2,0.0178226888123932
+Paderborn,PA-07,PA-01,Wald + Wind,0.0239653673446972
+Paderborn,PA-07,PA-02,Wald + Wind,0.0235228547033373
+Paderborn,PA-07,PA-03,Wald + Wind,0.0797077346798685
+Paderborn,PA-07,PA-04,Wald + Wind,0.0621274271450627
+Paderborn,PA-07,PA-05,Wald + Wind,0.1682562149441572
+Paderborn,PA-07,PA-06,Wald + Wind,0.1403553080602148
+Paderborn,PA-07,PA-08,Wald + Wind,0.1402695023922898
+Paderborn,PA-07,PA-09,Wald + Wind,0.1249818536138133
+Paderborn,PA-07,PA-10,Wald + Wind,0.0745121686601953
+Paderborn,PA-07,PA-11,Wald + Wind,0.1032748818673064
+Paderborn,PA-07,PA-12,Wald + Wind,0.0590266865890572
+Paderborn,PA-07,PA-01,Vollstaendig,0.0642702372547591
+Paderborn,PA-07,PA-02,Vollstaendig,0.0634857084747639
+Paderborn,PA-07,PA-03,Vollstaendig,0.0923972043808393
+Paderborn,PA-07,PA-04,Vollstaendig,0.0834921173133934
+Paderborn,PA-07,PA-05,Vollstaendig,0.1085172340968708
+Paderborn,PA-07,PA-06,Vollstaendig,0.1011382484450986
+Paderborn,PA-07,PA-08,Vollstaendig,0.108401960644665
+Paderborn,PA-07,PA-09,Vollstaendig,0.1058782583692714
+Paderborn,PA-07,PA-10,Vollstaendig,0.0930962515243628
+Paderborn,PA-07,PA-11,Vollstaendig,0.0939534781332953
+Paderborn,PA-07,PA-12,Vollstaendig,0.08536930136268
+Paderborn,PA-08,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-08,PA-01,1/d^2,0.0113680037014762
+Paderborn,PA-08,PA-02,1/d^2,0.0109831837924281
+Paderborn,PA-08,PA-03,1/d^2,0.0338937448649996
+Paderborn,PA-08,PA-04,1/d^2,0.0409515704503104
+Paderborn,PA-08,PA-05,1/d^2,0.1996048972384018
+Paderborn,PA-08,PA-06,1/d^2,0.0779373928888204
+Paderborn,PA-08,PA-07,1/d^2,0.5285986058185309
+Paderborn,PA-08,PA-09,1/d^2,0.0147389903484145
+Paderborn,PA-08,PA-10,1/d^2,0.0435304448969765
+Paderborn,PA-08,PA-11,1/d^2,0.0215193956340635
+Paderborn,PA-08,PA-12,1/d^2,0.0168737703655775
+Paderborn,PA-08,PA-01,Wald + Wind,0.0267815941620475
+Paderborn,PA-08,PA-02,Wald + Wind,0.0175536676469214
+Paderborn,PA-08,PA-03,Wald + Wind,0.0988628140291817
+Paderborn,PA-08,PA-04,Wald + Wind,0.0618143780757812
+Paderborn,PA-08,PA-05,Wald + Wind,0.1214765192081764
+Paderborn,PA-08,PA-06,Wald + Wind,0.1578890355535144
+Paderborn,PA-08,PA-07,Wald + Wind,0.1413667565837348
+Paderborn,PA-08,PA-09,Wald + Wind,0.1084346957036603
+Paderborn,PA-08,PA-10,Wald + Wind,0.1100029691639697
+Paderborn,PA-08,PA-11,Wald + Wind,0.1038870672248171
+Paderborn,PA-08,PA-12,Wald + Wind,0.0519305026481949
+Paderborn,PA-08,PA-01,Vollstaendig,0.0618836139408386
+Paderborn,PA-08,PA-02,Vollstaendig,0.0622414979572238
+Paderborn,PA-08,PA-03,Vollstaendig,0.1022229557627002
+Paderborn,PA-08,PA-04,Vollstaendig,0.0791778642935226
+Paderborn,PA-08,PA-05,Vollstaendig,0.1007009019803117
+Paderborn,PA-08,PA-06,Vollstaendig,0.0968055843800574
+Paderborn,PA-08,PA-07,Vollstaendig,0.1095890925578201
+Paderborn,PA-08,PA-09,Vollstaendig,0.1063061522296818
+Paderborn,PA-08,PA-10,Vollstaendig,0.0956197028886892
+Paderborn,PA-08,PA-11,Vollstaendig,0.0982479455247649
+Paderborn,PA-08,PA-12,Vollstaendig,0.0872046884843891
+Paderborn,PA-09,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-09,PA-01,1/d^2,0.0139043149539523
+Paderborn,PA-09,PA-02,1/d^2,0.0122746055219934
+Paderborn,PA-09,PA-03,1/d^2,0.0200374603791372
+Paderborn,PA-09,PA-04,1/d^2,0.0285138098827929
+Paderborn,PA-09,PA-05,1/d^2,0.0433147445141067
+Paderborn,PA-09,PA-06,1/d^2,0.1083461168374998
+Paderborn,PA-09,PA-07,1/d^2,0.0639112746222204
+Paderborn,PA-09,PA-08,1/d^2,0.0460893792520265
+Paderborn,PA-09,PA-10,1/d^2,0.2248614039514313
+Paderborn,PA-09,PA-11,1/d^2,0.1846838254828979
+Paderborn,PA-09,PA-12,1/d^2,0.2540630646019408
+Paderborn,PA-09,PA-01,Wald + Wind,0.0189194478502973
+Paderborn,PA-09,PA-02,Wald + Wind,0.0188696781910353
+Paderborn,PA-09,PA-03,Wald + Wind,0.0785870751763687
+Paderborn,PA-09,PA-04,Wald + Wind,0.0600554018749062
+Paderborn,PA-09,PA-05,Wald + Wind,0.1039676165536283
+Paderborn,PA-09,PA-06,Wald + Wind,0.1796867144630956
+Paderborn,PA-09,PA-07,Wald + Wind,0.1441965975497813
+Paderborn,PA-09,PA-08,Wald + Wind,0.1243595052390646
+Paderborn,PA-09,PA-10,Wald + Wind,0.1194921667248868
+Paderborn,PA-09,PA-11,Wald + Wind,0.0963976314817972
+Paderborn,PA-09,PA-12,Wald + Wind,0.0554681648951384
+Paderborn,PA-09,PA-01,Vollstaendig,0.0572802523967076
+Paderborn,PA-09,PA-02,Vollstaendig,0.0682469194899175
+Paderborn,PA-09,PA-03,Vollstaendig,0.0978441050065582
+Paderborn,PA-09,PA-04,Vollstaendig,0.0772379636567545
+Paderborn,PA-09,PA-05,Vollstaendig,0.097158086463001
+Paderborn,PA-09,PA-06,Vollstaendig,0.0966313364157738
+Paderborn,PA-09,PA-07,Vollstaendig,0.1106726744465559
+Paderborn,PA-09,PA-08,Vollstaendig,0.1099744771552537
+Paderborn,PA-09,PA-10,Vollstaendig,0.0929741247425596
+Paderborn,PA-09,PA-11,Vollstaendig,0.1008742493626342
+Paderborn,PA-09,PA-12,Vollstaendig,0.0911058108642836
+Paderborn,PA-10,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-10,PA-01,1/d^2,0.0099672620060987
+Paderborn,PA-10,PA-02,1/d^2,0.0090788574061674
+Paderborn,PA-10,PA-03,1/d^2,0.0177232183750473
+Paderborn,PA-10,PA-04,1/d^2,0.0247685933836389
+Paderborn,PA-10,PA-05,1/d^2,0.0516773380319544
+Paderborn,PA-10,PA-06,1/d^2,0.1652784256217661
+Paderborn,PA-10,PA-07,1/d^2,0.1177277887750656
+Paderborn,PA-10,PA-08,1/d^2,0.0730140864027753
+Paderborn,PA-10,PA-09,1/d^2,0.1206133397251569
+Paderborn,PA-10,PA-11,1/d^2,0.2436460925622825
+Paderborn,PA-10,PA-12,1/d^2,0.1665049977100464
+Paderborn,PA-10,PA-01,Wald + Wind,0.0235481924627475
+Paderborn,PA-10,PA-02,Wald + Wind,0.0244121182582825
+Paderborn,PA-10,PA-03,Wald + Wind,0.0656457399852972
+Paderborn,PA-10,PA-04,Wald + Wind,0.0658987172590477
+Paderborn,PA-10,PA-05,Wald + Wind,0.0836530003706739
+Paderborn,PA-10,PA-06,Wald + Wind,0.169974508227481
+Paderborn,PA-10,PA-07,Wald + Wind,0.0938410891649469
+Paderborn,PA-10,PA-08,Wald + Wind,0.1404927912889659
+Paderborn,PA-10,PA-09,Wald + Wind,0.1330480414798049
+Paderborn,PA-10,PA-11,Wald + Wind,0.1260143893809394
+Paderborn,PA-10,PA-12,Wald + Wind,0.0734714121218126
+Paderborn,PA-10,PA-01,Vollstaendig,0.0704180244928742
+Paderborn,PA-10,PA-02,Vollstaendig,0.0616171854319504
+Paderborn,PA-10,PA-03,Vollstaendig,0.092001744485889
+Paderborn,PA-10,PA-04,Vollstaendig,0.0924271737936314
+Paderborn,PA-10,PA-05,Vollstaendig,0.0921956033218738
+Paderborn,PA-10,PA-06,Vollstaendig,0.1100607262711984
+Paderborn,PA-10,PA-07,Vollstaendig,0.103188093291205
+Paderborn,PA-10,PA-08,Vollstaendig,0.1052461999705346
+Paderborn,PA-10,PA-09,Vollstaendig,0.0990506565123264
+Paderborn,PA-10,PA-11,Vollstaendig,0.0916078765711433
+Paderborn,PA-10,PA-12,Vollstaendig,0.0821867158573731
+Paderborn,PA-11,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-12,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-11,PA-01,1/d^2,0.0034480933358425
+Paderborn,PA-11,PA-02,1/d^2,0.0032248130024539
+Paderborn,PA-11,PA-03,1/d^2,0.0056934879679647
+Paderborn,PA-11,PA-04,1/d^2,0.0071535621862794
+Paderborn,PA-11,PA-05,1/d^2,0.0125518813054147
+Paderborn,PA-11,PA-06,1/d^2,0.0246198431449916
+Paderborn,PA-11,PA-07,1/d^2,0.0223848602788554
+Paderborn,PA-11,PA-08,1/d^2,0.0178805072021779
+Paderborn,PA-11,PA-09,1/d^2,0.0490733268312394
+Paderborn,PA-11,PA-10,1/d^2,0.1206967747417154
+Paderborn,PA-11,PA-12,1/d^2,0.7332728500030644
+Paderborn,PA-11,PA-01,Wald + Wind,0.0200611712850626
+Paderborn,PA-11,PA-02,Wald + Wind,0.0287331543015169
+Paderborn,PA-11,PA-03,Wald + Wind,0.0488979318404831
+Paderborn,PA-11,PA-04,Wald + Wind,0.0423993231916277
+Paderborn,PA-11,PA-05,Wald + Wind,0.1084849714000998
+Paderborn,PA-11,PA-06,Wald + Wind,0.1224600041427658
+Paderborn,PA-11,PA-07,Wald + Wind,0.1206267049695688
+Paderborn,PA-11,PA-08,Wald + Wind,0.1215987659292159
+Paderborn,PA-11,PA-09,Wald + Wind,0.0984091475430169
+Paderborn,PA-11,PA-10,Wald + Wind,0.1155608869350358
+Paderborn,PA-11,PA-12,Wald + Wind,0.1727679384616064
+Paderborn,PA-11,PA-01,Vollstaendig,0.0562438228883147
+Paderborn,PA-11,PA-02,Vollstaendig,0.0788550679727763
+Paderborn,PA-11,PA-03,Vollstaendig,0.0856847954574388
+Paderborn,PA-11,PA-04,Vollstaendig,0.0695720991967607
+Paderborn,PA-11,PA-05,Vollstaendig,0.0962391202766324
+Paderborn,PA-11,PA-06,Vollstaendig,0.087428865017862
+Paderborn,PA-11,PA-07,Vollstaendig,0.1009687699059802
+Paderborn,PA-11,PA-08,Vollstaendig,0.1048552731202845
+Paderborn,PA-11,PA-09,Vollstaendig,0.1041659697663916
+Paderborn,PA-11,PA-10,Vollstaendig,0.0887697352215668
+Paderborn,PA-11,PA-12,Vollstaendig,0.1272164811759915
+Paderborn,PA-12,PA-01,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-02,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-03,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-04,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-05,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-06,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-07,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-08,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-09,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-10,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-11,Gleichgewichtung,0.0909090909090909
+Paderborn,PA-12,PA-01,1/d^2,0.0033074773967908
+Paderborn,PA-12,PA-02,1/d^2,0.0030681328720356
+Paderborn,PA-12,PA-03,1/d^2,0.0052149724331338
+Paderborn,PA-12,PA-04,1/d^2,0.0066299492342708
+Paderborn,PA-12,PA-05,1/d^2,0.0109989865239523
+Paderborn,PA-12,PA-06,1/d^2,0.0218352946807822
+Paderborn,PA-12,PA-07,1/d^2,0.0182945260662661
+Paderborn,PA-12,PA-08,1/d^2,0.0145418073966778
+Paderborn,PA-12,PA-09,1/d^2,0.0700187997061687
+Paderborn,PA-12,PA-10,1/d^2,0.0855499928626719
+Paderborn,PA-12,PA-11,1/d^2,0.7605400608272496
+Paderborn,PA-12,PA-01,Wald + Wind,0.0245546539520227
+Paderborn,PA-12,PA-02,Wald + Wind,0.0595405835128708
+Paderborn,PA-12,PA-03,Wald + Wind,0.0478289986264057
+Paderborn,PA-12,PA-04,Wald + Wind,0.0454668984503703
+Paderborn,PA-12,PA-05,Wald + Wind,0.0865715786930517
+Paderborn,PA-12,PA-06,Wald + Wind,0.097022384795132
+Paderborn,PA-12,PA-07,Wald + Wind,0.1031310944583387
+Paderborn,PA-12,PA-08,Wald + Wind,0.0921023084232138
+Paderborn,PA-12,PA-09,Wald + Wind,0.0865151753499947
+Paderborn,PA-12,PA-10,Wald + Wind,0.1025487207714016
+Paderborn,PA-12,PA-11,Wald + Wind,0.2547176029671974
+Paderborn,PA-12,PA-01,Vollstaendig,0.0582884195579781
+Paderborn,PA-12,PA-02,Vollstaendig,0.0919678255529425
+Paderborn,PA-12,PA-03,Vollstaendig,0.0846477511881462
+Paderborn,PA-12,PA-04,Vollstaendig,0.0695380244460406
+Paderborn,PA-12,PA-05,Vollstaendig,0.0914875552524855
+Paderborn,PA-12,PA-06,Vollstaendig,0.0831876722581677
+Paderborn,PA-12,PA-07,Vollstaendig,0.0984030955557669
+Paderborn,PA-12,PA-08,Vollstaendig,0.0999550474381969
+Paderborn,PA-12,PA-09,Vollstaendig,0.1011388898894309
+Paderborn,PA-12,PA-10,Vollstaendig,0.0859997318785694
+Paderborn,PA-12,PA-11,Vollstaendig,0.1353859869822747
+Rheda-Beckum,RB-01,RB-02,Gleichgewichtung,0.25
+Rheda-Beckum,RB-01,RB-03,Gleichgewichtung,0.25
+Rheda-Beckum,RB-01,RB-04,Gleichgewichtung,0.25
+Rheda-Beckum,RB-01,RB-05,Gleichgewichtung,0.25
+Rheda-Beckum,RB-01,RB-02,1/d^2,0.7909641744570663
+Rheda-Beckum,RB-01,RB-03,1/d^2,0.201265112727007
+Rheda-Beckum,RB-01,RB-04,1/d^2,0.0042729495160896
+Rheda-Beckum,RB-01,RB-05,1/d^2,0.003497763299837
+Rheda-Beckum,RB-01,RB-02,Wald + Wind,0.3421732389543511
+Rheda-Beckum,RB-01,RB-03,Wald + Wind,0.3202488964905491
+Rheda-Beckum,RB-01,RB-04,Wald + Wind,0.1602847101400746
+Rheda-Beckum,RB-01,RB-05,Wald + Wind,0.1772931544150252
+Rheda-Beckum,RB-01,RB-02,Vollstaendig,0.331359619877223
+Rheda-Beckum,RB-01,RB-03,Vollstaendig,0.2941501600753237
+Rheda-Beckum,RB-01,RB-04,Vollstaendig,0.1754967237022252
+Rheda-Beckum,RB-01,RB-05,Vollstaendig,0.198993496345228
+Rheda-Beckum,RB-02,RB-01,Gleichgewichtung,0.25
+Rheda-Beckum,RB-02,RB-03,Gleichgewichtung,0.25
+Rheda-Beckum,RB-02,RB-04,Gleichgewichtung,0.25
+Rheda-Beckum,RB-02,RB-05,Gleichgewichtung,0.25
+Rheda-Beckum,RB-02,RB-01,1/d^2,0.7571226140964644
+Rheda-Beckum,RB-02,RB-03,1/d^2,0.23534745998262
+Rheda-Beckum,RB-02,RB-04,1/d^2,0.0041390958118685
+Rheda-Beckum,RB-02,RB-05,1/d^2,0.0033908301090469
+Rheda-Beckum,RB-02,RB-01,Wald + Wind,0.3306779587629999
+Rheda-Beckum,RB-02,RB-03,Wald + Wind,0.3524628006992864
+Rheda-Beckum,RB-02,RB-04,Wald + Wind,0.1502880029496743
+Rheda-Beckum,RB-02,RB-05,Wald + Wind,0.1665712375880394
+Rheda-Beckum,RB-02,RB-01,Vollstaendig,0.3171685027952284
+Rheda-Beckum,RB-02,RB-03,Vollstaendig,0.3178512494596954
+Rheda-Beckum,RB-02,RB-04,Vollstaendig,0.1712168632098666
+Rheda-Beckum,RB-02,RB-05,Vollstaendig,0.1937633845352096
+Rheda-Beckum,RB-03,RB-01,Gleichgewichtung,0.25
+Rheda-Beckum,RB-03,RB-02,Gleichgewichtung,0.25
+Rheda-Beckum,RB-03,RB-04,Gleichgewichtung,0.25
+Rheda-Beckum,RB-03,RB-05,Gleichgewichtung,0.25
+Rheda-Beckum,RB-03,RB-01,1/d^2,0.4399964532522473
+Rheda-Beckum,RB-03,RB-02,1/d^2,0.5375028674878699
+Rheda-Beckum,RB-03,RB-04,1/d^2,0.0125307885483815
+Rheda-Beckum,RB-03,RB-05,1/d^2,0.0099698907115011
+Rheda-Beckum,RB-03,RB-01,Wald + Wind,0.3040981485444551
+Rheda-Beckum,RB-03,RB-02,Wald + Wind,0.3425673668774149
+Rheda-Beckum,RB-03,RB-04,Wald + Wind,0.166251069584375
+Rheda-Beckum,RB-03,RB-05,Wald + Wind,0.1870834149937548
+Rheda-Beckum,RB-03,RB-01,Vollstaendig,0.2710653040073293
+Rheda-Beckum,RB-03,RB-02,Vollstaendig,0.3028709852430536
+Rheda-Beckum,RB-03,RB-04,Vollstaendig,0.1987378143757082
+Rheda-Beckum,RB-03,RB-05,Vollstaendig,0.2273258963739087
+Rheda-Beckum,RB-04,RB-01,Gleichgewichtung,0.25
+Rheda-Beckum,RB-04,RB-02,Gleichgewichtung,0.25
+Rheda-Beckum,RB-04,RB-03,Gleichgewichtung,0.25
+Rheda-Beckum,RB-04,RB-05,Gleichgewichtung,0.25
+Rheda-Beckum,RB-04,RB-01,1/d^2,0.0108053574001463
+Rheda-Beckum,RB-04,RB-02,1/d^2,0.0109347145228304
+Rheda-Beckum,RB-04,RB-03,1/d^2,0.0144946956634615
+Rheda-Beckum,RB-04,RB-05,1/d^2,0.9637652324135616
+Rheda-Beckum,RB-04,RB-01,Wald + Wind,0.1978662746139865
+Rheda-Beckum,RB-04,RB-02,Wald + Wind,0.1934516193428379
+Rheda-Beckum,RB-04,RB-03,Wald + Wind,0.2087052769204273
+Rheda-Beckum,RB-04,RB-05,Wald + Wind,0.3999768291227481
+Rheda-Beckum,RB-04,RB-01,Vollstaendig,0.199127896980125
+Rheda-Beckum,RB-04,RB-02,Vollstaendig,0.2045058715082608
+Rheda-Beckum,RB-04,RB-03,Vollstaendig,0.239139975644206
+Rheda-Beckum,RB-04,RB-05,Vollstaendig,0.3572262558674082
+Rheda-Beckum,RB-05,RB-01,Gleichgewichtung,0.25
+Rheda-Beckum,RB-05,RB-02,Gleichgewichtung,0.25
+Rheda-Beckum,RB-05,RB-03,Gleichgewichtung,0.25
+Rheda-Beckum,RB-05,RB-04,Gleichgewichtung,0.25
+Rheda-Beckum,RB-05,RB-01,1/d^2,0.0089065294606797
+Rheda-Beckum,RB-05,RB-02,1/d^2,0.0090201699070048
+Rheda-Beckum,RB-05,RB-03,1/d^2,0.0116125558297835
+Rheda-Beckum,RB-05,RB-04,1/d^2,0.970460744802532
+Rheda-Beckum,RB-05,RB-01,Wald + Wind,0.2047003469133458
+Rheda-Beckum,RB-05,RB-02,Wald + Wind,0.2003980907948457
+Rheda-Beckum,RB-05,RB-03,Wald + Wind,0.2208066827002742
+Rheda-Beckum,RB-05,RB-04,Wald + Wind,0.374094879591534
+Rheda-Beckum,RB-05,RB-01,Vollstaendig,0.2071075749160897
+Rheda-Beckum,RB-05,RB-02,Vollstaendig,0.2120389385425513
+Rheda-Beckum,RB-05,RB-03,Vollstaendig,0.2531829604184324
+Rheda-Beckum,RB-05,RB-04,Vollstaendig,0.3276705261229266

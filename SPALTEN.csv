@@ -1,0 +1,204 @@
+﻿datei,spalte,einheit,bedeutung,fehlende_werte
+A1_positionen.csv,position,Kennung,Positionskennung dieser Beigabe; Verbindung zu A1.,0
+A1_positionen.csv,standort,Kategorie,Untersuchungsstandort.,0
+A1_positionen.csv,cluster,Kennung,Standortkürzel und zweistellige Clusternummer; Verbindung zu A2.,0
+A1_positionen.csv,anlagentyp,Typbezeichnung,Technische Typbezeichnung der WEA einschließlich gegebenenfalls enthaltener Nennleistung; bei LiDAR nicht anwendbar. Keine individuelle Anlagenbeschreibung.,7
+A1_positionen.csv,naben_oder_messhoehe_m,m,Nabenhöhe einer WEA bzw. LiDAR-Auswertehöhe über Gelände.,0
+A1_positionen.csv,rotordurchmesser_m,m,Rotordurchmesser; bei LiDAR nicht anwendbar und deshalb leer.,7
+A1_positionen.csv,ostwert_utm32_m,m,Ostwert in ETRS89/UTM Zone 32N (EPSG:25832).,0
+A1_positionen.csv,nordwert_utm32_m,m,Nordwert in ETRS89/UTM Zone 32N (EPSG:25832).,0
+A1_positionen.csv,rix_prozent,%,RIX der Position; 3 entspricht 3 Prozent.,0
+A1_positionen.csv,gelaendehoehe_dgm_m,m,Geländehöhe aus dem für die Prädiktoren verwendeten DGM.,0
+A1_positionen.csv,betriebsbeginn,Datum,Dokumentierter Betriebsbeginn (JJJJ-MM-TT).,7
+A1_positionen.csv,betriebsende,Datum,Dokumentiertes Betriebsende (JJJJ-MM-TT); leer bedeutet nicht angegeben.,175
+A1_positionen.csv,beobachtungsbeginn,Datum,Beginn des anlagenspezifischen Beobachtungszeitraums (JJJJ-MM-TT).,0
+A1_positionen.csv,beobachtungsende,Datum,Ende des anlagenspezifischen Beobachtungszeitraums (JJJJ-MM-TT).,0
+A1_positionen.csv,positionsart,Kategorie,WEA oder LiDAR. Betriebsdaten und Rotordurchmesser gelten ausschließlich für WEA; LiDAR-Zeiträume stehen unter Beobachtungsbeginn und -ende.,0
+A2_cluster.csv,standort,Kategorie,Untersuchungsstandort.,0
+A2_cluster.csv,cluster,Kennung,Standortkürzel und zweistellige Clusternummer; Verbindung zu A2.,0
+A2_cluster.csv,anzahl_positionen,Anzahl,Zahl der WEA- oder LiDAR-Positionen des Clusters.,0
+A2_cluster.csv,mittlerer_wakeverlust_anteil,1,Mittlerer relativer Wakeverlust; 0.05 entspricht 5 Prozent.,0
+A2_cluster.csv,reproduktionsguete_unkorrigiert,1,Dimensionsloses Verhältnis von modelliertem zu beobachtetem Wert vor empirischer Wakebereinigung.,0
+A2_cluster.csv,reproduktionsguete_wakebereinigt,1,Dimensionslose Reproduktionsgüte nach der verwendeten empirischen Wakebereinigung.,0
+A2_cluster.csv,clusterzentrum_ostwert_utm32_m,m,Arithmetischer Mittelwert der Ostwerte; EPSG:25832.,0
+A2_cluster.csv,clusterzentrum_nordwert_utm32_m,m,Arithmetischer Mittelwert der Nordwerte; EPSG:25832.,0
+A2_cluster.csv,cluster_rix_prozent,%,Arithmetischer Mittelwert der Positions-RIX innerhalb des Clusters.,0
+A2_cluster.csv,mittlere_gelaendehoehe_dgm_m,m,Arithmetischer Mittelwert der DGM-Geländehöhen der Positionen.,0
+A2_cluster.csv,standardunsicherheit_log,1,"Verwendete Standardunsicherheit des Clusters auf logarithmischer Reproduktionsskala, keine Varianz.",0
+A3_abschattende_positionen.csv,standort,Kategorie,Untersuchungsstandort.,0
+A3_abschattende_positionen.csv,ostwert_utm32_m,m,Ostwert der abschattenden Position; EPSG:25832.,0
+A3_abschattende_positionen.csv,nordwert_utm32_m,m,Nordwert der abschattenden Position; EPSG:25832.,0
+A3_abschattende_positionen.csv,gelaendehoehe_positionsdaten_m,m,Geländehöhe aus den Positionsdaten der abschattenden WEA.,0
+A3_abschattende_positionen.csv,nabenhoehe_m,m,Nabenhöhe der abschattenden WEA über Gelände.,0
+A3_abschattende_positionen.csv,betriebsbeginn,Datum,Dokumentierter Betriebsbeginn (JJJJ-MM-TT).,0
+A3_abschattende_positionen.csv,betriebsende,Datum,Dokumentiertes Betriebsende (JJJJ-MM-TT).,762
+B1_ungeordnete_paare.csv,standort,Kategorie,Untersuchungsstandort.,0
+B1_ungeordnete_paare.csv,clusterpaar,Kennung,Ungeordnetes Paar zweier global eindeutiger Clusterkennungen; numerisch sortiert.,0
+B1_ungeordnete_paare.csv,beobachteter_absoluter_logfehler,1,Betrag des beobachteten natürlichen Log-Transferfehlers. Das Gamma-Ziel ist dessen Quadrat.,0
+B1_ungeordnete_paare.csv,trainingsgewicht_vor_standortausgleich,1,"Begrenztes, auf Mittelwert eins normiertes Zuverlässigkeitsgewicht vor der faltungsspezifischen Standortbalancierung; keine Summe-eins-Gewichtung.",0
+B1_ungeordnete_paare.csv,distanz_m,m,Horizontale Entfernung der Clusterzentren (D).,0
+B1_ungeordnete_paare.csv,mittlerer_rix_prozent,%,Mittelwert der beiden Cluster-RIX (R); 3 entspricht 3 Prozent.,0
+B1_ungeordnete_paare.csv,gelaendehoehendifferenz_m,m,Absoluter Unterschied der mittleren Geländehöhen (H).,0
+B1_ungeordnete_paare.csv,rauigkeitsdifferenz_rms_m,m,Energiegewichteter RMS-Unterschied sektoraler Rauigkeitslängen (Z).,0
+B1_ungeordnete_paare.csv,waldanteilsdifferenz_rms,1,Energiegewichteter RMS-Unterschied sektoraler Waldanteile zwischen 0 und 1 (F).,0
+B1_ungeordnete_paare.csv,winddissimilaritaet_log_rms,1,Energiegewichteter RMS der logarithmischen Verhältnisse freier sektoraler Windgeschwindigkeiten (W).,0
+B2_gerichtete_transfers.csv,standort,Kategorie,Untersuchungsstandort.,0
+B2_gerichtete_transfers.csv,referenzcluster,Kennung,Referenzcluster des gerichteten Transfers; Verbindung zu A2.,0
+B2_gerichtete_transfers.csv,zielcluster,Kennung,Zielcluster des gerichteten Transfers; Verbindung zu A2.,0
+B2_gerichtete_transfers.csv,log_transferfehler,1,Vorzeichenbehafteter natürlicher Logarithmus der Transferreproduktion für Referenz zu Ziel.,0
+B3_cluster_sektoren.csv,standort,Kategorie,Untersuchungsstandort.,0
+B3_cluster_sektoren.csv,cluster,Kennung,Standortkürzel und zweistellige Clusternummer; Verbindung zu A2.,0
+B3_cluster_sektoren.csv,sektormitte_grad,Grad,"Mitte des 30-Grad-Anströmsektors; 0 Grad = Nord, im Uhrzeigersinn.",0
+B3_cluster_sektoren.csv,sektorgewicht_0_bis_1,1,"Arithmetisch über Positionen gemittelter, zuvor je Position normierter Energieanteil. Summe der zwölf Sektoren je Cluster ist eins.",0
+B3_cluster_sektoren.csv,rauigkeitslaenge_sektor_m,m,"Mittlere sektorale Rauigkeitslänge; vier Entfernungsringe gewichtet, danach Positionen gleichgewichtet.",0
+B3_cluster_sektoren.csv,waldanteil_sektor_0_bis_1,1,"Mittlerer sektoraler Waldflächenanteil im 5-km-Umkreis, zwischen 0 und 1.",0
+B3_cluster_sektoren.csv,freie_windgeschwindigkeit_m_pro_s,m/s,Arithmetisch über Clusterpositionen gemittelte freie sektorale Windgeschwindigkeit.,0
+B4_wake_regressionen.csv,standort,Kategorie,Untersuchungsstandort.,0
+B4_wake_regressionen.csv,anzahl_wea,Anzahl,Zahl der WEA in der standortbezogenen linearen Regression.,0
+B4_wake_regressionen.csv,ols_interzept,1,Interzept b0 der Regression Reproduktionsgüte gegen relativen Wakeverlust.,0
+B4_wake_regressionen.csv,ols_steigung,1,"Steigung b1 je Einheit des Wakeverlustanteils (1 entspricht 100 Prozent), nicht je Prozentpunkt.",0
+B4_wake_regressionen.csv,steigung_ki95_unten,1,Untere Grenze des klassischen 95-Prozent-Konfidenzintervalls der Steigung.,0
+B4_wake_regressionen.csv,steigung_ki95_oben,1,Obere Grenze des klassischen 95-Prozent-Konfidenzintervalls der Steigung.,0
+B4_wake_regressionen.csv,pearson_r,1,Pearson-Korrelation zwischen relativem Wakeverlust und Reproduktionsgüte.,0
+B4_wake_regressionen.csv,p_wert_steigung,1,Zweiseitiger klassischer OLS-p-Wert für die Nullhypothese Steigung = 0; keine Korrektur für räumliche Abhängigkeit oder Mehrfachtests.,0
+B4_wake_regressionen.csv,rmse_reproduktionsresiduen,1,Wurzel aus dem Mittel der quadrierten OLS-Residuen auf Reproduktionsskala (Division durch n).,0
+B4_wake_regressionen.csv,wakebereinigung_angewendet,ja/nein,Empirische Wakebereinigung am Standort angewendet.,0
+B5_wake_residuen.csv,position,Kennung,Positionskennung dieser Beigabe; Verbindung zu A1.,0
+B5_wake_residuen.csv,standort,Kategorie,Untersuchungsstandort.,0
+B5_wake_residuen.csv,wakeverlust_anteil,1,Relativer modellierter Wakeverlust; 0.05 entspricht 5 Prozent.,0
+B5_wake_residuen.csv,reproduktionsguete_unkorrigiert,1,Unkorrigierte dimensionslose Reproduktionsgüte der WEA.,0
+C10_v57_oof.csv,standort,Kategorie,Untersuchungsstandort.,0
+C10_v57_oof.csv,clusterpaar,Kennung,Ungeordnetes Paar zweier global eindeutiger Clusterkennungen; numerisch sortiert.,0
+C10_v57_oof.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C10_v57_oof.csv,prognostiziertes_rms_logfehlerniveau,1,"Quadratwurzel des prognostizierten mittleren quadrierten Logfehlers; RMS-artiges Niveau, nicht allgemein der erwartete absolute Fehler.",0
+C1_loso_folds.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
+C1_loso_folds.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C1_loso_folds.csv,alpha,1,Im inneren LOSO gewählte Regularisierungsstärke; beim konstanten Modell nicht anwendbar.,8
+C1_loso_folds.csv,mae_direkte_fehlerprognose,1,Mittelwert der absoluten Differenz zwischen prognostiziertem RMS-artigem Niveau und beobachtetem absolutem Logfehler.,0
+C1_loso_folds.csv,rmse_direkte_fehlerprognose,1,Wurzel aus dem Mittel der quadrierten Differenzen zwischen prognostiziertem Niveau und beobachtetem absolutem Logfehler.,0
+C1_loso_folds.csv,spearman_rho_fehlerprognose,1,Rangkorrelation zwischen prognostiziertem Niveau und beobachtetem absolutem Logfehler; leer bei undefinierter Korrelation.,8
+C2_oof_prognosen.csv,standort,Kategorie,Untersuchungsstandort.,0
+C2_oof_prognosen.csv,clusterpaar,Kennung,Ungeordnetes Paar zweier global eindeutiger Clusterkennungen; numerisch sortiert.,0
+C2_oof_prognosen.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C2_oof_prognosen.csv,prognostiziertes_rms_logfehlerniveau,1,"Quadratwurzel des prognostizierten mittleren quadrierten Logfehlers; RMS-artiges Niveau, nicht allgemein der erwartete absolute Fehler.",0
+C3_koeffizienten.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
+C3_koeffizienten.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C3_koeffizienten.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
+C3_koeffizienten.csv,koeffizient_standardisiert,1,Gamma-Koeffizient auf der mit Trainingsgewichten standardisierten Merkmalsachse.,0
+C4_alpha_innere_validierung.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
+C4_alpha_innere_validierung.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C4_alpha_innere_validierung.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
+C4_alpha_innere_validierung.csv,innerer_makro_mae,1,Ungewichtetes Mittel der standortweisen direkten MAE der inneren Validierung.,0
+C4_alpha_innere_validierung.csv,standardabweichung_innerer_standort_mae,1,"Streuung der direkten MAE über die inneren Validierungsstandorte, wie im Notebook exportiert.",0
+C5_v57_rangfolge.csv,rang,Rang,"Rangfolge nach direktem LOSO-Makro-MAE, kleiner ist besser.",0
+C5_v57_rangfolge.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C5_v57_rangfolge.csv,makro_mae_direkte_fehlerprognose,1,Ungewichtetes Mittel der direkten MAE über die acht äußeren Teststandorte.,0
+C5_v57_rangfolge.csv,median_standort_mae,1,Median der acht direkten Standort-MAE.,0
+C5_v57_rangfolge.csv,groesster_standort_mae,1,Größter direkter MAE unter den acht Teststandorten.,0
+C5_v57_rangfolge.csv,anzahl_standorte_besser_als_wald_wind,Anzahl,Zahl der acht Standorte mit kleinerem direkten MAE als Wald + Wind.,0
+C6_v57_folds.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C6_v57_folds.csv,teststandort,Kategorie,Vollständig zurückgehaltener äußerer Teststandort.,0
+C6_v57_folds.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
+C6_v57_folds.csv,mae_direkte_fehlerprognose,1,Direkter MAE des äußeren Teststandorts.,0
+C7_v57_koeffizienten.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C7_v57_koeffizienten.csv,teststandort,Kategorie,Vollständig zurückgehaltener äußerer Teststandort.,0
+C7_v57_koeffizienten.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
+C7_v57_koeffizienten.csv,koeffizient_standardisiert,1,Gamma-Koeffizient auf der mit Trainingsgewichten standardisierten Merkmalsachse.,0
+C8_v57_alpha_stabilitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C8_v57_alpha_stabilitaet.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
+C8_v57_alpha_stabilitaet.csv,anzahl_faltungen,Anzahl,"Zahl der äußeren Faltungen, in denen dieses Alpha gewählt wurde; insgesamt acht je Modell.",0
+C9_v57_koeffizienten_stabilitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C9_v57_koeffizienten_stabilitaet.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
+C9_v57_koeffizienten_stabilitaet.csv,kleinster_koeffizient,1,Kleinster standardisierter Koeffizient über die acht äußeren Faltungen.,0
+C9_v57_koeffizienten_stabilitaet.csv,groesster_koeffizient,1,Größter standardisierter Koeffizient über die acht äußeren Faltungen.,0
+C9_v57_koeffizienten_stabilitaet.csv,mittlerer_koeffizient,1,Arithmetischer Mittelwert des standardisierten Koeffizienten über die acht äußeren Faltungen.,0
+D10_aoa_merkmalsgewichte.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D10_aoa_merkmalsgewichte.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
+D10_aoa_merkmalsgewichte.csv,merkmalsgewichtung,Kategorie,Koeffizientenbetraege oder Gleichgewichtung; Hauptauswertung: Koeffizientenbetraege.,0
+D10_aoa_merkmalsgewichte.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
+D10_aoa_merkmalsgewichte.csv,merkmalsgewicht_0_bis_1,1,"Normiertes Merkmalgewicht; Summe je Modell, Teststandort und Gewichtung ist eins.",0
+D10_aoa_merkmalsgewichte.csv,trainingsmittelwert_in_merkmalseinheit,je Merkmal,"Gewichteter Mittelwert zur Standardisierung; Einheit ergibt sich aus merkmal (m, Prozent oder dimensionslos).",0
+D10_aoa_merkmalsgewichte.csv,trainingsstandardabweichung_in_merkmalseinheit,je Merkmal,"Gewichtete Standardabweichung zur Standardisierung; Einheit ergibt sich aus merkmal (m, Prozent oder dimensionslos).",0
+D11_aoa_training_di.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D11_aoa_training_di.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
+D11_aoa_training_di.csv,merkmalsgewichtung,Kategorie,Koeffizientenbetraege oder Gleichgewichtung; Hauptauswertung: Koeffizientenbetraege.,0
+D11_aoa_training_di.csv,trainingspaar,Kennung,Ungeordnetes Clusterpaar im äußeren Training.,0
+D11_aoa_training_di.csv,naechstes_paar_anderer_standort,Kennung,Nächstes Trainingspaar aus einem anderen Standort als dem Standort des Trainingsfalls.,0
+D11_aoa_training_di.csv,dissimilarity_index_training,1,Trainings-DI mit nächstem Nachbarn aus einem anderen Standort; Normierung aus dem äußeren Training.,0
+D12_aoa_sensitivitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D12_aoa_sensitivitaet.csv,merkmalsgewichtung,Kategorie,Koeffizientenbetraege oder Gleichgewichtung; Hauptauswertung: Koeffizientenbetraege.,0
+D12_aoa_sensitivitaet.csv,aoa_grenzverfahren,Kategorie,Oberer_Whisker oder Quantil_95; Hauptauswertung: Oberer_Whisker.,0
+D12_aoa_sensitivitaet.csv,anzahl_paare_innerhalb_aoa,Anzahl,Zahl der 142 ungeordneten Paare innerhalb der AOA für genau diese Variante.,0
+D12_aoa_sensitivitaet.csv,standortmittel_aoa_anteil_0_bis_1,1,Ungewichtetes Mittel der Anteile innerhalb der AOA über die acht Standorte.,0
+D12_aoa_sensitivitaet.csv,anzahl_standorte_mit_aoa_ausschluss,Anzahl,Zahl der Standorte mit mindestens einem Paar außerhalb der AOA.,0
+D12_aoa_sensitivitaet.csv,makro_mae_ausserhalb_aoa,1,Standortgemittelter direkter MAE außerhalb der AOA; nur Standorte mit mindestens einem entsprechenden Paar.,0
+D12_aoa_sensitivitaet.csv,makro_mae_innerhalb_aoa,1,Standortgemittelter direkter MAE innerhalb der AOA; nur Standorte mit mindestens einem entsprechenden Paar.,0
+D12_aoa_sensitivitaet.csv,spearman_rho_di_prognoseabweichung_gepoolt,1,Gepoolte Rangkorrelation zwischen DI und absoluter Abweichung der direkten OOF-Fehlerprognose.,0
+D12_aoa_sensitivitaet.csv,spearman_rho_di_prognoseabweichung_standortmittel,1,Ungewichtetes Mittel gültiger standortweiser Rangkorrelationen zwischen DI und absoluter OOF-Prognoseabweichung.,0
+D13_tr6_abdeckung.csv,standort,Kategorie,Untersuchungsstandort.,0
+D13_tr6_abdeckung.csv,anzahl_transfers_gesamt,Anzahl,Zahl aller gerichteten Transfers des Standorts.,0
+D13_tr6_abdeckung.csv,anzahl_transfers_tr6_konform,Anzahl,"Zahl der gerichteten Transfers, die alle drei verwendeten TR6-Kriterien erfüllen.",0
+D13_tr6_abdeckung.csv,anzahl_clusterpaare_tr6_konform,Anzahl,Zahl ungeordneter Paare mit mindestens einer konformen Richtung.,0
+D13_tr6_abdeckung.csv,anzahl_ausschluesse_distanz,Anzahl,Gerichtete Transfers mit horizontaler Entfernung nicht kleiner als B; keine Distanzangabe.,0
+D13_tr6_abdeckung.csv,anzahl_ausschluesse_gelaendehoehe,Anzahl,Gerichtete Transfers mit absoluter Geländehöhendifferenz nicht kleiner als 100 m.,0
+D13_tr6_abdeckung.csv,anzahl_ausschluesse_nabenhoehe,Anzahl,Gerichtete Transfers mit absoluter Nabenhöhendifferenz über 40 Prozent der Zielnabenhöhe.,0
+D14_tr6_standortvergleich.csv,transferauswahl,Kategorie,Alle_Transfers oder TR6_konform; keine Neuanpassung der Fehlermodelle auf der Teilmenge.,0
+D14_tr6_standortvergleich.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D14_tr6_standortvergleich.csv,standort,Kategorie,Untersuchungsstandort.,0
+D14_tr6_standortvergleich.csv,mae_direkte_fehlerprognose,1,Mittelwert der absoluten Differenz zwischen prognostiziertem RMS-artigem Niveau und beobachtetem absolutem Logfehler.,0
+D14_tr6_standortvergleich.csv,rmse_direkte_fehlerprognose,1,Wurzel aus dem Mittel der quadrierten Differenzen zwischen prognostiziertem Niveau und beobachtetem absolutem Logfehler.,0
+D14_tr6_standortvergleich.csv,spearman_rho_fehlerprognose,1,Rangkorrelation zwischen prognostiziertem Niveau und beobachtetem absolutem Logfehler; leer bei undefinierter Korrelation.,19
+D14_tr6_standortvergleich.csv,beobachtetes_rms_logfehlerniveau,1,Wurzel aus dem Mittel der quadrierten beobachteten Logfehler der ausgewählten Transfers.,0
+D14_tr6_standortvergleich.csv,prognostiziertes_rms_logfehlerniveau,1,Wurzel aus dem Mittel der prognostizierten Fehlerquadrate der ausgewählten Transfers.,0
+D1_zielprognosen.csv,standort,Kategorie,Untersuchungsstandort.,0
+D1_zielprognosen.csv,zielcluster,Kennung,Zielcluster des gerichteten Transfers; Verbindung zu A2.,0
+D1_zielprognosen.csv,gewichtungsverfahren,Kategorie,"Verfahren zur Kombination der Referenzen: Gleichgewichtung, 1/d^2, Wald + Wind oder Vollstaendig.",0
+D1_zielprognosen.csv,log_transferfehler_kombiniert,1,Natürlicher Logarithmus der kombinierten Reproduktion; der Betrag ist der absolute Logfehler des Zielclusters.,0
+D2_referenzgewichte.csv,standort,Kategorie,Untersuchungsstandort.,0
+D2_referenzgewichte.csv,zielcluster,Kennung,Zielcluster des gerichteten Transfers; Verbindung zu A2.,0
+D2_referenzgewichte.csv,referenzcluster,Kennung,Referenzcluster des gerichteten Transfers; Verbindung zu A2.,0
+D2_referenzgewichte.csv,gewichtungsverfahren,Kategorie,"Verfahren zur Kombination der Referenzen: Gleichgewichtung, 1/d^2, Wald + Wind oder Vollstaendig.",0
+D2_referenzgewichte.csv,referenzgewicht_0_bis_1,1,"Tatsächlich angewandtes normiertes Referenzgewicht; Summe je Ziel, Verfahren und Referenzkombination ist eins.",0
+D3_zwei_referenzen_prognosen.csv,standort,Kategorie,Untersuchungsstandort.,0
+D3_zwei_referenzen_prognosen.csv,zielcluster,Kennung,Zielcluster des gerichteten Transfers; Verbindung zu A2.,0
+D3_zwei_referenzen_prognosen.csv,referenzpaar,Kennung,"Die beiden Referenzcluster der ausgewerteten Kombination, numerisch sortiert.",0
+D3_zwei_referenzen_prognosen.csv,gewichtungsverfahren,Kategorie,"Verfahren zur Kombination der Referenzen: Gleichgewichtung, 1/d^2, Wald + Wind oder Vollstaendig.",0
+D3_zwei_referenzen_prognosen.csv,log_transferfehler_kombiniert,1,Natürlicher Logarithmus der kombinierten Reproduktion; der Betrag ist der absolute Logfehler des Zielclusters.,0
+D4_zwei_referenzen_gewichte.csv,standort,Kategorie,Untersuchungsstandort.,0
+D4_zwei_referenzen_gewichte.csv,zielcluster,Kennung,Zielcluster des gerichteten Transfers; Verbindung zu A2.,0
+D4_zwei_referenzen_gewichte.csv,referenzpaar,Kennung,"Die beiden Referenzcluster der ausgewerteten Kombination, numerisch sortiert.",0
+D4_zwei_referenzen_gewichte.csv,referenzcluster,Kennung,Referenzcluster des gerichteten Transfers; Verbindung zu A2.,0
+D4_zwei_referenzen_gewichte.csv,gewichtungsverfahren,Kategorie,"Verfahren zur Kombination der Referenzen: Gleichgewichtung, 1/d^2, Wald + Wind oder Vollstaendig.",0
+D4_zwei_referenzen_gewichte.csv,referenzgewicht_0_bis_1,1,"Tatsächlich angewandtes normiertes Referenzgewicht; Summe je Ziel, Verfahren und Referenzkombination ist eins.",0
+D5_referenzranking.csv,standort,Kategorie,Untersuchungsstandort.,0
+D5_referenzranking.csv,zielcluster,Kennung,Zielcluster des gerichteten Transfers; Verbindung zu A2.,0
+D5_referenzranking.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D5_referenzranking.csv,spearman_rho_referenzranking,1,Rangkorrelation der prognostizierten Fehlerquadrate mit den beobachteten absoluten Einzeltransferfehlern je Zielcluster.,6
+D6_gewichtskonzentration.csv,gewichtungsverfahren,Kategorie,"Verfahren zur Kombination der Referenzen: Gleichgewichtung, 1/d^2, Wald + Wind oder Vollstaendig.",0
+D6_gewichtskonzentration.csv,standort,Kategorie,Untersuchungsstandort.,0
+D6_gewichtskonzentration.csv,mittlere_effektive_referenzanzahl,Anzahl,Mittelwert von 1/Summe(Referenzgewicht^2) über die Fälle der angegebenen Auswertung.,0
+D6_gewichtskonzentration.csv,mediane_effektive_referenzanzahl,Anzahl,Median von 1/Summe(Referenzgewicht^2) über die Zielcluster des Standorts.,0
+D6_gewichtskonzentration.csv,mittleres_groesstes_referenzgewicht,1,Mittelwert des jeweils größten normierten Referenzgewichts.,0
+D6_gewichtskonzentration.csv,groesstes_referenzgewicht,1,Größtes normiertes Referenzgewicht unter allen Fällen des Standorts und Verfahrens.,0
+D7_quellunsicherheit.csv,gewichtungsverfahren,Kategorie,"Verfahren zur Kombination der Referenzen: Gleichgewichtung, 1/d^2, Wald + Wind oder Vollstaendig.",0
+D7_quellunsicherheit.csv,quellunsicherheit_beruecksichtigt,ja/nein,Standardunsicherheit der Referenz bei der modellgestützten Referenzgewichtung berücksichtigt.,0
+D7_quellunsicherheit.csv,makro_mae_kombinierter_logfehler,1,Ungewichtetes Standortmittel der mittleren absoluten Logfehler der kombinierten Zielprognosen.,0
+D7_quellunsicherheit.csv,makro_rmse_kombinierter_logfehler,1,Ungewichtetes Standortmittel der RMS der tatsächlichen kombinierten Logfehler.,0
+D7_quellunsicherheit.csv,mittlere_effektive_referenzanzahl,Anzahl,"Mittelwert von 1/Summe(Referenzgewicht^2) über die Fälle der angegebenen Auswertung. Hier zunächst Mittelwert je Standort, anschließend ungewichtetes Mittel über Standorte.",0
+D7_quellunsicherheit.csv,mittleres_groesstes_referenzgewicht,1,"Mittelwert des jeweils größten normierten Referenzgewichts. Hier zunächst Mittelwert je Standort, anschließend ungewichtetes Mittel über Standorte.",0
+D8_aoa_alle_varianten.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D8_aoa_alle_varianten.csv,standort,Kategorie,Untersuchungsstandort.,0
+D8_aoa_alle_varianten.csv,clusterpaar,Kennung,Ungeordnetes Paar zweier global eindeutiger Clusterkennungen; numerisch sortiert.,0
+D8_aoa_alle_varianten.csv,merkmalsgewichtung,Kategorie,Koeffizientenbetraege oder Gleichgewichtung; Hauptauswertung: Koeffizientenbetraege.,0
+D8_aoa_alle_varianten.csv,aoa_grenzverfahren,Kategorie,Oberer_Whisker oder Quantil_95; Hauptauswertung: Oberer_Whisker.,0
+D8_aoa_alle_varianten.csv,naechstes_trainingspaar,Kennung,Nächstes Clusterpaar im äußeren Training.,0
+D8_aoa_alle_varianten.csv,dissimilarity_index,1,"Gewichtete Distanz zum nächsten Trainingspaar, dividiert durch die mittlere paarweise Trainingsdistanz.",0
+D9_aoa_foldparameter.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+D9_aoa_foldparameter.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
+D9_aoa_foldparameter.csv,merkmalsgewichtung,Kategorie,Koeffizientenbetraege oder Gleichgewichtung; Hauptauswertung: Koeffizientenbetraege.,0
+D9_aoa_foldparameter.csv,aoa_grenzverfahren,Kategorie,Oberer_Whisker oder Quantil_95; Hauptauswertung: Oberer_Whisker.,0
+D9_aoa_foldparameter.csv,normierungsdistanz_standardisiert,1,Mittlere gewichtete paarweise Distanz im standardisierten äußeren Trainingsmerkmalsraum; keine Entfernung in Metern.,0
+D9_aoa_foldparameter.csv,aoa_grenze_di,1,AOA-Grenze auf DI-Skala; innerhalb gilt DI <= Grenze.,0
+D9_aoa_foldparameter.csv,trainings_di_quartil_25,1,25-Prozent-Quantil der Trainings-DI mit Nachbarn aus anderen Standorten.,0
+D9_aoa_foldparameter.csv,trainings_di_quartil_75,1,75-Prozent-Quantil der Trainings-DI mit Nachbarn aus anderen Standorten.,0
+D9_aoa_foldparameter.csv,groesster_trainings_di,1,Größter DI im äußeren Training.,0

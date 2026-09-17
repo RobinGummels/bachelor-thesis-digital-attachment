@@ -1,0 +1,1137 @@
+﻿modell,standort,clusterpaar,merkmalsgewichtung,aoa_grenzverfahren,naechstes_trainingspaar,dissimilarity_index
+Wald + Wind,Alpen-Sevelen,AS-01--AS-02,Koeffizientenbetraege,Oberer_Whisker,LO-02--LO-03,0.0988850649337511
+Wald + Wind,Alpen-Sevelen,AS-01--AS-03,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-04,0.0441207821021441
+Wald + Wind,Alpen-Sevelen,AS-01--AS-04,Koeffizientenbetraege,Oberer_Whisker,PA-07--PA-08,0.052706475942493
+Wald + Wind,Alpen-Sevelen,AS-01--AS-05,Koeffizientenbetraege,Oberer_Whisker,PA-07--PA-08,0.0909372921731734
+Wald + Wind,Alpen-Sevelen,AS-01--AS-06,Koeffizientenbetraege,Oberer_Whisker,PA-07--PA-08,0.0838411673664106
+Wald + Wind,Alpen-Sevelen,AS-02--AS-03,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-06,0.0441869435356221
+Wald + Wind,Alpen-Sevelen,AS-02--AS-04,Koeffizientenbetraege,Oberer_Whisker,OF-01--OF-04,0.0621171745168375
+Wald + Wind,Alpen-Sevelen,AS-02--AS-05,Koeffizientenbetraege,Oberer_Whisker,PA-06--PA-08,0.1127376259548135
+Wald + Wind,Alpen-Sevelen,AS-02--AS-06,Koeffizientenbetraege,Oberer_Whisker,OF-01--OF-04,0.0743097246226296
+Wald + Wind,Alpen-Sevelen,AS-03--AS-04,Koeffizientenbetraege,Oberer_Whisker,BC-03--BC-04,0.093939186944058
+Wald + Wind,Alpen-Sevelen,AS-03--AS-05,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-07,0.0666445755712661
+Wald + Wind,Alpen-Sevelen,AS-03--AS-06,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-07,0.1048245998017073
+Wald + Wind,Alpen-Sevelen,AS-04--AS-05,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-02,0.0639803842368816
+Wald + Wind,Alpen-Sevelen,AS-04--AS-06,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-02,0.0707138988514417
+Wald + Wind,Alpen-Sevelen,AS-05--AS-06,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-02,0.072192149121268
+Wald + Wind,Alpen-Sevelen,AS-01--AS-02,Koeffizientenbetraege,Quantil_95,LO-02--LO-03,0.0988850649337511
+Wald + Wind,Alpen-Sevelen,AS-01--AS-03,Koeffizientenbetraege,Quantil_95,BC-01--BC-04,0.0441207821021441
+Wald + Wind,Alpen-Sevelen,AS-01--AS-04,Koeffizientenbetraege,Quantil_95,PA-07--PA-08,0.052706475942493
+Wald + Wind,Alpen-Sevelen,AS-01--AS-05,Koeffizientenbetraege,Quantil_95,PA-07--PA-08,0.0909372921731734
+Wald + Wind,Alpen-Sevelen,AS-01--AS-06,Koeffizientenbetraege,Quantil_95,PA-07--PA-08,0.0838411673664106
+Wald + Wind,Alpen-Sevelen,AS-02--AS-03,Koeffizientenbetraege,Quantil_95,BC-01--BC-06,0.0441869435356221
+Wald + Wind,Alpen-Sevelen,AS-02--AS-04,Koeffizientenbetraege,Quantil_95,OF-01--OF-04,0.0621171745168375
+Wald + Wind,Alpen-Sevelen,AS-02--AS-05,Koeffizientenbetraege,Quantil_95,PA-06--PA-08,0.1127376259548135
+Wald + Wind,Alpen-Sevelen,AS-02--AS-06,Koeffizientenbetraege,Quantil_95,OF-01--OF-04,0.0743097246226296
+Wald + Wind,Alpen-Sevelen,AS-03--AS-04,Koeffizientenbetraege,Quantil_95,BC-03--BC-04,0.093939186944058
+Wald + Wind,Alpen-Sevelen,AS-03--AS-05,Koeffizientenbetraege,Quantil_95,PA-05--PA-07,0.0666445755712661
+Wald + Wind,Alpen-Sevelen,AS-03--AS-06,Koeffizientenbetraege,Quantil_95,PA-05--PA-07,0.1048245998017073
+Wald + Wind,Alpen-Sevelen,AS-04--AS-05,Koeffizientenbetraege,Quantil_95,RB-01--RB-02,0.0639803842368816
+Wald + Wind,Alpen-Sevelen,AS-04--AS-06,Koeffizientenbetraege,Quantil_95,RB-01--RB-02,0.0707138988514417
+Wald + Wind,Alpen-Sevelen,AS-05--AS-06,Koeffizientenbetraege,Quantil_95,RB-01--RB-02,0.072192149121268
+Wald + Wind,Alpen-Sevelen,AS-01--AS-02,Gleichgewichtung,Oberer_Whisker,LO-02--LO-03,0.1156513936432123
+Wald + Wind,Alpen-Sevelen,AS-01--AS-03,Gleichgewichtung,Oberer_Whisker,BC-01--BC-04,0.0399715975205665
+Wald + Wind,Alpen-Sevelen,AS-01--AS-04,Gleichgewichtung,Oberer_Whisker,PA-07--PA-08,0.0472578851811011
+Wald + Wind,Alpen-Sevelen,AS-01--AS-05,Gleichgewichtung,Oberer_Whisker,PA-07--PA-08,0.1070410912615404
+Wald + Wind,Alpen-Sevelen,AS-01--AS-06,Gleichgewichtung,Oberer_Whisker,PA-07--PA-08,0.1013231452415726
+Wald + Wind,Alpen-Sevelen,AS-02--AS-03,Gleichgewichtung,Oberer_Whisker,BC-02--BC-03,0.0496562091320202
+Wald + Wind,Alpen-Sevelen,AS-02--AS-04,Gleichgewichtung,Oberer_Whisker,OF-01--OF-04,0.0680929044154831
+Wald + Wind,Alpen-Sevelen,AS-02--AS-05,Gleichgewichtung,Oberer_Whisker,BC-02--BC-04,0.1190240878158596
+Wald + Wind,Alpen-Sevelen,AS-02--AS-06,Gleichgewichtung,Oberer_Whisker,OF-01--OF-04,0.0776755650186226
+Wald + Wind,Alpen-Sevelen,AS-03--AS-04,Gleichgewichtung,Oberer_Whisker,BC-03--BC-04,0.0940761329794945
+Wald + Wind,Alpen-Sevelen,AS-03--AS-05,Gleichgewichtung,Oberer_Whisker,PA-05--PA-07,0.0656385474823648
+Wald + Wind,Alpen-Sevelen,AS-03--AS-06,Gleichgewichtung,Oberer_Whisker,PA-05--PA-07,0.0917674947185026
+Wald + Wind,Alpen-Sevelen,AS-04--AS-05,Gleichgewichtung,Oberer_Whisker,RB-01--RB-02,0.0695020565587743
+Wald + Wind,Alpen-Sevelen,AS-04--AS-06,Gleichgewichtung,Oberer_Whisker,RB-01--RB-02,0.0759046085149164
+Wald + Wind,Alpen-Sevelen,AS-05--AS-06,Gleichgewichtung,Oberer_Whisker,RB-01--RB-02,0.0791004324467403
+Wald + Wind,Alpen-Sevelen,AS-01--AS-02,Gleichgewichtung,Quantil_95,LO-02--LO-03,0.1156513936432123
+Wald + Wind,Alpen-Sevelen,AS-01--AS-03,Gleichgewichtung,Quantil_95,BC-01--BC-04,0.0399715975205665
+Wald + Wind,Alpen-Sevelen,AS-01--AS-04,Gleichgewichtung,Quantil_95,PA-07--PA-08,0.0472578851811011
+Wald + Wind,Alpen-Sevelen,AS-01--AS-05,Gleichgewichtung,Quantil_95,PA-07--PA-08,0.1070410912615404
+Wald + Wind,Alpen-Sevelen,AS-01--AS-06,Gleichgewichtung,Quantil_95,PA-07--PA-08,0.1013231452415726
+Wald + Wind,Alpen-Sevelen,AS-02--AS-03,Gleichgewichtung,Quantil_95,BC-02--BC-03,0.0496562091320202
+Wald + Wind,Alpen-Sevelen,AS-02--AS-04,Gleichgewichtung,Quantil_95,OF-01--OF-04,0.0680929044154831
+Wald + Wind,Alpen-Sevelen,AS-02--AS-05,Gleichgewichtung,Quantil_95,BC-02--BC-04,0.1190240878158596
+Wald + Wind,Alpen-Sevelen,AS-02--AS-06,Gleichgewichtung,Quantil_95,OF-01--OF-04,0.0776755650186226
+Wald + Wind,Alpen-Sevelen,AS-03--AS-04,Gleichgewichtung,Quantil_95,BC-03--BC-04,0.0940761329794945
+Wald + Wind,Alpen-Sevelen,AS-03--AS-05,Gleichgewichtung,Quantil_95,PA-05--PA-07,0.0656385474823648
+Wald + Wind,Alpen-Sevelen,AS-03--AS-06,Gleichgewichtung,Quantil_95,PA-05--PA-07,0.0917674947185026
+Wald + Wind,Alpen-Sevelen,AS-04--AS-05,Gleichgewichtung,Quantil_95,RB-01--RB-02,0.0695020565587743
+Wald + Wind,Alpen-Sevelen,AS-04--AS-06,Gleichgewichtung,Quantil_95,RB-01--RB-02,0.0759046085149164
+Wald + Wind,Alpen-Sevelen,AS-05--AS-06,Gleichgewichtung,Quantil_95,RB-01--RB-02,0.0791004324467403
+Wald + Wind,Altenmellrich,AM-01--AM-02,Koeffizientenbetraege,Oberer_Whisker,PA-07--PA-11,0.0349467921430328
+Wald + Wind,Altenmellrich,AM-01--AM-03,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-11,0.044108256731422
+Wald + Wind,Altenmellrich,AM-01--AM-04,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-11,0.2028101856912897
+Wald + Wind,Altenmellrich,AM-02--AM-03,Koeffizientenbetraege,Oberer_Whisker,PA-10--PA-11,0.0866026721798116
+Wald + Wind,Altenmellrich,AM-02--AM-04,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-11,0.1401450697713745
+Wald + Wind,Altenmellrich,AM-03--AM-04,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-05,0.2010417396949715
+Wald + Wind,Altenmellrich,AM-01--AM-02,Koeffizientenbetraege,Quantil_95,PA-07--PA-11,0.0349467921430328
+Wald + Wind,Altenmellrich,AM-01--AM-03,Koeffizientenbetraege,Quantil_95,PA-05--PA-11,0.044108256731422
+Wald + Wind,Altenmellrich,AM-01--AM-04,Koeffizientenbetraege,Quantil_95,PA-04--PA-11,0.2028101856912897
+Wald + Wind,Altenmellrich,AM-02--AM-03,Koeffizientenbetraege,Quantil_95,PA-10--PA-11,0.0866026721798116
+Wald + Wind,Altenmellrich,AM-02--AM-04,Koeffizientenbetraege,Quantil_95,PA-05--PA-11,0.1401450697713745
+Wald + Wind,Altenmellrich,AM-03--AM-04,Koeffizientenbetraege,Quantil_95,PA-03--PA-05,0.2010417396949715
+Wald + Wind,Altenmellrich,AM-01--AM-02,Gleichgewichtung,Oberer_Whisker,PA-07--PA-11,0.0321448381247492
+Wald + Wind,Altenmellrich,AM-01--AM-03,Gleichgewichtung,Oberer_Whisker,PA-05--PA-11,0.0524197258528417
+Wald + Wind,Altenmellrich,AM-01--AM-04,Gleichgewichtung,Oberer_Whisker,PA-04--PA-11,0.1839643966802874
+Wald + Wind,Altenmellrich,AM-02--AM-03,Gleichgewichtung,Oberer_Whisker,PA-10--PA-11,0.0813050771445523
+Wald + Wind,Altenmellrich,AM-02--AM-04,Gleichgewichtung,Oberer_Whisker,PA-05--PA-11,0.1199347246126105
+Wald + Wind,Altenmellrich,AM-03--AM-04,Gleichgewichtung,Oberer_Whisker,PA-03--PA-05,0.268950751275422
+Wald + Wind,Altenmellrich,AM-01--AM-02,Gleichgewichtung,Quantil_95,PA-07--PA-11,0.0321448381247492
+Wald + Wind,Altenmellrich,AM-01--AM-03,Gleichgewichtung,Quantil_95,PA-05--PA-11,0.0524197258528417
+Wald + Wind,Altenmellrich,AM-01--AM-04,Gleichgewichtung,Quantil_95,PA-04--PA-11,0.1839643966802874
+Wald + Wind,Altenmellrich,AM-02--AM-03,Gleichgewichtung,Quantil_95,PA-10--PA-11,0.0813050771445523
+Wald + Wind,Altenmellrich,AM-02--AM-04,Gleichgewichtung,Quantil_95,PA-05--PA-11,0.1199347246126105
+Wald + Wind,Altenmellrich,AM-03--AM-04,Gleichgewichtung,Quantil_95,PA-03--PA-05,0.268950751275422
+Wald + Wind,Bad Berleburg,BB-01--BB-02,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.1450458225701899
+Wald + Wind,Bad Berleburg,BB-01--BB-03,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-09,0.054931033371728
+Wald + Wind,Bad Berleburg,BB-01--BB-04,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-05,0.0680645616919418
+Wald + Wind,Bad Berleburg,BB-01--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-06--PA-11,0.0977120978147651
+Wald + Wind,Bad Berleburg,BB-01--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-10,0.1887960847054112
+Wald + Wind,Bad Berleburg,BB-01--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-10,0.0433836470335512
+Wald + Wind,Bad Berleburg,BB-02--BB-03,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-09,0.0849081728225016
+Wald + Wind,Bad Berleburg,BB-02--BB-04,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-08,0.1011459588078614
+Wald + Wind,Bad Berleburg,BB-02--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.0613304539866319
+Wald + Wind,Bad Berleburg,BB-02--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-01--PA-06,0.2740465609504353
+Wald + Wind,Bad Berleburg,BB-02--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-08,0.0971213693226272
+Wald + Wind,Bad Berleburg,BB-03--BB-04,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-08,0.0998523883522816
+Wald + Wind,Bad Berleburg,BB-03--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-09,0.0558507060124888
+Wald + Wind,Bad Berleburg,BB-03--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-10,0.0155103356284466
+Wald + Wind,Bad Berleburg,BB-03--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-02--PA-12,0.2422948150891694
+Wald + Wind,Bad Berleburg,BB-04--BB-05,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.1419461268343249
+Wald + Wind,Bad Berleburg,BB-04--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-11,0.1202867095633999
+Wald + Wind,Bad Berleburg,BB-04--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-05,0.0512611819962619
+Wald + Wind,Bad Berleburg,BB-05--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-11,0.1572605658642346
+Wald + Wind,Bad Berleburg,BB-05--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-09,0.0758856328366827
+Wald + Wind,Bad Berleburg,BB-06--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-01--PA-10,0.5510446847166933
+Wald + Wind,Bad Berleburg,BB-01--BB-02,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.1450458225701899
+Wald + Wind,Bad Berleburg,BB-01--BB-03,Koeffizientenbetraege,Quantil_95,PA-05--PA-09,0.054931033371728
+Wald + Wind,Bad Berleburg,BB-01--BB-04,Koeffizientenbetraege,Quantil_95,PA-04--PA-05,0.0680645616919418
+Wald + Wind,Bad Berleburg,BB-01--BB-05,Koeffizientenbetraege,Quantil_95,PA-06--PA-11,0.0977120978147651
+Wald + Wind,Bad Berleburg,BB-01--BB-06,Koeffizientenbetraege,Quantil_95,PA-04--PA-10,0.1887960847054112
+Wald + Wind,Bad Berleburg,BB-01--BB-07,Koeffizientenbetraege,Quantil_95,PA-04--PA-10,0.0433836470335512
+Wald + Wind,Bad Berleburg,BB-02--BB-03,Koeffizientenbetraege,Quantil_95,PA-04--PA-09,0.0849081728225016
+Wald + Wind,Bad Berleburg,BB-02--BB-04,Koeffizientenbetraege,Quantil_95,PA-03--PA-08,0.1011459588078614
+Wald + Wind,Bad Berleburg,BB-02--BB-05,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.0613304539866319
+Wald + Wind,Bad Berleburg,BB-02--BB-06,Koeffizientenbetraege,Quantil_95,PA-01--PA-06,0.2740465609504353
+Wald + Wind,Bad Berleburg,BB-02--BB-07,Koeffizientenbetraege,Quantil_95,PA-03--PA-08,0.0971213693226272
+Wald + Wind,Bad Berleburg,BB-03--BB-04,Koeffizientenbetraege,Quantil_95,PA-04--PA-08,0.0998523883522816
+Wald + Wind,Bad Berleburg,BB-03--BB-05,Koeffizientenbetraege,Quantil_95,PA-03--PA-09,0.0558507060124888
+Wald + Wind,Bad Berleburg,BB-03--BB-06,Koeffizientenbetraege,Quantil_95,PA-04--PA-10,0.0155103356284466
+Wald + Wind,Bad Berleburg,BB-03--BB-07,Koeffizientenbetraege,Quantil_95,PA-02--PA-12,0.2422948150891694
+Wald + Wind,Bad Berleburg,BB-04--BB-05,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.1419461268343249
+Wald + Wind,Bad Berleburg,BB-04--BB-06,Koeffizientenbetraege,Quantil_95,PA-04--PA-11,0.1202867095633999
+Wald + Wind,Bad Berleburg,BB-04--BB-07,Koeffizientenbetraege,Quantil_95,PA-04--PA-05,0.0512611819962619
+Wald + Wind,Bad Berleburg,BB-05--BB-06,Koeffizientenbetraege,Quantil_95,PA-04--PA-11,0.1572605658642346
+Wald + Wind,Bad Berleburg,BB-05--BB-07,Koeffizientenbetraege,Quantil_95,PA-04--PA-09,0.0758856328366827
+Wald + Wind,Bad Berleburg,BB-06--BB-07,Koeffizientenbetraege,Quantil_95,PA-01--PA-10,0.5510446847166933
+Wald + Wind,Bad Berleburg,BB-01--BB-02,Gleichgewichtung,Oberer_Whisker,AM-02--AM-04,0.1887025454693409
+Wald + Wind,Bad Berleburg,BB-01--BB-03,Gleichgewichtung,Oberer_Whisker,PA-08--PA-11,0.0596539838965499
+Wald + Wind,Bad Berleburg,BB-01--BB-04,Gleichgewichtung,Oberer_Whisker,PA-04--PA-05,0.0917201733010204
+Wald + Wind,Bad Berleburg,BB-01--BB-05,Gleichgewichtung,Oberer_Whisker,PA-06--PA-11,0.1301645086834885
+Wald + Wind,Bad Berleburg,BB-01--BB-06,Gleichgewichtung,Oberer_Whisker,PA-04--PA-10,0.1624315341476489
+Wald + Wind,Bad Berleburg,BB-01--BB-07,Gleichgewichtung,Oberer_Whisker,PA-04--PA-10,0.0598073812227717
+Wald + Wind,Bad Berleburg,BB-02--BB-03,Gleichgewichtung,Oberer_Whisker,PA-04--PA-09,0.0883351486522435
+Wald + Wind,Bad Berleburg,BB-02--BB-04,Gleichgewichtung,Oberer_Whisker,PA-03--PA-06,0.1145424641949877
+Wald + Wind,Bad Berleburg,BB-02--BB-05,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.0754146730030595
+Wald + Wind,Bad Berleburg,BB-02--BB-06,Gleichgewichtung,Oberer_Whisker,PA-01--PA-06,0.3573400167862102
+Wald + Wind,Bad Berleburg,BB-02--BB-07,Gleichgewichtung,Oberer_Whisker,PA-03--PA-08,0.0982833222399304
+Wald + Wind,Bad Berleburg,BB-03--BB-04,Gleichgewichtung,Oberer_Whisker,PA-04--PA-08,0.1251947709094279
+Wald + Wind,Bad Berleburg,BB-03--BB-05,Gleichgewichtung,Oberer_Whisker,PA-03--PA-09,0.0493191746494836
+Wald + Wind,Bad Berleburg,BB-03--BB-06,Gleichgewichtung,Oberer_Whisker,PA-04--PA-10,0.0162161478333345
+Wald + Wind,Bad Berleburg,BB-03--BB-07,Gleichgewichtung,Oberer_Whisker,PA-01--PA-08,0.2920102274811937
+Wald + Wind,Bad Berleburg,BB-04--BB-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-03,0.1662242709890953
+Wald + Wind,Bad Berleburg,BB-04--BB-06,Gleichgewichtung,Oberer_Whisker,PA-04--PA-11,0.1656039413780689
+Wald + Wind,Bad Berleburg,BB-04--BB-07,Gleichgewichtung,Oberer_Whisker,PA-04--PA-05,0.0489973478644186
+Wald + Wind,Bad Berleburg,BB-05--BB-06,Gleichgewichtung,Oberer_Whisker,PA-01--PA-03,0.1495997129664751
+Wald + Wind,Bad Berleburg,BB-05--BB-07,Gleichgewichtung,Oberer_Whisker,PA-04--PA-09,0.0870956738861873
+Wald + Wind,Bad Berleburg,BB-06--BB-07,Gleichgewichtung,Oberer_Whisker,PA-01--PA-06,0.6846206798891818
+Wald + Wind,Bad Berleburg,BB-01--BB-02,Gleichgewichtung,Quantil_95,AM-02--AM-04,0.1887025454693409
+Wald + Wind,Bad Berleburg,BB-01--BB-03,Gleichgewichtung,Quantil_95,PA-08--PA-11,0.0596539838965499
+Wald + Wind,Bad Berleburg,BB-01--BB-04,Gleichgewichtung,Quantil_95,PA-04--PA-05,0.0917201733010204
+Wald + Wind,Bad Berleburg,BB-01--BB-05,Gleichgewichtung,Quantil_95,PA-06--PA-11,0.1301645086834885
+Wald + Wind,Bad Berleburg,BB-01--BB-06,Gleichgewichtung,Quantil_95,PA-04--PA-10,0.1624315341476489
+Wald + Wind,Bad Berleburg,BB-01--BB-07,Gleichgewichtung,Quantil_95,PA-04--PA-10,0.0598073812227717
+Wald + Wind,Bad Berleburg,BB-02--BB-03,Gleichgewichtung,Quantil_95,PA-04--PA-09,0.0883351486522435
+Wald + Wind,Bad Berleburg,BB-02--BB-04,Gleichgewichtung,Quantil_95,PA-03--PA-06,0.1145424641949877
+Wald + Wind,Bad Berleburg,BB-02--BB-05,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.0754146730030595
+Wald + Wind,Bad Berleburg,BB-02--BB-06,Gleichgewichtung,Quantil_95,PA-01--PA-06,0.3573400167862102
+Wald + Wind,Bad Berleburg,BB-02--BB-07,Gleichgewichtung,Quantil_95,PA-03--PA-08,0.0982833222399304
+Wald + Wind,Bad Berleburg,BB-03--BB-04,Gleichgewichtung,Quantil_95,PA-04--PA-08,0.1251947709094279
+Wald + Wind,Bad Berleburg,BB-03--BB-05,Gleichgewichtung,Quantil_95,PA-03--PA-09,0.0493191746494836
+Wald + Wind,Bad Berleburg,BB-03--BB-06,Gleichgewichtung,Quantil_95,PA-04--PA-10,0.0162161478333345
+Wald + Wind,Bad Berleburg,BB-03--BB-07,Gleichgewichtung,Quantil_95,PA-01--PA-08,0.2920102274811937
+Wald + Wind,Bad Berleburg,BB-04--BB-05,Gleichgewichtung,Quantil_95,AM-01--AM-03,0.1662242709890953
+Wald + Wind,Bad Berleburg,BB-04--BB-06,Gleichgewichtung,Quantil_95,PA-04--PA-11,0.1656039413780689
+Wald + Wind,Bad Berleburg,BB-04--BB-07,Gleichgewichtung,Quantil_95,PA-04--PA-05,0.0489973478644186
+Wald + Wind,Bad Berleburg,BB-05--BB-06,Gleichgewichtung,Quantil_95,PA-01--PA-03,0.1495997129664751
+Wald + Wind,Bad Berleburg,BB-05--BB-07,Gleichgewichtung,Quantil_95,PA-04--PA-09,0.0870956738861873
+Wald + Wind,Bad Berleburg,BB-06--BB-07,Gleichgewichtung,Quantil_95,PA-01--PA-06,0.6846206798891818
+Wald + Wind,Borken-Coesfeld,BC-01--BC-02,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-07,0.074817360994317
+Wald + Wind,Borken-Coesfeld,BC-01--BC-03,Koeffizientenbetraege,Oberer_Whisker,PA-06--PA-08,0.1176717717730526
+Wald + Wind,Borken-Coesfeld,BC-01--BC-04,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-03,0.0437799792812766
+Wald + Wind,Borken-Coesfeld,BC-01--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-03,0.1764544966541082
+Wald + Wind,Borken-Coesfeld,BC-01--BC-06,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.0416920731069292
+Wald + Wind,Borken-Coesfeld,BC-02--BC-03,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.0463749001003325
+Wald + Wind,Borken-Coesfeld,BC-02--BC-04,Koeffizientenbetraege,Oberer_Whisker,PA-06--PA-08,0.0820072192686793
+Wald + Wind,Borken-Coesfeld,BC-02--BC-05,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-03,0.116545723403926
+Wald + Wind,Borken-Coesfeld,BC-02--BC-06,Koeffizientenbetraege,Oberer_Whisker,PA-08--PA-09,0.0713351799052717
+Wald + Wind,Borken-Coesfeld,BC-03--BC-04,Koeffizientenbetraege,Oberer_Whisker,AS-03--AS-04,0.0914851081226911
+Wald + Wind,Borken-Coesfeld,BC-03--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-03,0.0916705470782405
+Wald + Wind,Borken-Coesfeld,BC-03--BC-06,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-07,0.1249503071345299
+Wald + Wind,Borken-Coesfeld,BC-04--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-03,0.1255156823822949
+Wald + Wind,Borken-Coesfeld,BC-04--BC-06,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-07,0.0401118791536325
+Wald + Wind,Borken-Coesfeld,BC-05--BC-06,Koeffizientenbetraege,Oberer_Whisker,PA-11--PA-12,0.1357325864088331
+Wald + Wind,Borken-Coesfeld,BC-01--BC-02,Koeffizientenbetraege,Quantil_95,PA-05--PA-07,0.074817360994317
+Wald + Wind,Borken-Coesfeld,BC-01--BC-03,Koeffizientenbetraege,Quantil_95,PA-06--PA-08,0.1176717717730526
+Wald + Wind,Borken-Coesfeld,BC-01--BC-04,Koeffizientenbetraege,Quantil_95,AS-01--AS-03,0.0437799792812766
+Wald + Wind,Borken-Coesfeld,BC-01--BC-05,Koeffizientenbetraege,Quantil_95,AS-01--AS-03,0.1764544966541082
+Wald + Wind,Borken-Coesfeld,BC-01--BC-06,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.0416920731069292
+Wald + Wind,Borken-Coesfeld,BC-02--BC-03,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.0463749001003325
+Wald + Wind,Borken-Coesfeld,BC-02--BC-04,Koeffizientenbetraege,Quantil_95,PA-06--PA-08,0.0820072192686793
+Wald + Wind,Borken-Coesfeld,BC-02--BC-05,Koeffizientenbetraege,Quantil_95,RB-01--RB-03,0.116545723403926
+Wald + Wind,Borken-Coesfeld,BC-02--BC-06,Koeffizientenbetraege,Quantil_95,PA-08--PA-09,0.0713351799052717
+Wald + Wind,Borken-Coesfeld,BC-03--BC-04,Koeffizientenbetraege,Quantil_95,AS-03--AS-04,0.0914851081226911
+Wald + Wind,Borken-Coesfeld,BC-03--BC-05,Koeffizientenbetraege,Quantil_95,AS-01--AS-03,0.0916705470782405
+Wald + Wind,Borken-Coesfeld,BC-03--BC-06,Koeffizientenbetraege,Quantil_95,PA-05--PA-07,0.1249503071345299
+Wald + Wind,Borken-Coesfeld,BC-04--BC-05,Koeffizientenbetraege,Quantil_95,AS-01--AS-03,0.1255156823822949
+Wald + Wind,Borken-Coesfeld,BC-04--BC-06,Koeffizientenbetraege,Quantil_95,PA-05--PA-07,0.0401118791536325
+Wald + Wind,Borken-Coesfeld,BC-05--BC-06,Koeffizientenbetraege,Quantil_95,PA-11--PA-12,0.1357325864088331
+Wald + Wind,Borken-Coesfeld,BC-01--BC-02,Gleichgewichtung,Oberer_Whisker,PA-05--PA-07,0.0649858277008397
+Wald + Wind,Borken-Coesfeld,BC-01--BC-03,Gleichgewichtung,Oberer_Whisker,PA-06--PA-08,0.1062887385218522
+Wald + Wind,Borken-Coesfeld,BC-01--BC-04,Gleichgewichtung,Oberer_Whisker,AS-01--AS-03,0.0390150028385594
+Wald + Wind,Borken-Coesfeld,BC-01--BC-05,Gleichgewichtung,Oberer_Whisker,PA-06--PA-08,0.1576112249617443
+Wald + Wind,Borken-Coesfeld,BC-01--BC-06,Gleichgewichtung,Oberer_Whisker,AS-02--AS-03,0.0486705884576778
+Wald + Wind,Borken-Coesfeld,BC-02--BC-03,Gleichgewichtung,Oberer_Whisker,AS-02--AS-03,0.0482000667391791
+Wald + Wind,Borken-Coesfeld,BC-02--BC-04,Gleichgewichtung,Oberer_Whisker,PA-06--PA-08,0.0806667456855751
+Wald + Wind,Borken-Coesfeld,BC-02--BC-05,Gleichgewichtung,Oberer_Whisker,RB-01--RB-03,0.108602158410078
+Wald + Wind,Borken-Coesfeld,BC-02--BC-06,Gleichgewichtung,Oberer_Whisker,PA-08--PA-09,0.0887737322974177
+Wald + Wind,Borken-Coesfeld,BC-03--BC-04,Gleichgewichtung,Oberer_Whisker,AS-03--AS-04,0.0914314783990464
+Wald + Wind,Borken-Coesfeld,BC-03--BC-05,Gleichgewichtung,Oberer_Whisker,AS-01--AS-03,0.1148027248024588
+Wald + Wind,Borken-Coesfeld,BC-03--BC-06,Gleichgewichtung,Oberer_Whisker,PA-05--PA-07,0.1569368595901766
+Wald + Wind,Borken-Coesfeld,BC-04--BC-05,Gleichgewichtung,Oberer_Whisker,AS-01--AS-03,0.1579105027555559
+Wald + Wind,Borken-Coesfeld,BC-04--BC-06,Gleichgewichtung,Oberer_Whisker,PA-05--PA-07,0.0410803033536691
+Wald + Wind,Borken-Coesfeld,BC-05--BC-06,Gleichgewichtung,Oberer_Whisker,PA-11--PA-12,0.1177600798103067
+Wald + Wind,Borken-Coesfeld,BC-01--BC-02,Gleichgewichtung,Quantil_95,PA-05--PA-07,0.0649858277008397
+Wald + Wind,Borken-Coesfeld,BC-01--BC-03,Gleichgewichtung,Quantil_95,PA-06--PA-08,0.1062887385218522
+Wald + Wind,Borken-Coesfeld,BC-01--BC-04,Gleichgewichtung,Quantil_95,AS-01--AS-03,0.0390150028385594
+Wald + Wind,Borken-Coesfeld,BC-01--BC-05,Gleichgewichtung,Quantil_95,PA-06--PA-08,0.1576112249617443
+Wald + Wind,Borken-Coesfeld,BC-01--BC-06,Gleichgewichtung,Quantil_95,AS-02--AS-03,0.0486705884576778
+Wald + Wind,Borken-Coesfeld,BC-02--BC-03,Gleichgewichtung,Quantil_95,AS-02--AS-03,0.0482000667391791
+Wald + Wind,Borken-Coesfeld,BC-02--BC-04,Gleichgewichtung,Quantil_95,PA-06--PA-08,0.0806667456855751
+Wald + Wind,Borken-Coesfeld,BC-02--BC-05,Gleichgewichtung,Quantil_95,RB-01--RB-03,0.108602158410078
+Wald + Wind,Borken-Coesfeld,BC-02--BC-06,Gleichgewichtung,Quantil_95,PA-08--PA-09,0.0887737322974177
+Wald + Wind,Borken-Coesfeld,BC-03--BC-04,Gleichgewichtung,Quantil_95,AS-03--AS-04,0.0914314783990464
+Wald + Wind,Borken-Coesfeld,BC-03--BC-05,Gleichgewichtung,Quantil_95,AS-01--AS-03,0.1148027248024588
+Wald + Wind,Borken-Coesfeld,BC-03--BC-06,Gleichgewichtung,Quantil_95,PA-05--PA-07,0.1569368595901766
+Wald + Wind,Borken-Coesfeld,BC-04--BC-05,Gleichgewichtung,Quantil_95,AS-01--AS-03,0.1579105027555559
+Wald + Wind,Borken-Coesfeld,BC-04--BC-06,Gleichgewichtung,Quantil_95,PA-05--PA-07,0.0410803033536691
+Wald + Wind,Borken-Coesfeld,BC-05--BC-06,Gleichgewichtung,Quantil_95,PA-11--PA-12,0.1177600798103067
+Wald + Wind,Lorup,LO-01--LO-02,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-02,0.1775613361172756
+Wald + Wind,Lorup,LO-01--LO-03,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.2127447104105125
+Wald + Wind,Lorup,LO-02--LO-03,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-02,0.1084081735789661
+Wald + Wind,Lorup,LO-01--LO-02,Koeffizientenbetraege,Quantil_95,AS-01--AS-02,0.1775613361172756
+Wald + Wind,Lorup,LO-01--LO-03,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.2127447104105125
+Wald + Wind,Lorup,LO-02--LO-03,Koeffizientenbetraege,Quantil_95,AS-01--AS-02,0.1084081735789661
+Wald + Wind,Lorup,LO-01--LO-02,Gleichgewichtung,Oberer_Whisker,AS-01--AS-02,0.1760246449336633
+Wald + Wind,Lorup,LO-01--LO-03,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.2035599516522779
+Wald + Wind,Lorup,LO-02--LO-03,Gleichgewichtung,Oberer_Whisker,AS-01--AS-02,0.1142539807273105
+Wald + Wind,Lorup,LO-01--LO-02,Gleichgewichtung,Quantil_95,AS-01--AS-02,0.1760246449336633
+Wald + Wind,Lorup,LO-01--LO-03,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.2035599516522779
+Wald + Wind,Lorup,LO-02--LO-03,Gleichgewichtung,Quantil_95,AS-01--AS-02,0.1142539807273105
+Wald + Wind,Ostfriesland,OF-01--OF-02,Koeffizientenbetraege,Oberer_Whisker,AS-05--AS-06,0.1369246538764773
+Wald + Wind,Ostfriesland,OF-01--OF-03,Koeffizientenbetraege,Oberer_Whisker,RB-02--RB-03,0.1487563432816344
+Wald + Wind,Ostfriesland,OF-01--OF-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-04,0.0608471083714365
+Wald + Wind,Ostfriesland,OF-02--OF-03,Koeffizientenbetraege,Oberer_Whisker,RB-04--RB-05,0.2640395176211786
+Wald + Wind,Ostfriesland,OF-02--OF-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-04,0.1092658288091054
+Wald + Wind,Ostfriesland,OF-03--OF-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-06,0.1942238678755009
+Wald + Wind,Ostfriesland,OF-01--OF-02,Koeffizientenbetraege,Quantil_95,AS-05--AS-06,0.1369246538764773
+Wald + Wind,Ostfriesland,OF-01--OF-03,Koeffizientenbetraege,Quantil_95,RB-02--RB-03,0.1487563432816344
+Wald + Wind,Ostfriesland,OF-01--OF-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-04,0.0608471083714365
+Wald + Wind,Ostfriesland,OF-02--OF-03,Koeffizientenbetraege,Quantil_95,RB-04--RB-05,0.2640395176211786
+Wald + Wind,Ostfriesland,OF-02--OF-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-04,0.1092658288091054
+Wald + Wind,Ostfriesland,OF-03--OF-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-06,0.1942238678755009
+Wald + Wind,Ostfriesland,OF-01--OF-02,Gleichgewichtung,Oberer_Whisker,AS-05--AS-06,0.1687236188246539
+Wald + Wind,Ostfriesland,OF-01--OF-03,Gleichgewichtung,Oberer_Whisker,AS-05--AS-06,0.1848041212621405
+Wald + Wind,Ostfriesland,OF-01--OF-04,Gleichgewichtung,Oberer_Whisker,AS-02--AS-04,0.071873798604449
+Wald + Wind,Ostfriesland,OF-02--OF-03,Gleichgewichtung,Oberer_Whisker,AS-05--AS-06,0.3294115113059732
+Wald + Wind,Ostfriesland,OF-02--OF-04,Gleichgewichtung,Oberer_Whisker,AS-02--AS-04,0.0888450004383842
+Wald + Wind,Ostfriesland,OF-03--OF-04,Gleichgewichtung,Oberer_Whisker,AS-02--AS-06,0.1576908104698928
+Wald + Wind,Ostfriesland,OF-01--OF-02,Gleichgewichtung,Quantil_95,AS-05--AS-06,0.1687236188246539
+Wald + Wind,Ostfriesland,OF-01--OF-03,Gleichgewichtung,Quantil_95,AS-05--AS-06,0.1848041212621405
+Wald + Wind,Ostfriesland,OF-01--OF-04,Gleichgewichtung,Quantil_95,AS-02--AS-04,0.071873798604449
+Wald + Wind,Ostfriesland,OF-02--OF-03,Gleichgewichtung,Quantil_95,AS-05--AS-06,0.3294115113059732
+Wald + Wind,Ostfriesland,OF-02--OF-04,Gleichgewichtung,Quantil_95,AS-02--AS-04,0.0888450004383842
+Wald + Wind,Ostfriesland,OF-03--OF-04,Gleichgewichtung,Quantil_95,AS-02--AS-06,0.1576908104698928
+Wald + Wind,Paderborn,PA-01--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-06,0.5130031227653958
+Wald + Wind,Paderborn,PA-01--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-06,0.7167188234538441
+Wald + Wind,Paderborn,PA-01--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,1.2421692974814753
+Wald + Wind,Paderborn,PA-01--PA-02,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.6891908130939712
+Wald + Wind,Paderborn,PA-01--PA-03,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-05,0.1267998267525517
+Wald + Wind,Paderborn,PA-01--PA-04,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.3971455172212078
+Wald + Wind,Paderborn,PA-01--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.5190938647774592
+Wald + Wind,Paderborn,PA-01--PA-06,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-06,0.3983776704828486
+Wald + Wind,Paderborn,PA-01--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.6609721195676056
+Wald + Wind,Paderborn,PA-01--PA-08,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,0.3379723021291754
+Wald + Wind,Paderborn,PA-01--PA-09,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,0.9450815482334088
+Wald + Wind,Paderborn,PA-10--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.1045576307216065
+Wald + Wind,Paderborn,PA-10--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.387624081025992
+Wald + Wind,Paderborn,PA-02--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.93094505537795
+Wald + Wind,Paderborn,PA-03--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-05,0.0853551277493897
+Wald + Wind,Paderborn,PA-04--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-06,0.0192759139412479
+Wald + Wind,Paderborn,PA-05--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-05,0.0659484572292506
+Wald + Wind,Paderborn,PA-06--PA-10,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-05,0.073369510213219
+Wald + Wind,Paderborn,PA-07--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-03,0.3657726363220058
+Wald + Wind,Paderborn,PA-08--PA-10,Koeffizientenbetraege,Oberer_Whisker,RB-02--RB-05,0.1326118007334723
+Wald + Wind,Paderborn,PA-09--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-03,0.1948574712873908
+Wald + Wind,Paderborn,PA-11--PA-12,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-04,0.1377883702243788
+Wald + Wind,Paderborn,PA-02--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,0.4639252344930283
+Wald + Wind,Paderborn,PA-03--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.3341832113497731
+Wald + Wind,Paderborn,PA-04--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-04--BB-06,0.1822652556426488
+Wald + Wind,Paderborn,PA-05--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-03,0.055414234232191
+Wald + Wind,Paderborn,PA-06--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.1366360011415258
+Wald + Wind,Paderborn,PA-07--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.0420757654705832
+Wald + Wind,Paderborn,PA-08--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-03,0.0766898000906506
+Wald + Wind,Paderborn,PA-09--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.2675752951071117
+Wald + Wind,Paderborn,PA-02--PA-12,Koeffizientenbetraege,Oberer_Whisker,BB-04--BB-06,0.2229022329249604
+Wald + Wind,Paderborn,PA-03--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.9729543468023862
+Wald + Wind,Paderborn,PA-04--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.7329734473040406
+Wald + Wind,Paderborn,PA-05--PA-12,Koeffizientenbetraege,Oberer_Whisker,BB-05--BB-07,0.2004770334553851
+Wald + Wind,Paderborn,PA-06--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.4875730132841252
+Wald + Wind,Paderborn,PA-07--PA-12,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-05,0.1957691570410707
+Wald + Wind,Paderborn,PA-08--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.4461480475285656
+Wald + Wind,Paderborn,PA-09--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.5025577044075935
+Wald + Wind,Paderborn,PA-02--PA-03,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.8634510102601871
+Wald + Wind,Paderborn,PA-02--PA-04,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.7444241747938681
+Wald + Wind,Paderborn,PA-02--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.8125643375461914
+Wald + Wind,Paderborn,PA-02--PA-06,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.9028574180922312
+Wald + Wind,Paderborn,PA-02--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.6374350071665885
+Wald + Wind,Paderborn,PA-02--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,1.0677105202914223
+Wald + Wind,Paderborn,PA-02--PA-09,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,1.0858625973158915
+Wald + Wind,Paderborn,PA-03--PA-04,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-05,0.3094889830302536
+Wald + Wind,Paderborn,PA-03--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.2469393827938071
+Wald + Wind,Paderborn,PA-03--PA-06,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-04,0.1348506122618566
+Wald + Wind,Paderborn,PA-03--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.3507849538485658
+Wald + Wind,Paderborn,PA-03--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.0805781729960167
+Wald + Wind,Paderborn,PA-03--PA-09,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-05,0.062469216593745
+Wald + Wind,Paderborn,PA-04--PA-05,Koeffizientenbetraege,Oberer_Whisker,BB-04--BB-07,0.0601399033885076
+Wald + Wind,Paderborn,PA-04--PA-06,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-07,0.2668746416122714
+Wald + Wind,Paderborn,PA-04--PA-07,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-05,0.1313636849210985
+Wald + Wind,Paderborn,PA-04--PA-08,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-04,0.1409681731902252
+Wald + Wind,Paderborn,PA-04--PA-09,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-05,0.0968828611370271
+Wald + Wind,Paderborn,PA-05--PA-06,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-04,0.1001921884973092
+Wald + Wind,Paderborn,PA-05--PA-07,Koeffizientenbetraege,Oberer_Whisker,BC-04--BC-06,0.0494553930693687
+Wald + Wind,Paderborn,PA-05--PA-08,Koeffizientenbetraege,Oberer_Whisker,BC-02--BC-06,0.1989500802076732
+Wald + Wind,Paderborn,PA-05--PA-09,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-03,0.0776477680650419
+Wald + Wind,Paderborn,PA-06--PA-07,Koeffizientenbetraege,Oberer_Whisker,BC-05--BC-06,0.2182124538704739
+Wald + Wind,Paderborn,PA-06--PA-08,Koeffizientenbetraege,Oberer_Whisker,BC-02--BC-04,0.1008611535208313
+Wald + Wind,Paderborn,PA-06--PA-09,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-04,0.1446014998654647
+Wald + Wind,Paderborn,PA-07--PA-08,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-04,0.0640566807388099
+Wald + Wind,Paderborn,PA-07--PA-09,Koeffizientenbetraege,Oberer_Whisker,RB-03--RB-05,0.0914615342807925
+Wald + Wind,Paderborn,PA-08--PA-09,Koeffizientenbetraege,Oberer_Whisker,BC-02--BC-06,0.0892693802138513
+Wald + Wind,Paderborn,PA-01--PA-10,Koeffizientenbetraege,Quantil_95,BB-02--BB-06,0.5130031227653958
+Wald + Wind,Paderborn,PA-01--PA-11,Koeffizientenbetraege,Quantil_95,BB-02--BB-06,0.7167188234538441
+Wald + Wind,Paderborn,PA-01--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,1.2421692974814753
+Wald + Wind,Paderborn,PA-01--PA-02,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.6891908130939712
+Wald + Wind,Paderborn,PA-01--PA-03,Koeffizientenbetraege,Quantil_95,BB-02--BB-05,0.1267998267525517
+Wald + Wind,Paderborn,PA-01--PA-04,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.3971455172212078
+Wald + Wind,Paderborn,PA-01--PA-05,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.5190938647774592
+Wald + Wind,Paderborn,PA-01--PA-06,Koeffizientenbetraege,Quantil_95,BB-02--BB-06,0.3983776704828486
+Wald + Wind,Paderborn,PA-01--PA-07,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.6609721195676056
+Wald + Wind,Paderborn,PA-01--PA-08,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,0.3379723021291754
+Wald + Wind,Paderborn,PA-01--PA-09,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,0.9450815482334088
+Wald + Wind,Paderborn,PA-10--PA-11,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.1045576307216065
+Wald + Wind,Paderborn,PA-10--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.387624081025992
+Wald + Wind,Paderborn,PA-02--PA-10,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.93094505537795
+Wald + Wind,Paderborn,PA-03--PA-10,Koeffizientenbetraege,Quantil_95,BB-02--BB-05,0.0853551277493897
+Wald + Wind,Paderborn,PA-04--PA-10,Koeffizientenbetraege,Quantil_95,BB-03--BB-06,0.0192759139412479
+Wald + Wind,Paderborn,PA-05--PA-10,Koeffizientenbetraege,Quantil_95,BB-03--BB-05,0.0659484572292506
+Wald + Wind,Paderborn,PA-06--PA-10,Koeffizientenbetraege,Quantil_95,RB-01--RB-05,0.073369510213219
+Wald + Wind,Paderborn,PA-07--PA-10,Koeffizientenbetraege,Quantil_95,BB-01--BB-03,0.3657726363220058
+Wald + Wind,Paderborn,PA-08--PA-10,Koeffizientenbetraege,Quantil_95,RB-02--RB-05,0.1326118007334723
+Wald + Wind,Paderborn,PA-09--PA-10,Koeffizientenbetraege,Quantil_95,BB-01--BB-03,0.1948574712873908
+Wald + Wind,Paderborn,PA-11--PA-12,Koeffizientenbetraege,Quantil_95,BC-01--BC-04,0.1377883702243788
+Wald + Wind,Paderborn,PA-02--PA-11,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,0.4639252344930283
+Wald + Wind,Paderborn,PA-03--PA-11,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.3341832113497731
+Wald + Wind,Paderborn,PA-04--PA-11,Koeffizientenbetraege,Quantil_95,BB-04--BB-06,0.1822652556426488
+Wald + Wind,Paderborn,PA-05--PA-11,Koeffizientenbetraege,Quantil_95,AM-01--AM-03,0.055414234232191
+Wald + Wind,Paderborn,PA-06--PA-11,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.1366360011415258
+Wald + Wind,Paderborn,PA-07--PA-11,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.0420757654705832
+Wald + Wind,Paderborn,PA-08--PA-11,Koeffizientenbetraege,Quantil_95,BB-01--BB-03,0.0766898000906506
+Wald + Wind,Paderborn,PA-09--PA-11,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.2675752951071117
+Wald + Wind,Paderborn,PA-02--PA-12,Koeffizientenbetraege,Quantil_95,BB-04--BB-06,0.2229022329249604
+Wald + Wind,Paderborn,PA-03--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.9729543468023862
+Wald + Wind,Paderborn,PA-04--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.7329734473040406
+Wald + Wind,Paderborn,PA-05--PA-12,Koeffizientenbetraege,Quantil_95,BB-05--BB-07,0.2004770334553851
+Wald + Wind,Paderborn,PA-06--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.4875730132841252
+Wald + Wind,Paderborn,PA-07--PA-12,Koeffizientenbetraege,Quantil_95,BB-03--BB-05,0.1957691570410707
+Wald + Wind,Paderborn,PA-08--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.4461480475285656
+Wald + Wind,Paderborn,PA-09--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.5025577044075935
+Wald + Wind,Paderborn,PA-02--PA-03,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.8634510102601871
+Wald + Wind,Paderborn,PA-02--PA-04,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.7444241747938681
+Wald + Wind,Paderborn,PA-02--PA-05,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.8125643375461914
+Wald + Wind,Paderborn,PA-02--PA-06,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.9028574180922312
+Wald + Wind,Paderborn,PA-02--PA-07,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.6374350071665885
+Wald + Wind,Paderborn,PA-02--PA-08,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,1.0677105202914223
+Wald + Wind,Paderborn,PA-02--PA-09,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,1.0858625973158915
+Wald + Wind,Paderborn,PA-03--PA-04,Koeffizientenbetraege,Quantil_95,BB-03--BB-05,0.3094889830302536
+Wald + Wind,Paderborn,PA-03--PA-05,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.2469393827938071
+Wald + Wind,Paderborn,PA-03--PA-06,Koeffizientenbetraege,Quantil_95,BB-02--BB-04,0.1348506122618566
+Wald + Wind,Paderborn,PA-03--PA-07,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.3507849538485658
+Wald + Wind,Paderborn,PA-03--PA-08,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.0805781729960167
+Wald + Wind,Paderborn,PA-03--PA-09,Koeffizientenbetraege,Quantil_95,BB-03--BB-05,0.062469216593745
+Wald + Wind,Paderborn,PA-04--PA-05,Koeffizientenbetraege,Quantil_95,BB-04--BB-07,0.0601399033885076
+Wald + Wind,Paderborn,PA-04--PA-06,Koeffizientenbetraege,Quantil_95,BB-01--BB-07,0.2668746416122714
+Wald + Wind,Paderborn,PA-04--PA-07,Koeffizientenbetraege,Quantil_95,BB-03--BB-05,0.1313636849210985
+Wald + Wind,Paderborn,PA-04--PA-08,Koeffizientenbetraege,Quantil_95,BB-03--BB-04,0.1409681731902252
+Wald + Wind,Paderborn,PA-04--PA-09,Koeffizientenbetraege,Quantil_95,BB-02--BB-05,0.0968828611370271
+Wald + Wind,Paderborn,PA-05--PA-06,Koeffizientenbetraege,Quantil_95,BC-01--BC-04,0.1001921884973092
+Wald + Wind,Paderborn,PA-05--PA-07,Koeffizientenbetraege,Quantil_95,BC-04--BC-06,0.0494553930693687
+Wald + Wind,Paderborn,PA-05--PA-08,Koeffizientenbetraege,Quantil_95,BC-02--BC-06,0.1989500802076732
+Wald + Wind,Paderborn,PA-05--PA-09,Koeffizientenbetraege,Quantil_95,BB-01--BB-03,0.0776477680650419
+Wald + Wind,Paderborn,PA-06--PA-07,Koeffizientenbetraege,Quantil_95,BC-05--BC-06,0.2182124538704739
+Wald + Wind,Paderborn,PA-06--PA-08,Koeffizientenbetraege,Quantil_95,BC-02--BC-04,0.1008611535208313
+Wald + Wind,Paderborn,PA-06--PA-09,Koeffizientenbetraege,Quantil_95,AS-01--AS-04,0.1446014998654647
+Wald + Wind,Paderborn,PA-07--PA-08,Koeffizientenbetraege,Quantil_95,AS-01--AS-04,0.0640566807388099
+Wald + Wind,Paderborn,PA-07--PA-09,Koeffizientenbetraege,Quantil_95,RB-03--RB-05,0.0914615342807925
+Wald + Wind,Paderborn,PA-08--PA-09,Koeffizientenbetraege,Quantil_95,BC-02--BC-06,0.0892693802138513
+Wald + Wind,Paderborn,PA-01--PA-10,Gleichgewichtung,Oberer_Whisker,BB-02--BB-06,0.6599515653722067
+Wald + Wind,Paderborn,PA-01--PA-11,Gleichgewichtung,Oberer_Whisker,BB-03--BB-07,0.90932834595063
+Wald + Wind,Paderborn,PA-01--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.3334048025173837
+Wald + Wind,Paderborn,PA-01--PA-02,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.8408578642258926
+Wald + Wind,Paderborn,PA-01--PA-03,Gleichgewichtung,Oberer_Whisker,BB-02--BB-05,0.1168099783258647
+Wald + Wind,Paderborn,PA-01--PA-04,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.3862198178109794
+Wald + Wind,Paderborn,PA-01--PA-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.5828423758236896
+Wald + Wind,Paderborn,PA-01--PA-06,Gleichgewichtung,Oberer_Whisker,BB-03--BB-07,0.4774628672261062
+Wald + Wind,Paderborn,PA-01--PA-07,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.7611627721466384
+Wald + Wind,Paderborn,PA-01--PA-08,Gleichgewichtung,Oberer_Whisker,BB-03--BB-07,0.3934276391818982
+Wald + Wind,Paderborn,PA-01--PA-09,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.9866222144847716
+Wald + Wind,Paderborn,PA-10--PA-11,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.1015990757107149
+Wald + Wind,Paderborn,PA-10--PA-12,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.4911070470412465
+Wald + Wind,Paderborn,PA-02--PA-10,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.1301623933413505
+Wald + Wind,Paderborn,PA-03--PA-10,Gleichgewichtung,Oberer_Whisker,BB-02--BB-05,0.1043586079351047
+Wald + Wind,Paderborn,PA-04--PA-10,Gleichgewichtung,Oberer_Whisker,BB-03--BB-06,0.0210832236681168
+Wald + Wind,Paderborn,PA-05--PA-10,Gleichgewichtung,Oberer_Whisker,BB-03--BB-05,0.0577457200035487
+Wald + Wind,Paderborn,PA-06--PA-10,Gleichgewichtung,Oberer_Whisker,RB-01--RB-05,0.0890288731668357
+Wald + Wind,Paderborn,PA-07--PA-10,Gleichgewichtung,Oberer_Whisker,BB-03--BB-05,0.3957199191872002
+Wald + Wind,Paderborn,PA-08--PA-10,Gleichgewichtung,Oberer_Whisker,RB-03--RB-04,0.147826572240162
+Wald + Wind,Paderborn,PA-09--PA-10,Gleichgewichtung,Oberer_Whisker,BB-01--BB-03,0.1946231140407796
+Wald + Wind,Paderborn,PA-11--PA-12,Gleichgewichtung,Oberer_Whisker,BC-05--BC-06,0.1468949818372566
+Wald + Wind,Paderborn,PA-02--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.5334235613233832
+Wald + Wind,Paderborn,PA-03--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.3813411482633755
+Wald + Wind,Paderborn,PA-04--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.229863625423439
+Wald + Wind,Paderborn,PA-05--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-03,0.0655321958810168
+Wald + Wind,Paderborn,PA-06--PA-11,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.132777184510971
+Wald + Wind,Paderborn,PA-07--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.0401663581976669
+Wald + Wind,Paderborn,PA-08--PA-11,Gleichgewichtung,Oberer_Whisker,BB-01--BB-03,0.0675566829013175
+Wald + Wind,Paderborn,PA-09--PA-11,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.2364947023077348
+Wald + Wind,Paderborn,PA-02--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.2593548550362977
+Wald + Wind,Paderborn,PA-03--PA-12,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,1.1298872953631858
+Wald + Wind,Paderborn,PA-04--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.9329738134364522
+Wald + Wind,Paderborn,PA-05--PA-12,Gleichgewichtung,Oberer_Whisker,BB-05--BB-07,0.254975953469819
+Wald + Wind,Paderborn,PA-06--PA-12,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.4283535861471809
+Wald + Wind,Paderborn,PA-07--PA-12,Gleichgewichtung,Oberer_Whisker,BB-03--BB-05,0.2284491356123801
+Wald + Wind,Paderborn,PA-08--PA-12,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.4159208773213548
+Wald + Wind,Paderborn,PA-09--PA-12,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.5491647492507901
+Wald + Wind,Paderborn,PA-02--PA-03,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.1100188139525622
+Wald + Wind,Paderborn,PA-02--PA-04,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.7333851475824517
+Wald + Wind,Paderborn,PA-02--PA-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.8583855047774164
+Wald + Wind,Paderborn,PA-02--PA-06,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.9474565367451564
+Wald + Wind,Paderborn,PA-02--PA-07,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.6715112530113442
+Wald + Wind,Paderborn,PA-02--PA-08,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.301631979358292
+Wald + Wind,Paderborn,PA-02--PA-09,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.2916778070814732
+Wald + Wind,Paderborn,PA-03--PA-04,Gleichgewichtung,Oberer_Whisker,BB-03--BB-05,0.3253146018430908
+Wald + Wind,Paderborn,PA-03--PA-05,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.2396588151674549
+Wald + Wind,Paderborn,PA-03--PA-06,Gleichgewichtung,Oberer_Whisker,BB-02--BB-04,0.15092675590104
+Wald + Wind,Paderborn,PA-03--PA-07,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.3495348498377633
+Wald + Wind,Paderborn,PA-03--PA-08,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.0770583450015366
+Wald + Wind,Paderborn,PA-03--PA-09,Gleichgewichtung,Oberer_Whisker,BB-03--BB-05,0.0576162067806396
+Wald + Wind,Paderborn,PA-04--PA-05,Gleichgewichtung,Oberer_Whisker,BB-04--BB-07,0.0606297177419455
+Wald + Wind,Paderborn,PA-04--PA-06,Gleichgewichtung,Oberer_Whisker,BB-01--BB-07,0.2725057577562825
+Wald + Wind,Paderborn,PA-04--PA-07,Gleichgewichtung,Oberer_Whisker,BB-03--BB-05,0.1181815292874568
+Wald + Wind,Paderborn,PA-04--PA-08,Gleichgewichtung,Oberer_Whisker,BB-03--BB-04,0.1742524614729672
+Wald + Wind,Paderborn,PA-04--PA-09,Gleichgewichtung,Oberer_Whisker,BB-02--BB-03,0.1145745594428352
+Wald + Wind,Paderborn,PA-05--PA-06,Gleichgewichtung,Oberer_Whisker,BC-01--BC-04,0.0879417350548366
+Wald + Wind,Paderborn,PA-05--PA-07,Gleichgewichtung,Oberer_Whisker,BC-04--BC-06,0.0521904408348231
+Wald + Wind,Paderborn,PA-05--PA-08,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.1822840387996434
+Wald + Wind,Paderborn,PA-05--PA-09,Gleichgewichtung,Oberer_Whisker,BB-01--BB-03,0.0960717971683867
+Wald + Wind,Paderborn,PA-06--PA-07,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.234274469291699
+Wald + Wind,Paderborn,PA-06--PA-08,Gleichgewichtung,Oberer_Whisker,BC-02--BC-04,0.1020889709466445
+Wald + Wind,Paderborn,PA-06--PA-09,Gleichgewichtung,Oberer_Whisker,AS-01--AS-04,0.1860799589474648
+Wald + Wind,Paderborn,PA-07--PA-08,Gleichgewichtung,Oberer_Whisker,AS-01--AS-04,0.0576814963924513
+Wald + Wind,Paderborn,PA-07--PA-09,Gleichgewichtung,Oberer_Whisker,RB-03--RB-05,0.1183213218085432
+Wald + Wind,Paderborn,PA-08--PA-09,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.1144329517271643
+Wald + Wind,Paderborn,PA-01--PA-10,Gleichgewichtung,Quantil_95,BB-02--BB-06,0.6599515653722067
+Wald + Wind,Paderborn,PA-01--PA-11,Gleichgewichtung,Quantil_95,BB-03--BB-07,0.90932834595063
+Wald + Wind,Paderborn,PA-01--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.3334048025173837
+Wald + Wind,Paderborn,PA-01--PA-02,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.8408578642258926
+Wald + Wind,Paderborn,PA-01--PA-03,Gleichgewichtung,Quantil_95,BB-02--BB-05,0.1168099783258647
+Wald + Wind,Paderborn,PA-01--PA-04,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.3862198178109794
+Wald + Wind,Paderborn,PA-01--PA-05,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.5828423758236896
+Wald + Wind,Paderborn,PA-01--PA-06,Gleichgewichtung,Quantil_95,BB-03--BB-07,0.4774628672261062
+Wald + Wind,Paderborn,PA-01--PA-07,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.7611627721466384
+Wald + Wind,Paderborn,PA-01--PA-08,Gleichgewichtung,Quantil_95,BB-03--BB-07,0.3934276391818982
+Wald + Wind,Paderborn,PA-01--PA-09,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.9866222144847716
+Wald + Wind,Paderborn,PA-10--PA-11,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.1015990757107149
+Wald + Wind,Paderborn,PA-10--PA-12,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.4911070470412465
+Wald + Wind,Paderborn,PA-02--PA-10,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.1301623933413505
+Wald + Wind,Paderborn,PA-03--PA-10,Gleichgewichtung,Quantil_95,BB-02--BB-05,0.1043586079351047
+Wald + Wind,Paderborn,PA-04--PA-10,Gleichgewichtung,Quantil_95,BB-03--BB-06,0.0210832236681168
+Wald + Wind,Paderborn,PA-05--PA-10,Gleichgewichtung,Quantil_95,BB-03--BB-05,0.0577457200035487
+Wald + Wind,Paderborn,PA-06--PA-10,Gleichgewichtung,Quantil_95,RB-01--RB-05,0.0890288731668357
+Wald + Wind,Paderborn,PA-07--PA-10,Gleichgewichtung,Quantil_95,BB-03--BB-05,0.3957199191872002
+Wald + Wind,Paderborn,PA-08--PA-10,Gleichgewichtung,Quantil_95,RB-03--RB-04,0.147826572240162
+Wald + Wind,Paderborn,PA-09--PA-10,Gleichgewichtung,Quantil_95,BB-01--BB-03,0.1946231140407796
+Wald + Wind,Paderborn,PA-11--PA-12,Gleichgewichtung,Quantil_95,BC-05--BC-06,0.1468949818372566
+Wald + Wind,Paderborn,PA-02--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.5334235613233832
+Wald + Wind,Paderborn,PA-03--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.3813411482633755
+Wald + Wind,Paderborn,PA-04--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.229863625423439
+Wald + Wind,Paderborn,PA-05--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-03,0.0655321958810168
+Wald + Wind,Paderborn,PA-06--PA-11,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.132777184510971
+Wald + Wind,Paderborn,PA-07--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.0401663581976669
+Wald + Wind,Paderborn,PA-08--PA-11,Gleichgewichtung,Quantil_95,BB-01--BB-03,0.0675566829013175
+Wald + Wind,Paderborn,PA-09--PA-11,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.2364947023077348
+Wald + Wind,Paderborn,PA-02--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.2593548550362977
+Wald + Wind,Paderborn,PA-03--PA-12,Gleichgewichtung,Quantil_95,AM-03--AM-04,1.1298872953631858
+Wald + Wind,Paderborn,PA-04--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.9329738134364522
+Wald + Wind,Paderborn,PA-05--PA-12,Gleichgewichtung,Quantil_95,BB-05--BB-07,0.254975953469819
+Wald + Wind,Paderborn,PA-06--PA-12,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.4283535861471809
+Wald + Wind,Paderborn,PA-07--PA-12,Gleichgewichtung,Quantil_95,BB-03--BB-05,0.2284491356123801
+Wald + Wind,Paderborn,PA-08--PA-12,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.4159208773213548
+Wald + Wind,Paderborn,PA-09--PA-12,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.5491647492507901
+Wald + Wind,Paderborn,PA-02--PA-03,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.1100188139525622
+Wald + Wind,Paderborn,PA-02--PA-04,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.7333851475824517
+Wald + Wind,Paderborn,PA-02--PA-05,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.8583855047774164
+Wald + Wind,Paderborn,PA-02--PA-06,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.9474565367451564
+Wald + Wind,Paderborn,PA-02--PA-07,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.6715112530113442
+Wald + Wind,Paderborn,PA-02--PA-08,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.301631979358292
+Wald + Wind,Paderborn,PA-02--PA-09,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.2916778070814732
+Wald + Wind,Paderborn,PA-03--PA-04,Gleichgewichtung,Quantil_95,BB-03--BB-05,0.3253146018430908
+Wald + Wind,Paderborn,PA-03--PA-05,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.2396588151674549
+Wald + Wind,Paderborn,PA-03--PA-06,Gleichgewichtung,Quantil_95,BB-02--BB-04,0.15092675590104
+Wald + Wind,Paderborn,PA-03--PA-07,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.3495348498377633
+Wald + Wind,Paderborn,PA-03--PA-08,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.0770583450015366
+Wald + Wind,Paderborn,PA-03--PA-09,Gleichgewichtung,Quantil_95,BB-03--BB-05,0.0576162067806396
+Wald + Wind,Paderborn,PA-04--PA-05,Gleichgewichtung,Quantil_95,BB-04--BB-07,0.0606297177419455
+Wald + Wind,Paderborn,PA-04--PA-06,Gleichgewichtung,Quantil_95,BB-01--BB-07,0.2725057577562825
+Wald + Wind,Paderborn,PA-04--PA-07,Gleichgewichtung,Quantil_95,BB-03--BB-05,0.1181815292874568
+Wald + Wind,Paderborn,PA-04--PA-08,Gleichgewichtung,Quantil_95,BB-03--BB-04,0.1742524614729672
+Wald + Wind,Paderborn,PA-04--PA-09,Gleichgewichtung,Quantil_95,BB-02--BB-03,0.1145745594428352
+Wald + Wind,Paderborn,PA-05--PA-06,Gleichgewichtung,Quantil_95,BC-01--BC-04,0.0879417350548366
+Wald + Wind,Paderborn,PA-05--PA-07,Gleichgewichtung,Quantil_95,BC-04--BC-06,0.0521904408348231
+Wald + Wind,Paderborn,PA-05--PA-08,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.1822840387996434
+Wald + Wind,Paderborn,PA-05--PA-09,Gleichgewichtung,Quantil_95,BB-01--BB-03,0.0960717971683867
+Wald + Wind,Paderborn,PA-06--PA-07,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.234274469291699
+Wald + Wind,Paderborn,PA-06--PA-08,Gleichgewichtung,Quantil_95,BC-02--BC-04,0.1020889709466445
+Wald + Wind,Paderborn,PA-06--PA-09,Gleichgewichtung,Quantil_95,AS-01--AS-04,0.1860799589474648
+Wald + Wind,Paderborn,PA-07--PA-08,Gleichgewichtung,Quantil_95,AS-01--AS-04,0.0576814963924513
+Wald + Wind,Paderborn,PA-07--PA-09,Gleichgewichtung,Quantil_95,RB-03--RB-05,0.1183213218085432
+Wald + Wind,Paderborn,PA-08--PA-09,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.1144329517271643
+Wald + Wind,Rheda-Beckum,RB-01--RB-02,Koeffizientenbetraege,Oberer_Whisker,AS-04--AS-05,0.0617614375827161
+Wald + Wind,Rheda-Beckum,RB-01--RB-03,Koeffizientenbetraege,Oberer_Whisker,BC-02--BC-05,0.1174449665305358
+Wald + Wind,Rheda-Beckum,RB-01--RB-04,Koeffizientenbetraege,Oberer_Whisker,PA-08--PA-10,0.1180414567666345
+Wald + Wind,Rheda-Beckum,RB-01--RB-05,Koeffizientenbetraege,Oberer_Whisker,PA-06--PA-10,0.0595808677310737
+Wald + Wind,Rheda-Beckum,RB-02--RB-03,Koeffizientenbetraege,Oberer_Whisker,AS-04--AS-05,0.0640606432694871
+Wald + Wind,Rheda-Beckum,RB-02--RB-04,Koeffizientenbetraege,Oberer_Whisker,PA-08--PA-10,0.1092447115647055
+Wald + Wind,Rheda-Beckum,RB-02--RB-05,Koeffizientenbetraege,Oberer_Whisker,PA-06--PA-10,0.0749983864077264
+Wald + Wind,Rheda-Beckum,RB-03--RB-04,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.0896924144845563
+Wald + Wind,Rheda-Beckum,RB-03--RB-05,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-06,0.0665975572057555
+Wald + Wind,Rheda-Beckum,RB-04--RB-05,Koeffizientenbetraege,Oberer_Whisker,AS-04--AS-05,0.0716179096825841
+Wald + Wind,Rheda-Beckum,RB-01--RB-02,Koeffizientenbetraege,Quantil_95,AS-04--AS-05,0.0617614375827161
+Wald + Wind,Rheda-Beckum,RB-01--RB-03,Koeffizientenbetraege,Quantil_95,BC-02--BC-05,0.1174449665305358
+Wald + Wind,Rheda-Beckum,RB-01--RB-04,Koeffizientenbetraege,Quantil_95,PA-08--PA-10,0.1180414567666345
+Wald + Wind,Rheda-Beckum,RB-01--RB-05,Koeffizientenbetraege,Quantil_95,PA-06--PA-10,0.0595808677310737
+Wald + Wind,Rheda-Beckum,RB-02--RB-03,Koeffizientenbetraege,Quantil_95,AS-04--AS-05,0.0640606432694871
+Wald + Wind,Rheda-Beckum,RB-02--RB-04,Koeffizientenbetraege,Quantil_95,PA-08--PA-10,0.1092447115647055
+Wald + Wind,Rheda-Beckum,RB-02--RB-05,Koeffizientenbetraege,Quantil_95,PA-06--PA-10,0.0749983864077264
+Wald + Wind,Rheda-Beckum,RB-03--RB-04,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.0896924144845563
+Wald + Wind,Rheda-Beckum,RB-03--RB-05,Koeffizientenbetraege,Quantil_95,BC-01--BC-06,0.0665975572057555
+Wald + Wind,Rheda-Beckum,RB-04--RB-05,Koeffizientenbetraege,Quantil_95,AS-04--AS-05,0.0716179096825841
+Wald + Wind,Rheda-Beckum,RB-01--RB-02,Gleichgewichtung,Oberer_Whisker,AS-04--AS-05,0.0684262910122376
+Wald + Wind,Rheda-Beckum,RB-01--RB-03,Gleichgewichtung,Oberer_Whisker,BC-02--BC-05,0.1097121170070129
+Wald + Wind,Rheda-Beckum,RB-01--RB-04,Gleichgewichtung,Oberer_Whisker,AM-01--AM-03,0.1082423164050512
+Wald + Wind,Rheda-Beckum,RB-01--RB-05,Gleichgewichtung,Oberer_Whisker,PA-06--PA-10,0.0705437154083422
+Wald + Wind,Rheda-Beckum,RB-02--RB-03,Gleichgewichtung,Oberer_Whisker,AS-04--AS-05,0.0812485957163493
+Wald + Wind,Rheda-Beckum,RB-02--RB-04,Gleichgewichtung,Oberer_Whisker,AM-01--AM-03,0.1034917093391344
+Wald + Wind,Rheda-Beckum,RB-02--RB-05,Gleichgewichtung,Oberer_Whisker,PA-06--PA-10,0.0876902637880203
+Wald + Wind,Rheda-Beckum,RB-03--RB-04,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.0820044518200758
+Wald + Wind,Rheda-Beckum,RB-03--RB-05,Gleichgewichtung,Oberer_Whisker,BC-01--BC-06,0.082440963097481
+Wald + Wind,Rheda-Beckum,RB-04--RB-05,Gleichgewichtung,Oberer_Whisker,AS-04--AS-05,0.0753520205638508
+Wald + Wind,Rheda-Beckum,RB-01--RB-02,Gleichgewichtung,Quantil_95,AS-04--AS-05,0.0684262910122376
+Wald + Wind,Rheda-Beckum,RB-01--RB-03,Gleichgewichtung,Quantil_95,BC-02--BC-05,0.1097121170070129
+Wald + Wind,Rheda-Beckum,RB-01--RB-04,Gleichgewichtung,Quantil_95,AM-01--AM-03,0.1082423164050512
+Wald + Wind,Rheda-Beckum,RB-01--RB-05,Gleichgewichtung,Quantil_95,PA-06--PA-10,0.0705437154083422
+Wald + Wind,Rheda-Beckum,RB-02--RB-03,Gleichgewichtung,Quantil_95,AS-04--AS-05,0.0812485957163493
+Wald + Wind,Rheda-Beckum,RB-02--RB-04,Gleichgewichtung,Quantil_95,AM-01--AM-03,0.1034917093391344
+Wald + Wind,Rheda-Beckum,RB-02--RB-05,Gleichgewichtung,Quantil_95,PA-06--PA-10,0.0876902637880203
+Wald + Wind,Rheda-Beckum,RB-03--RB-04,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.0820044518200758
+Wald + Wind,Rheda-Beckum,RB-03--RB-05,Gleichgewichtung,Quantil_95,BC-01--BC-06,0.082440963097481
+Wald + Wind,Rheda-Beckum,RB-04--RB-05,Gleichgewichtung,Quantil_95,AS-04--AS-05,0.0753520205638508
+Vollstaendig,Alpen-Sevelen,AS-01--AS-02,Koeffizientenbetraege,Oberer_Whisker,LO-01--LO-02,0.144921212504919
+Vollstaendig,Alpen-Sevelen,AS-01--AS-03,Koeffizientenbetraege,Oberer_Whisker,RB-03--RB-05,0.177020803678398
+Vollstaendig,Alpen-Sevelen,AS-01--AS-04,Koeffizientenbetraege,Oberer_Whisker,LO-02--LO-03,0.2219758682033293
+Vollstaendig,Alpen-Sevelen,AS-01--AS-05,Koeffizientenbetraege,Oberer_Whisker,LO-02--LO-03,0.2879297045836501
+Vollstaendig,Alpen-Sevelen,AS-01--AS-06,Koeffizientenbetraege,Oberer_Whisker,LO-02--LO-03,0.2897546552397166
+Vollstaendig,Alpen-Sevelen,AS-02--AS-03,Koeffizientenbetraege,Oberer_Whisker,RB-02--RB-05,0.1174435559004374
+Vollstaendig,Alpen-Sevelen,AS-02--AS-04,Koeffizientenbetraege,Oberer_Whisker,OF-01--OF-04,0.2032898281690713
+Vollstaendig,Alpen-Sevelen,AS-02--AS-05,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-05,0.1707557029420677
+Vollstaendig,Alpen-Sevelen,AS-02--AS-06,Koeffizientenbetraege,Oberer_Whisker,OF-01--OF-04,0.1846482772010023
+Vollstaendig,Alpen-Sevelen,AS-03--AS-04,Koeffizientenbetraege,Oberer_Whisker,BC-03--BC-04,0.1513348222355955
+Vollstaendig,Alpen-Sevelen,AS-03--AS-05,Koeffizientenbetraege,Oberer_Whisker,BC-04--BC-06,0.136329315549926
+Vollstaendig,Alpen-Sevelen,AS-03--AS-06,Koeffizientenbetraege,Oberer_Whisker,BC-03--BC-04,0.1863239085151159
+Vollstaendig,Alpen-Sevelen,AS-04--AS-05,Koeffizientenbetraege,Oberer_Whisker,RB-04--RB-05,0.1730824463554433
+Vollstaendig,Alpen-Sevelen,AS-04--AS-06,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-02,0.1166141960778609
+Vollstaendig,Alpen-Sevelen,AS-05--AS-06,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-02,0.0688548939114735
+Vollstaendig,Alpen-Sevelen,AS-01--AS-02,Koeffizientenbetraege,Quantil_95,LO-01--LO-02,0.144921212504919
+Vollstaendig,Alpen-Sevelen,AS-01--AS-03,Koeffizientenbetraege,Quantil_95,RB-03--RB-05,0.177020803678398
+Vollstaendig,Alpen-Sevelen,AS-01--AS-04,Koeffizientenbetraege,Quantil_95,LO-02--LO-03,0.2219758682033293
+Vollstaendig,Alpen-Sevelen,AS-01--AS-05,Koeffizientenbetraege,Quantil_95,LO-02--LO-03,0.2879297045836501
+Vollstaendig,Alpen-Sevelen,AS-01--AS-06,Koeffizientenbetraege,Quantil_95,LO-02--LO-03,0.2897546552397166
+Vollstaendig,Alpen-Sevelen,AS-02--AS-03,Koeffizientenbetraege,Quantil_95,RB-02--RB-05,0.1174435559004374
+Vollstaendig,Alpen-Sevelen,AS-02--AS-04,Koeffizientenbetraege,Quantil_95,OF-01--OF-04,0.2032898281690713
+Vollstaendig,Alpen-Sevelen,AS-02--AS-05,Koeffizientenbetraege,Quantil_95,BC-01--BC-05,0.1707557029420677
+Vollstaendig,Alpen-Sevelen,AS-02--AS-06,Koeffizientenbetraege,Quantil_95,OF-01--OF-04,0.1846482772010023
+Vollstaendig,Alpen-Sevelen,AS-03--AS-04,Koeffizientenbetraege,Quantil_95,BC-03--BC-04,0.1513348222355955
+Vollstaendig,Alpen-Sevelen,AS-03--AS-05,Koeffizientenbetraege,Quantil_95,BC-04--BC-06,0.136329315549926
+Vollstaendig,Alpen-Sevelen,AS-03--AS-06,Koeffizientenbetraege,Quantil_95,BC-03--BC-04,0.1863239085151159
+Vollstaendig,Alpen-Sevelen,AS-04--AS-05,Koeffizientenbetraege,Quantil_95,RB-04--RB-05,0.1730824463554433
+Vollstaendig,Alpen-Sevelen,AS-04--AS-06,Koeffizientenbetraege,Quantil_95,RB-01--RB-02,0.1166141960778609
+Vollstaendig,Alpen-Sevelen,AS-05--AS-06,Koeffizientenbetraege,Quantil_95,RB-01--RB-02,0.0688548939114735
+Vollstaendig,Alpen-Sevelen,AS-01--AS-02,Gleichgewichtung,Oberer_Whisker,LO-01--LO-02,0.1447708216280087
+Vollstaendig,Alpen-Sevelen,AS-01--AS-03,Gleichgewichtung,Oberer_Whisker,RB-03--RB-05,0.1429003473757035
+Vollstaendig,Alpen-Sevelen,AS-01--AS-04,Gleichgewichtung,Oberer_Whisker,BC-04--BC-06,0.2990834207021429
+Vollstaendig,Alpen-Sevelen,AS-01--AS-05,Gleichgewichtung,Oberer_Whisker,BC-05--BC-06,0.3450333962552653
+Vollstaendig,Alpen-Sevelen,AS-01--AS-06,Gleichgewichtung,Oberer_Whisker,RB-03--RB-04,0.3438971835698278
+Vollstaendig,Alpen-Sevelen,AS-02--AS-03,Gleichgewichtung,Oberer_Whisker,RB-02--RB-05,0.0980035825669708
+Vollstaendig,Alpen-Sevelen,AS-02--AS-04,Gleichgewichtung,Oberer_Whisker,OF-02--OF-03,0.2573342300547364
+Vollstaendig,Alpen-Sevelen,AS-02--AS-05,Gleichgewichtung,Oberer_Whisker,BC-02--BC-05,0.2240284593710778
+Vollstaendig,Alpen-Sevelen,AS-02--AS-06,Gleichgewichtung,Oberer_Whisker,RB-02--RB-05,0.26704333304601
+Vollstaendig,Alpen-Sevelen,AS-03--AS-04,Gleichgewichtung,Oberer_Whisker,BC-03--BC-04,0.1498585784045754
+Vollstaendig,Alpen-Sevelen,AS-03--AS-05,Gleichgewichtung,Oberer_Whisker,BC-04--BC-05,0.2162423681333517
+Vollstaendig,Alpen-Sevelen,AS-03--AS-06,Gleichgewichtung,Oberer_Whisker,BC-03--BC-04,0.1774492131932544
+Vollstaendig,Alpen-Sevelen,AS-04--AS-05,Gleichgewichtung,Oberer_Whisker,BC-03--BC-04,0.2407135078228611
+Vollstaendig,Alpen-Sevelen,AS-04--AS-06,Gleichgewichtung,Oberer_Whisker,OF-01--OF-02,0.1576723051444368
+Vollstaendig,Alpen-Sevelen,AS-05--AS-06,Gleichgewichtung,Oberer_Whisker,RB-01--RB-02,0.0626525920041057
+Vollstaendig,Alpen-Sevelen,AS-01--AS-02,Gleichgewichtung,Quantil_95,LO-01--LO-02,0.1447708216280087
+Vollstaendig,Alpen-Sevelen,AS-01--AS-03,Gleichgewichtung,Quantil_95,RB-03--RB-05,0.1429003473757035
+Vollstaendig,Alpen-Sevelen,AS-01--AS-04,Gleichgewichtung,Quantil_95,BC-04--BC-06,0.2990834207021429
+Vollstaendig,Alpen-Sevelen,AS-01--AS-05,Gleichgewichtung,Quantil_95,BC-05--BC-06,0.3450333962552653
+Vollstaendig,Alpen-Sevelen,AS-01--AS-06,Gleichgewichtung,Quantil_95,RB-03--RB-04,0.3438971835698278
+Vollstaendig,Alpen-Sevelen,AS-02--AS-03,Gleichgewichtung,Quantil_95,RB-02--RB-05,0.0980035825669708
+Vollstaendig,Alpen-Sevelen,AS-02--AS-04,Gleichgewichtung,Quantil_95,OF-02--OF-03,0.2573342300547364
+Vollstaendig,Alpen-Sevelen,AS-02--AS-05,Gleichgewichtung,Quantil_95,BC-02--BC-05,0.2240284593710778
+Vollstaendig,Alpen-Sevelen,AS-02--AS-06,Gleichgewichtung,Quantil_95,RB-02--RB-05,0.26704333304601
+Vollstaendig,Alpen-Sevelen,AS-03--AS-04,Gleichgewichtung,Quantil_95,BC-03--BC-04,0.1498585784045754
+Vollstaendig,Alpen-Sevelen,AS-03--AS-05,Gleichgewichtung,Quantil_95,BC-04--BC-05,0.2162423681333517
+Vollstaendig,Alpen-Sevelen,AS-03--AS-06,Gleichgewichtung,Quantil_95,BC-03--BC-04,0.1774492131932544
+Vollstaendig,Alpen-Sevelen,AS-04--AS-05,Gleichgewichtung,Quantil_95,BC-03--BC-04,0.2407135078228611
+Vollstaendig,Alpen-Sevelen,AS-04--AS-06,Gleichgewichtung,Quantil_95,OF-01--OF-02,0.1576723051444368
+Vollstaendig,Alpen-Sevelen,AS-05--AS-06,Gleichgewichtung,Quantil_95,RB-01--RB-02,0.0626525920041057
+Vollstaendig,Altenmellrich,AM-01--AM-02,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-06,0.3423315034258749
+Vollstaendig,Altenmellrich,AM-01--AM-03,Koeffizientenbetraege,Oberer_Whisker,PA-08--PA-10,0.2874943357478641
+Vollstaendig,Altenmellrich,AM-01--AM-04,Koeffizientenbetraege,Oberer_Whisker,PA-04--PA-07,0.3096656715625462
+Vollstaendig,Altenmellrich,AM-02--AM-03,Koeffizientenbetraege,Oberer_Whisker,PA-09--PA-11,0.2726622028182089
+Vollstaendig,Altenmellrich,AM-02--AM-04,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-11,0.2308342404927839
+Vollstaendig,Altenmellrich,AM-03--AM-04,Koeffizientenbetraege,Oberer_Whisker,PA-09--PA-11,0.3636420426526633
+Vollstaendig,Altenmellrich,AM-01--AM-02,Koeffizientenbetraege,Quantil_95,PA-05--PA-06,0.3423315034258749
+Vollstaendig,Altenmellrich,AM-01--AM-03,Koeffizientenbetraege,Quantil_95,PA-08--PA-10,0.2874943357478641
+Vollstaendig,Altenmellrich,AM-01--AM-04,Koeffizientenbetraege,Quantil_95,PA-04--PA-07,0.3096656715625462
+Vollstaendig,Altenmellrich,AM-02--AM-03,Koeffizientenbetraege,Quantil_95,PA-09--PA-11,0.2726622028182089
+Vollstaendig,Altenmellrich,AM-02--AM-04,Koeffizientenbetraege,Quantil_95,PA-05--PA-11,0.2308342404927839
+Vollstaendig,Altenmellrich,AM-03--AM-04,Koeffizientenbetraege,Quantil_95,PA-09--PA-11,0.3636420426526633
+Vollstaendig,Altenmellrich,AM-01--AM-02,Gleichgewichtung,Oberer_Whisker,PA-07--PA-08,0.3610789151015578
+Vollstaendig,Altenmellrich,AM-01--AM-03,Gleichgewichtung,Oberer_Whisker,PA-04--PA-06,0.3630111162687465
+Vollstaendig,Altenmellrich,AM-01--AM-04,Gleichgewichtung,Oberer_Whisker,PA-04--PA-07,0.2541734398231201
+Vollstaendig,Altenmellrich,AM-02--AM-03,Gleichgewichtung,Oberer_Whisker,PA-09--PA-11,0.2411921375879752
+Vollstaendig,Altenmellrich,AM-02--AM-04,Gleichgewichtung,Oberer_Whisker,PA-05--PA-11,0.2580466122234977
+Vollstaendig,Altenmellrich,AM-03--AM-04,Gleichgewichtung,Oberer_Whisker,PA-03--PA-04,0.4338514678746795
+Vollstaendig,Altenmellrich,AM-01--AM-02,Gleichgewichtung,Quantil_95,PA-07--PA-08,0.3610789151015578
+Vollstaendig,Altenmellrich,AM-01--AM-03,Gleichgewichtung,Quantil_95,PA-04--PA-06,0.3630111162687465
+Vollstaendig,Altenmellrich,AM-01--AM-04,Gleichgewichtung,Quantil_95,PA-04--PA-07,0.2541734398231201
+Vollstaendig,Altenmellrich,AM-02--AM-03,Gleichgewichtung,Quantil_95,PA-09--PA-11,0.2411921375879752
+Vollstaendig,Altenmellrich,AM-02--AM-04,Gleichgewichtung,Quantil_95,PA-05--PA-11,0.2580466122234977
+Vollstaendig,Altenmellrich,AM-03--AM-04,Gleichgewichtung,Quantil_95,PA-03--PA-04,0.4338514678746795
+Vollstaendig,Bad Berleburg,BB-01--BB-02,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.5963377950140302
+Vollstaendig,Bad Berleburg,BB-01--BB-03,Koeffizientenbetraege,Oberer_Whisker,PA-05--PA-06,0.6477633064102062
+Vollstaendig,Bad Berleburg,BB-01--BB-04,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.5273803398711094
+Vollstaendig,Bad Berleburg,BB-01--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-08,0.5265364245421864
+Vollstaendig,Bad Berleburg,BB-01--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.5441071036911701
+Vollstaendig,Bad Berleburg,BB-01--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-01--PA-03,0.565670775928897
+Vollstaendig,Bad Berleburg,BB-02--BB-03,Koeffizientenbetraege,Oberer_Whisker,PA-01--PA-03,0.5499428538602025
+Vollstaendig,Bad Berleburg,BB-02--BB-04,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-04,0.5484258395868091
+Vollstaendig,Bad Berleburg,BB-02--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.5190605529464454
+Vollstaendig,Bad Berleburg,BB-02--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-02--PA-05,0.5791615808969302
+Vollstaendig,Bad Berleburg,BB-02--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-08,0.5879448134023216
+Vollstaendig,Bad Berleburg,BB-03--BB-04,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.595442718958893
+Vollstaendig,Bad Berleburg,BB-03--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.567525381448642
+Vollstaendig,Bad Berleburg,BB-03--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.5905950623675188
+Vollstaendig,Bad Berleburg,BB-03--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-02--PA-07,0.6268387339393204
+Vollstaendig,Bad Berleburg,BB-04--BB-05,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.659873032027285
+Vollstaendig,Bad Berleburg,BB-04--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.6633965927797364
+Vollstaendig,Bad Berleburg,BB-04--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-01--PA-03,0.5918586224379088
+Vollstaendig,Bad Berleburg,BB-05--BB-06,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.6520408510157285
+Vollstaendig,Bad Berleburg,BB-05--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-03--PA-10,0.6109743950626616
+Vollstaendig,Bad Berleburg,BB-06--BB-07,Koeffizientenbetraege,Oberer_Whisker,PA-02--PA-06,0.8477533488403323
+Vollstaendig,Bad Berleburg,BB-01--BB-02,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.5963377950140302
+Vollstaendig,Bad Berleburg,BB-01--BB-03,Koeffizientenbetraege,Quantil_95,PA-05--PA-06,0.6477633064102062
+Vollstaendig,Bad Berleburg,BB-01--BB-04,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.5273803398711094
+Vollstaendig,Bad Berleburg,BB-01--BB-05,Koeffizientenbetraege,Quantil_95,PA-03--PA-08,0.5265364245421864
+Vollstaendig,Bad Berleburg,BB-01--BB-06,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.5441071036911701
+Vollstaendig,Bad Berleburg,BB-01--BB-07,Koeffizientenbetraege,Quantil_95,PA-01--PA-03,0.565670775928897
+Vollstaendig,Bad Berleburg,BB-02--BB-03,Koeffizientenbetraege,Quantil_95,PA-01--PA-03,0.5499428538602025
+Vollstaendig,Bad Berleburg,BB-02--BB-04,Koeffizientenbetraege,Quantil_95,PA-03--PA-04,0.5484258395868091
+Vollstaendig,Bad Berleburg,BB-02--BB-05,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.5190605529464454
+Vollstaendig,Bad Berleburg,BB-02--BB-06,Koeffizientenbetraege,Quantil_95,PA-02--PA-05,0.5791615808969302
+Vollstaendig,Bad Berleburg,BB-02--BB-07,Koeffizientenbetraege,Quantil_95,PA-03--PA-08,0.5879448134023216
+Vollstaendig,Bad Berleburg,BB-03--BB-04,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.595442718958893
+Vollstaendig,Bad Berleburg,BB-03--BB-05,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.567525381448642
+Vollstaendig,Bad Berleburg,BB-03--BB-06,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.5905950623675188
+Vollstaendig,Bad Berleburg,BB-03--BB-07,Koeffizientenbetraege,Quantil_95,PA-02--PA-07,0.6268387339393204
+Vollstaendig,Bad Berleburg,BB-04--BB-05,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.659873032027285
+Vollstaendig,Bad Berleburg,BB-04--BB-06,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.6633965927797364
+Vollstaendig,Bad Berleburg,BB-04--BB-07,Koeffizientenbetraege,Quantil_95,PA-01--PA-03,0.5918586224379088
+Vollstaendig,Bad Berleburg,BB-05--BB-06,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.6520408510157285
+Vollstaendig,Bad Berleburg,BB-05--BB-07,Koeffizientenbetraege,Quantil_95,PA-03--PA-10,0.6109743950626616
+Vollstaendig,Bad Berleburg,BB-06--BB-07,Koeffizientenbetraege,Quantil_95,PA-02--PA-06,0.8477533488403323
+Vollstaendig,Bad Berleburg,BB-01--BB-02,Gleichgewichtung,Oberer_Whisker,AM-01--AM-03,0.6282216729581837
+Vollstaendig,Bad Berleburg,BB-01--BB-03,Gleichgewichtung,Oberer_Whisker,PA-06--PA-07,0.5485684484745815
+Vollstaendig,Bad Berleburg,BB-01--BB-04,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.5529888011153428
+Vollstaendig,Bad Berleburg,BB-01--BB-05,Gleichgewichtung,Oberer_Whisker,PA-03--PA-08,0.457571115176109
+Vollstaendig,Bad Berleburg,BB-01--BB-06,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.50063021036825
+Vollstaendig,Bad Berleburg,BB-01--BB-07,Gleichgewichtung,Oberer_Whisker,PA-01--PA-03,0.5365286785401852
+Vollstaendig,Bad Berleburg,BB-02--BB-03,Gleichgewichtung,Oberer_Whisker,PA-03--PA-04,0.4906131877417044
+Vollstaendig,Bad Berleburg,BB-02--BB-04,Gleichgewichtung,Oberer_Whisker,PA-03--PA-04,0.5129994248758778
+Vollstaendig,Bad Berleburg,BB-02--BB-05,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.5679671228394393
+Vollstaendig,Bad Berleburg,BB-02--BB-06,Gleichgewichtung,Oberer_Whisker,PA-02--PA-05,0.6777027209211609
+Vollstaendig,Bad Berleburg,BB-02--BB-07,Gleichgewichtung,Oberer_Whisker,PA-08--PA-10,0.508860437266889
+Vollstaendig,Bad Berleburg,BB-03--BB-04,Gleichgewichtung,Oberer_Whisker,AM-01--AM-03,0.680232204916656
+Vollstaendig,Bad Berleburg,BB-03--BB-05,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.6014918580173765
+Vollstaendig,Bad Berleburg,BB-03--BB-06,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.63058176540195
+Vollstaendig,Bad Berleburg,BB-03--BB-07,Gleichgewichtung,Oberer_Whisker,PA-01--PA-03,0.6166966452207303
+Vollstaendig,Bad Berleburg,BB-04--BB-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.6742992781490573
+Vollstaendig,Bad Berleburg,BB-04--BB-06,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.714270269859386
+Vollstaendig,Bad Berleburg,BB-04--BB-07,Gleichgewichtung,Oberer_Whisker,PA-01--PA-03,0.5419032505783973
+Vollstaendig,Bad Berleburg,BB-05--BB-06,Gleichgewichtung,Oberer_Whisker,PA-03--PA-10,0.7484324145026634
+Vollstaendig,Bad Berleburg,BB-05--BB-07,Gleichgewichtung,Oberer_Whisker,PA-03--PA-04,0.5653286902087241
+Vollstaendig,Bad Berleburg,BB-06--BB-07,Gleichgewichtung,Oberer_Whisker,PA-01--PA-03,0.8978071571389947
+Vollstaendig,Bad Berleburg,BB-01--BB-02,Gleichgewichtung,Quantil_95,AM-01--AM-03,0.6282216729581837
+Vollstaendig,Bad Berleburg,BB-01--BB-03,Gleichgewichtung,Quantil_95,PA-06--PA-07,0.5485684484745815
+Vollstaendig,Bad Berleburg,BB-01--BB-04,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.5529888011153428
+Vollstaendig,Bad Berleburg,BB-01--BB-05,Gleichgewichtung,Quantil_95,PA-03--PA-08,0.457571115176109
+Vollstaendig,Bad Berleburg,BB-01--BB-06,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.50063021036825
+Vollstaendig,Bad Berleburg,BB-01--BB-07,Gleichgewichtung,Quantil_95,PA-01--PA-03,0.5365286785401852
+Vollstaendig,Bad Berleburg,BB-02--BB-03,Gleichgewichtung,Quantil_95,PA-03--PA-04,0.4906131877417044
+Vollstaendig,Bad Berleburg,BB-02--BB-04,Gleichgewichtung,Quantil_95,PA-03--PA-04,0.5129994248758778
+Vollstaendig,Bad Berleburg,BB-02--BB-05,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.5679671228394393
+Vollstaendig,Bad Berleburg,BB-02--BB-06,Gleichgewichtung,Quantil_95,PA-02--PA-05,0.6777027209211609
+Vollstaendig,Bad Berleburg,BB-02--BB-07,Gleichgewichtung,Quantil_95,PA-08--PA-10,0.508860437266889
+Vollstaendig,Bad Berleburg,BB-03--BB-04,Gleichgewichtung,Quantil_95,AM-01--AM-03,0.680232204916656
+Vollstaendig,Bad Berleburg,BB-03--BB-05,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.6014918580173765
+Vollstaendig,Bad Berleburg,BB-03--BB-06,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.63058176540195
+Vollstaendig,Bad Berleburg,BB-03--BB-07,Gleichgewichtung,Quantil_95,PA-01--PA-03,0.6166966452207303
+Vollstaendig,Bad Berleburg,BB-04--BB-05,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.6742992781490573
+Vollstaendig,Bad Berleburg,BB-04--BB-06,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.714270269859386
+Vollstaendig,Bad Berleburg,BB-04--BB-07,Gleichgewichtung,Quantil_95,PA-01--PA-03,0.5419032505783973
+Vollstaendig,Bad Berleburg,BB-05--BB-06,Gleichgewichtung,Quantil_95,PA-03--PA-10,0.7484324145026634
+Vollstaendig,Bad Berleburg,BB-05--BB-07,Gleichgewichtung,Quantil_95,PA-03--PA-04,0.5653286902087241
+Vollstaendig,Bad Berleburg,BB-06--BB-07,Gleichgewichtung,Quantil_95,PA-01--PA-03,0.8978071571389947
+Vollstaendig,Borken-Coesfeld,BC-01--BC-02,Koeffizientenbetraege,Oberer_Whisker,AS-03--AS-05,0.2667025862721786
+Vollstaendig,Borken-Coesfeld,BC-01--BC-03,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-05,0.1993606621792027
+Vollstaendig,Borken-Coesfeld,BC-01--BC-04,Koeffizientenbetraege,Oberer_Whisker,OF-03--OF-04,0.3566200509137716
+Vollstaendig,Borken-Coesfeld,BC-01--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-05,0.156642692757514
+Vollstaendig,Borken-Coesfeld,BC-01--BC-06,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-05,0.2797754664591049
+Vollstaendig,Borken-Coesfeld,BC-02--BC-03,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-04,0.3537251643053496
+Vollstaendig,Borken-Coesfeld,BC-02--BC-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-05,0.2735058918077908
+Vollstaendig,Borken-Coesfeld,BC-02--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-05,0.2126568690176137
+Vollstaendig,Borken-Coesfeld,BC-02--BC-06,Koeffizientenbetraege,Oberer_Whisker,RB-01--RB-04,0.4267445626353343
+Vollstaendig,Borken-Coesfeld,BC-03--BC-04,Koeffizientenbetraege,Oberer_Whisker,AS-03--AS-04,0.1585689153823929
+Vollstaendig,Borken-Coesfeld,BC-03--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-05,0.2477690510807368
+Vollstaendig,Borken-Coesfeld,BC-03--BC-06,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-03,0.1788967577391038
+Vollstaendig,Borken-Coesfeld,BC-04--BC-05,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-03,0.2152038452472605
+Vollstaendig,Borken-Coesfeld,BC-04--BC-06,Koeffizientenbetraege,Oberer_Whisker,AS-03--AS-05,0.1654387938632767
+Vollstaendig,Borken-Coesfeld,BC-05--BC-06,Koeffizientenbetraege,Oberer_Whisker,AS-03--AS-05,0.2770989969214387
+Vollstaendig,Borken-Coesfeld,BC-01--BC-02,Koeffizientenbetraege,Quantil_95,AS-03--AS-05,0.2667025862721786
+Vollstaendig,Borken-Coesfeld,BC-01--BC-03,Koeffizientenbetraege,Quantil_95,AS-02--AS-05,0.1993606621792027
+Vollstaendig,Borken-Coesfeld,BC-01--BC-04,Koeffizientenbetraege,Quantil_95,OF-03--OF-04,0.3566200509137716
+Vollstaendig,Borken-Coesfeld,BC-01--BC-05,Koeffizientenbetraege,Quantil_95,AS-02--AS-05,0.156642692757514
+Vollstaendig,Borken-Coesfeld,BC-01--BC-06,Koeffizientenbetraege,Quantil_95,AS-02--AS-05,0.2797754664591049
+Vollstaendig,Borken-Coesfeld,BC-02--BC-03,Koeffizientenbetraege,Quantil_95,RB-01--RB-04,0.3537251643053496
+Vollstaendig,Borken-Coesfeld,BC-02--BC-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-05,0.2735058918077908
+Vollstaendig,Borken-Coesfeld,BC-02--BC-05,Koeffizientenbetraege,Quantil_95,AS-02--AS-05,0.2126568690176137
+Vollstaendig,Borken-Coesfeld,BC-02--BC-06,Koeffizientenbetraege,Quantil_95,RB-01--RB-04,0.4267445626353343
+Vollstaendig,Borken-Coesfeld,BC-03--BC-04,Koeffizientenbetraege,Quantil_95,AS-03--AS-04,0.1585689153823929
+Vollstaendig,Borken-Coesfeld,BC-03--BC-05,Koeffizientenbetraege,Quantil_95,AS-02--AS-05,0.2477690510807368
+Vollstaendig,Borken-Coesfeld,BC-03--BC-06,Koeffizientenbetraege,Quantil_95,AS-01--AS-03,0.1788967577391038
+Vollstaendig,Borken-Coesfeld,BC-04--BC-05,Koeffizientenbetraege,Quantil_95,AS-01--AS-03,0.2152038452472605
+Vollstaendig,Borken-Coesfeld,BC-04--BC-06,Koeffizientenbetraege,Quantil_95,AS-03--AS-05,0.1654387938632767
+Vollstaendig,Borken-Coesfeld,BC-05--BC-06,Koeffizientenbetraege,Quantil_95,AS-03--AS-05,0.2770989969214387
+Vollstaendig,Borken-Coesfeld,BC-01--BC-02,Gleichgewichtung,Oberer_Whisker,AS-03--AS-05,0.2482134012760653
+Vollstaendig,Borken-Coesfeld,BC-01--BC-03,Gleichgewichtung,Oberer_Whisker,AS-02--AS-05,0.3857183120768958
+Vollstaendig,Borken-Coesfeld,BC-01--BC-04,Gleichgewichtung,Oberer_Whisker,OF-03--OF-04,0.4241243021716839
+Vollstaendig,Borken-Coesfeld,BC-01--BC-05,Gleichgewichtung,Oberer_Whisker,AS-02--AS-05,0.2207939286116653
+Vollstaendig,Borken-Coesfeld,BC-01--BC-06,Gleichgewichtung,Oberer_Whisker,OF-03--OF-04,0.3154369395243028
+Vollstaendig,Borken-Coesfeld,BC-02--BC-03,Gleichgewichtung,Oberer_Whisker,AS-02--AS-05,0.5052513011245173
+Vollstaendig,Borken-Coesfeld,BC-02--BC-04,Gleichgewichtung,Oberer_Whisker,OF-03--OF-04,0.4592902581981708
+Vollstaendig,Borken-Coesfeld,BC-02--BC-05,Gleichgewichtung,Oberer_Whisker,AS-02--AS-05,0.2253399803136135
+Vollstaendig,Borken-Coesfeld,BC-02--BC-06,Gleichgewichtung,Oberer_Whisker,PA-07--PA-11,0.3675468639118278
+Vollstaendig,Borken-Coesfeld,BC-03--BC-04,Gleichgewichtung,Oberer_Whisker,AS-03--AS-04,0.1463333768436359
+Vollstaendig,Borken-Coesfeld,BC-03--BC-05,Gleichgewichtung,Oberer_Whisker,AS-03--AS-05,0.2572473659271288
+Vollstaendig,Borken-Coesfeld,BC-03--BC-06,Gleichgewichtung,Oberer_Whisker,AS-01--AS-03,0.2559476503047377
+Vollstaendig,Borken-Coesfeld,BC-04--BC-05,Gleichgewichtung,Oberer_Whisker,AS-03--AS-05,0.2102093644397494
+Vollstaendig,Borken-Coesfeld,BC-04--BC-06,Gleichgewichtung,Oberer_Whisker,AS-02--AS-05,0.278062244049238
+Vollstaendig,Borken-Coesfeld,BC-05--BC-06,Gleichgewichtung,Oberer_Whisker,AS-03--AS-05,0.3209084240083195
+Vollstaendig,Borken-Coesfeld,BC-01--BC-02,Gleichgewichtung,Quantil_95,AS-03--AS-05,0.2482134012760653
+Vollstaendig,Borken-Coesfeld,BC-01--BC-03,Gleichgewichtung,Quantil_95,AS-02--AS-05,0.3857183120768958
+Vollstaendig,Borken-Coesfeld,BC-01--BC-04,Gleichgewichtung,Quantil_95,OF-03--OF-04,0.4241243021716839
+Vollstaendig,Borken-Coesfeld,BC-01--BC-05,Gleichgewichtung,Quantil_95,AS-02--AS-05,0.2207939286116653
+Vollstaendig,Borken-Coesfeld,BC-01--BC-06,Gleichgewichtung,Quantil_95,OF-03--OF-04,0.3154369395243028
+Vollstaendig,Borken-Coesfeld,BC-02--BC-03,Gleichgewichtung,Quantil_95,AS-02--AS-05,0.5052513011245173
+Vollstaendig,Borken-Coesfeld,BC-02--BC-04,Gleichgewichtung,Quantil_95,OF-03--OF-04,0.4592902581981708
+Vollstaendig,Borken-Coesfeld,BC-02--BC-05,Gleichgewichtung,Quantil_95,AS-02--AS-05,0.2253399803136135
+Vollstaendig,Borken-Coesfeld,BC-02--BC-06,Gleichgewichtung,Quantil_95,PA-07--PA-11,0.3675468639118278
+Vollstaendig,Borken-Coesfeld,BC-03--BC-04,Gleichgewichtung,Quantil_95,AS-03--AS-04,0.1463333768436359
+Vollstaendig,Borken-Coesfeld,BC-03--BC-05,Gleichgewichtung,Quantil_95,AS-03--AS-05,0.2572473659271288
+Vollstaendig,Borken-Coesfeld,BC-03--BC-06,Gleichgewichtung,Quantil_95,AS-01--AS-03,0.2559476503047377
+Vollstaendig,Borken-Coesfeld,BC-04--BC-05,Gleichgewichtung,Quantil_95,AS-03--AS-05,0.2102093644397494
+Vollstaendig,Borken-Coesfeld,BC-04--BC-06,Gleichgewichtung,Quantil_95,AS-02--AS-05,0.278062244049238
+Vollstaendig,Borken-Coesfeld,BC-05--BC-06,Gleichgewichtung,Quantil_95,AS-03--AS-05,0.3209084240083195
+Vollstaendig,Lorup,LO-01--LO-02,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-02,0.1441039138736145
+Vollstaendig,Lorup,LO-01--LO-03,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-02,0.3800437447339688
+Vollstaendig,Lorup,LO-02--LO-03,Koeffizientenbetraege,Oberer_Whisker,AS-01--AS-02,0.1464156843803417
+Vollstaendig,Lorup,LO-01--LO-02,Koeffizientenbetraege,Quantil_95,AS-01--AS-02,0.1441039138736145
+Vollstaendig,Lorup,LO-01--LO-03,Koeffizientenbetraege,Quantil_95,AS-01--AS-02,0.3800437447339688
+Vollstaendig,Lorup,LO-02--LO-03,Koeffizientenbetraege,Quantil_95,AS-01--AS-02,0.1464156843803417
+Vollstaendig,Lorup,LO-01--LO-02,Gleichgewichtung,Oberer_Whisker,AS-01--AS-02,0.1453719165405496
+Vollstaendig,Lorup,LO-01--LO-03,Gleichgewichtung,Oberer_Whisker,PA-09--PA-11,0.4260232740455896
+Vollstaendig,Lorup,LO-02--LO-03,Gleichgewichtung,Oberer_Whisker,AS-01--AS-02,0.2353443719426346
+Vollstaendig,Lorup,LO-01--LO-02,Gleichgewichtung,Quantil_95,AS-01--AS-02,0.1453719165405496
+Vollstaendig,Lorup,LO-01--LO-03,Gleichgewichtung,Quantil_95,PA-09--PA-11,0.4260232740455896
+Vollstaendig,Lorup,LO-02--LO-03,Gleichgewichtung,Quantil_95,AS-01--AS-02,0.2353443719426346
+Vollstaendig,Ostfriesland,OF-01--OF-02,Koeffizientenbetraege,Oberer_Whisker,AS-04--AS-06,0.1240056700512665
+Vollstaendig,Ostfriesland,OF-01--OF-03,Koeffizientenbetraege,Oberer_Whisker,BC-02--BC-05,0.3087140086430553
+Vollstaendig,Ostfriesland,OF-01--OF-04,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-03,0.5333348911958804
+Vollstaendig,Ostfriesland,OF-02--OF-03,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-04,0.2857644095672695
+Vollstaendig,Ostfriesland,OF-02--OF-04,Koeffizientenbetraege,Oberer_Whisker,BC-01--BC-03,0.3731202900701176
+Vollstaendig,Ostfriesland,OF-03--OF-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-06,0.2787415220263955
+Vollstaendig,Ostfriesland,OF-01--OF-02,Koeffizientenbetraege,Quantil_95,AS-04--AS-06,0.1240056700512665
+Vollstaendig,Ostfriesland,OF-01--OF-03,Koeffizientenbetraege,Quantil_95,BC-02--BC-05,0.3087140086430553
+Vollstaendig,Ostfriesland,OF-01--OF-04,Koeffizientenbetraege,Quantil_95,BC-01--BC-03,0.5333348911958804
+Vollstaendig,Ostfriesland,OF-02--OF-03,Koeffizientenbetraege,Quantil_95,AS-02--AS-04,0.2857644095672695
+Vollstaendig,Ostfriesland,OF-02--OF-04,Koeffizientenbetraege,Quantil_95,BC-01--BC-03,0.3731202900701176
+Vollstaendig,Ostfriesland,OF-03--OF-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-06,0.2787415220263955
+Vollstaendig,Ostfriesland,OF-01--OF-02,Gleichgewichtung,Oberer_Whisker,AS-04--AS-06,0.1609980757167216
+Vollstaendig,Ostfriesland,OF-01--OF-03,Gleichgewichtung,Oberer_Whisker,AS-02--AS-06,0.3715308072182737
+Vollstaendig,Ostfriesland,OF-01--OF-04,Gleichgewichtung,Oberer_Whisker,BC-01--BC-03,0.661563748161322
+Vollstaendig,Ostfriesland,OF-02--OF-03,Gleichgewichtung,Oberer_Whisker,AS-02--AS-04,0.2620566126533669
+Vollstaendig,Ostfriesland,OF-02--OF-04,Gleichgewichtung,Oberer_Whisker,BC-01--BC-03,0.4449700072407691
+Vollstaendig,Ostfriesland,OF-03--OF-04,Gleichgewichtung,Oberer_Whisker,BC-01--BC-06,0.337072988463352
+Vollstaendig,Ostfriesland,OF-01--OF-02,Gleichgewichtung,Quantil_95,AS-04--AS-06,0.1609980757167216
+Vollstaendig,Ostfriesland,OF-01--OF-03,Gleichgewichtung,Quantil_95,AS-02--AS-06,0.3715308072182737
+Vollstaendig,Ostfriesland,OF-01--OF-04,Gleichgewichtung,Quantil_95,BC-01--BC-03,0.661563748161322
+Vollstaendig,Ostfriesland,OF-02--OF-03,Gleichgewichtung,Quantil_95,AS-02--AS-04,0.2620566126533669
+Vollstaendig,Ostfriesland,OF-02--OF-04,Gleichgewichtung,Quantil_95,BC-01--BC-03,0.4449700072407691
+Vollstaendig,Ostfriesland,OF-03--OF-04,Gleichgewichtung,Quantil_95,BC-01--BC-06,0.337072988463352
+Vollstaendig,Paderborn,PA-01--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-06,0.6295429422176195
+Vollstaendig,Paderborn,PA-01--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,1.0794905756107556
+Vollstaendig,Paderborn,PA-01--PA-12,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,1.3026145439983463
+Vollstaendig,Paderborn,PA-01--PA-02,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,1.0712048664602225
+Vollstaendig,Paderborn,PA-01--PA-03,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.4585046690657661
+Vollstaendig,Paderborn,PA-01--PA-04,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.4403184219061093
+Vollstaendig,Paderborn,PA-01--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.4150594376511324
+Vollstaendig,Paderborn,PA-01--PA-06,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-06,0.6169273349964064
+Vollstaendig,Paderborn,PA-01--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.5142074624688578
+Vollstaendig,Paderborn,PA-01--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.5571125530871097
+Vollstaendig,Paderborn,PA-01--PA-09,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.9178519059931928
+Vollstaendig,Paderborn,PA-10--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.6002291997621944
+Vollstaendig,Paderborn,PA-10--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.7334455776215335
+Vollstaendig,Paderborn,PA-02--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.8063102860980772
+Vollstaendig,Paderborn,PA-03--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-05,0.4339537655420276
+Vollstaendig,Paderborn,PA-04--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.4544957487379025
+Vollstaendig,Paderborn,PA-05--PA-10,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-04,0.5715561889262503
+Vollstaendig,Paderborn,PA-06--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-03,0.5345312671948845
+Vollstaendig,Paderborn,PA-07--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.4463160381993088
+Vollstaendig,Paderborn,PA-08--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.3709023615451857
+Vollstaendig,Paderborn,PA-09--PA-10,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.52485741748889
+Vollstaendig,Paderborn,PA-11--PA-12,Koeffizientenbetraege,Oberer_Whisker,BC-04--BC-05,0.3649166108455479
+Vollstaendig,Paderborn,PA-02--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-06,0.763854830179878
+Vollstaendig,Paderborn,PA-03--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-05,0.8183193399383097
+Vollstaendig,Paderborn,PA-04--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.7087773095897616
+Vollstaendig,Paderborn,PA-05--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.1873520473698803
+Vollstaendig,Paderborn,PA-06--PA-11,Koeffizientenbetraege,Oberer_Whisker,BB-04--BB-07,0.7372479659920566
+Vollstaendig,Paderborn,PA-07--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.3744254456041923
+Vollstaendig,Paderborn,PA-08--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.4568135016138256
+Vollstaendig,Paderborn,PA-09--PA-11,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.2912814750741146
+Vollstaendig,Paderborn,PA-02--PA-12,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-06,0.7234680188030702
+Vollstaendig,Paderborn,PA-03--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,1.1340159696045604
+Vollstaendig,Paderborn,PA-04--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.9377058150032076
+Vollstaendig,Paderborn,PA-05--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.5668149762422211
+Vollstaendig,Paderborn,PA-06--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.6974269318570536
+Vollstaendig,Paderborn,PA-07--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.4298983749979173
+Vollstaendig,Paderborn,PA-08--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.4676919823904156
+Vollstaendig,Paderborn,PA-09--PA-12,Koeffizientenbetraege,Oberer_Whisker,AM-03--AM-04,0.6516853470360731
+Vollstaendig,Paderborn,PA-02--PA-03,Koeffizientenbetraege,Oberer_Whisker,BB-05--BB-07,0.86383225963621
+Vollstaendig,Paderborn,PA-02--PA-04,Koeffizientenbetraege,Oberer_Whisker,BB-04--BB-07,1.0749283679519843
+Vollstaendig,Paderborn,PA-02--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.7112239027376892
+Vollstaendig,Paderborn,PA-02--PA-06,Koeffizientenbetraege,Oberer_Whisker,BB-03--BB-07,0.7736409892217313
+Vollstaendig,Paderborn,PA-02--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.5493693278527056
+Vollstaendig,Paderborn,PA-02--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.893123032910773
+Vollstaendig,Paderborn,PA-02--PA-09,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-06,1.050623697866082
+Vollstaendig,Paderborn,PA-03--PA-04,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-03,0.5437884870512102
+Vollstaendig,Paderborn,PA-03--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.3391720821860848
+Vollstaendig,Paderborn,PA-03--PA-06,Koeffizientenbetraege,Oberer_Whisker,BB-02--BB-04,0.531674880651024
+Vollstaendig,Paderborn,PA-03--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.4219625676581308
+Vollstaendig,Paderborn,PA-03--PA-08,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-05,0.4099368174321875
+Vollstaendig,Paderborn,PA-03--PA-09,Koeffizientenbetraege,Oberer_Whisker,BB-01--BB-05,0.6253864194136679
+Vollstaendig,Paderborn,PA-04--PA-05,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.4364212085672743
+Vollstaendig,Paderborn,PA-04--PA-06,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-03,0.3899036069564214
+Vollstaendig,Paderborn,PA-04--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.3771400249842595
+Vollstaendig,Paderborn,PA-04--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.386221778585865
+Vollstaendig,Paderborn,PA-04--PA-09,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-04,0.3998124001067929
+Vollstaendig,Paderborn,PA-05--PA-06,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.4545009590402953
+Vollstaendig,Paderborn,PA-05--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.504088891484795
+Vollstaendig,Paderborn,PA-05--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.3460495260686215
+Vollstaendig,Paderborn,PA-05--PA-09,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.3471805587028741
+Vollstaendig,Paderborn,PA-06--PA-07,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.4193385006459547
+Vollstaendig,Paderborn,PA-06--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-04,0.572061808740981
+Vollstaendig,Paderborn,PA-06--PA-09,Koeffizientenbetraege,Oberer_Whisker,BC-02--BC-06,0.7049226999273649
+Vollstaendig,Paderborn,PA-07--PA-08,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.3471774353805864
+Vollstaendig,Paderborn,PA-07--PA-09,Koeffizientenbetraege,Oberer_Whisker,AM-01--AM-02,0.2782940308706411
+Vollstaendig,Paderborn,PA-08--PA-09,Koeffizientenbetraege,Oberer_Whisker,AM-02--AM-03,0.3615915751237611
+Vollstaendig,Paderborn,PA-01--PA-10,Koeffizientenbetraege,Quantil_95,BB-02--BB-06,0.6295429422176195
+Vollstaendig,Paderborn,PA-01--PA-11,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,1.0794905756107556
+Vollstaendig,Paderborn,PA-01--PA-12,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,1.3026145439983463
+Vollstaendig,Paderborn,PA-01--PA-02,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,1.0712048664602225
+Vollstaendig,Paderborn,PA-01--PA-03,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.4585046690657661
+Vollstaendig,Paderborn,PA-01--PA-04,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.4403184219061093
+Vollstaendig,Paderborn,PA-01--PA-05,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.4150594376511324
+Vollstaendig,Paderborn,PA-01--PA-06,Koeffizientenbetraege,Quantil_95,BB-01--BB-06,0.6169273349964064
+Vollstaendig,Paderborn,PA-01--PA-07,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.5142074624688578
+Vollstaendig,Paderborn,PA-01--PA-08,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.5571125530871097
+Vollstaendig,Paderborn,PA-01--PA-09,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.9178519059931928
+Vollstaendig,Paderborn,PA-10--PA-11,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.6002291997621944
+Vollstaendig,Paderborn,PA-10--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.7334455776215335
+Vollstaendig,Paderborn,PA-02--PA-10,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.8063102860980772
+Vollstaendig,Paderborn,PA-03--PA-10,Koeffizientenbetraege,Quantil_95,BB-02--BB-05,0.4339537655420276
+Vollstaendig,Paderborn,PA-04--PA-10,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.4544957487379025
+Vollstaendig,Paderborn,PA-05--PA-10,Koeffizientenbetraege,Quantil_95,BB-01--BB-04,0.5715561889262503
+Vollstaendig,Paderborn,PA-06--PA-10,Koeffizientenbetraege,Quantil_95,AM-01--AM-03,0.5345312671948845
+Vollstaendig,Paderborn,PA-07--PA-10,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.4463160381993088
+Vollstaendig,Paderborn,PA-08--PA-10,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.3709023615451857
+Vollstaendig,Paderborn,PA-09--PA-10,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.52485741748889
+Vollstaendig,Paderborn,PA-11--PA-12,Koeffizientenbetraege,Quantil_95,BC-04--BC-05,0.3649166108455479
+Vollstaendig,Paderborn,PA-02--PA-11,Koeffizientenbetraege,Quantil_95,BB-01--BB-06,0.763854830179878
+Vollstaendig,Paderborn,PA-03--PA-11,Koeffizientenbetraege,Quantil_95,BB-02--BB-05,0.8183193399383097
+Vollstaendig,Paderborn,PA-04--PA-11,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.7087773095897616
+Vollstaendig,Paderborn,PA-05--PA-11,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.1873520473698803
+Vollstaendig,Paderborn,PA-06--PA-11,Koeffizientenbetraege,Quantil_95,BB-04--BB-07,0.7372479659920566
+Vollstaendig,Paderborn,PA-07--PA-11,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.3744254456041923
+Vollstaendig,Paderborn,PA-08--PA-11,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.4568135016138256
+Vollstaendig,Paderborn,PA-09--PA-11,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.2912814750741146
+Vollstaendig,Paderborn,PA-02--PA-12,Koeffizientenbetraege,Quantil_95,BB-01--BB-06,0.7234680188030702
+Vollstaendig,Paderborn,PA-03--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,1.1340159696045604
+Vollstaendig,Paderborn,PA-04--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.9377058150032076
+Vollstaendig,Paderborn,PA-05--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.5668149762422211
+Vollstaendig,Paderborn,PA-06--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.6974269318570536
+Vollstaendig,Paderborn,PA-07--PA-12,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.4298983749979173
+Vollstaendig,Paderborn,PA-08--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.4676919823904156
+Vollstaendig,Paderborn,PA-09--PA-12,Koeffizientenbetraege,Quantil_95,AM-03--AM-04,0.6516853470360731
+Vollstaendig,Paderborn,PA-02--PA-03,Koeffizientenbetraege,Quantil_95,BB-05--BB-07,0.86383225963621
+Vollstaendig,Paderborn,PA-02--PA-04,Koeffizientenbetraege,Quantil_95,BB-04--BB-07,1.0749283679519843
+Vollstaendig,Paderborn,PA-02--PA-05,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.7112239027376892
+Vollstaendig,Paderborn,PA-02--PA-06,Koeffizientenbetraege,Quantil_95,BB-03--BB-07,0.7736409892217313
+Vollstaendig,Paderborn,PA-02--PA-07,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.5493693278527056
+Vollstaendig,Paderborn,PA-02--PA-08,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.893123032910773
+Vollstaendig,Paderborn,PA-02--PA-09,Koeffizientenbetraege,Quantil_95,BB-01--BB-06,1.050623697866082
+Vollstaendig,Paderborn,PA-03--PA-04,Koeffizientenbetraege,Quantil_95,BB-02--BB-03,0.5437884870512102
+Vollstaendig,Paderborn,PA-03--PA-05,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.3391720821860848
+Vollstaendig,Paderborn,PA-03--PA-06,Koeffizientenbetraege,Quantil_95,BB-02--BB-04,0.531674880651024
+Vollstaendig,Paderborn,PA-03--PA-07,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.4219625676581308
+Vollstaendig,Paderborn,PA-03--PA-08,Koeffizientenbetraege,Quantil_95,BB-01--BB-05,0.4099368174321875
+Vollstaendig,Paderborn,PA-03--PA-09,Koeffizientenbetraege,Quantil_95,BB-01--BB-05,0.6253864194136679
+Vollstaendig,Paderborn,PA-04--PA-05,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.4364212085672743
+Vollstaendig,Paderborn,PA-04--PA-06,Koeffizientenbetraege,Quantil_95,AM-01--AM-03,0.3899036069564214
+Vollstaendig,Paderborn,PA-04--PA-07,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.3771400249842595
+Vollstaendig,Paderborn,PA-04--PA-08,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.386221778585865
+Vollstaendig,Paderborn,PA-04--PA-09,Koeffizientenbetraege,Quantil_95,AM-01--AM-04,0.3998124001067929
+Vollstaendig,Paderborn,PA-05--PA-06,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.4545009590402953
+Vollstaendig,Paderborn,PA-05--PA-07,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.504088891484795
+Vollstaendig,Paderborn,PA-05--PA-08,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.3460495260686215
+Vollstaendig,Paderborn,PA-05--PA-09,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.3471805587028741
+Vollstaendig,Paderborn,PA-06--PA-07,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.4193385006459547
+Vollstaendig,Paderborn,PA-06--PA-08,Koeffizientenbetraege,Quantil_95,AM-02--AM-04,0.572061808740981
+Vollstaendig,Paderborn,PA-06--PA-09,Koeffizientenbetraege,Quantil_95,BC-02--BC-06,0.7049226999273649
+Vollstaendig,Paderborn,PA-07--PA-08,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.3471774353805864
+Vollstaendig,Paderborn,PA-07--PA-09,Koeffizientenbetraege,Quantil_95,AM-01--AM-02,0.2782940308706411
+Vollstaendig,Paderborn,PA-08--PA-09,Koeffizientenbetraege,Quantil_95,AM-02--AM-03,0.3615915751237611
+Vollstaendig,Paderborn,PA-01--PA-10,Gleichgewichtung,Oberer_Whisker,BB-02--BB-06,0.8418509823410079
+Vollstaendig,Paderborn,PA-01--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.294888899228869
+Vollstaendig,Paderborn,PA-01--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.4984705316794544
+Vollstaendig,Paderborn,PA-01--PA-02,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.0750361303536713
+Vollstaendig,Paderborn,PA-01--PA-03,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.4483028545582602
+Vollstaendig,Paderborn,PA-01--PA-04,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.4994190924925453
+Vollstaendig,Paderborn,PA-01--PA-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.4354245123516181
+Vollstaendig,Paderborn,PA-01--PA-06,Gleichgewichtung,Oberer_Whisker,BB-01--BB-06,0.588618645846701
+Vollstaendig,Paderborn,PA-01--PA-07,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.6376251368609318
+Vollstaendig,Paderborn,PA-01--PA-08,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.5901834282435848
+Vollstaendig,Paderborn,PA-01--PA-09,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.0759187133642496
+Vollstaendig,Paderborn,PA-10--PA-11,Gleichgewichtung,Oberer_Whisker,LO-01--LO-03,0.8533213447051731
+Vollstaendig,Paderborn,PA-10--PA-12,Gleichgewichtung,Oberer_Whisker,LO-01--LO-03,1.1379592872178756
+Vollstaendig,Paderborn,PA-02--PA-10,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.0411204850212663
+Vollstaendig,Paderborn,PA-03--PA-10,Gleichgewichtung,Oberer_Whisker,BB-01--BB-06,0.4859074611190428
+Vollstaendig,Paderborn,PA-04--PA-10,Gleichgewichtung,Oberer_Whisker,BB-01--BB-06,0.4835823602061864
+Vollstaendig,Paderborn,PA-05--PA-10,Gleichgewichtung,Oberer_Whisker,BB-02--BB-07,0.6530429017120493
+Vollstaendig,Paderborn,PA-06--PA-10,Gleichgewichtung,Oberer_Whisker,BB-02--BB-07,0.7145258572704368
+Vollstaendig,Paderborn,PA-07--PA-10,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.6036336363076188
+Vollstaendig,Paderborn,PA-08--PA-10,Gleichgewichtung,Oberer_Whisker,BB-02--BB-07,0.3838227230953636
+Vollstaendig,Paderborn,PA-09--PA-10,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.636185561623664
+Vollstaendig,Paderborn,PA-11--PA-12,Gleichgewichtung,Oberer_Whisker,BC-04--BC-05,0.3399922343207324
+Vollstaendig,Paderborn,PA-02--PA-11,Gleichgewichtung,Oberer_Whisker,BB-01--BB-06,0.998142081529684
+Vollstaendig,Paderborn,PA-03--PA-11,Gleichgewichtung,Oberer_Whisker,BC-01--BC-06,1.091270934183906
+Vollstaendig,Paderborn,PA-04--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.7660419593295071
+Vollstaendig,Paderborn,PA-05--PA-11,Gleichgewichtung,Oberer_Whisker,AM-02--AM-04,0.3038136354229373
+Vollstaendig,Paderborn,PA-06--PA-11,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.6426297529276777
+Vollstaendig,Paderborn,PA-07--PA-11,Gleichgewichtung,Oberer_Whisker,AM-02--AM-04,0.3723692336954363
+Vollstaendig,Paderborn,PA-08--PA-11,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.4180267831706836
+Vollstaendig,Paderborn,PA-09--PA-11,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.2862355313412641
+Vollstaendig,Paderborn,PA-02--PA-12,Gleichgewichtung,Oberer_Whisker,BB-01--BB-06,1.0179328966971342
+Vollstaendig,Paderborn,PA-03--PA-12,Gleichgewichtung,Oberer_Whisker,LO-01--LO-03,1.4527218964008508
+Vollstaendig,Paderborn,PA-04--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.1098267773077184
+Vollstaendig,Paderborn,PA-05--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.672529921300854
+Vollstaendig,Paderborn,PA-06--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.7045075309996177
+Vollstaendig,Paderborn,PA-07--PA-12,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.4000018430826938
+Vollstaendig,Paderborn,PA-08--PA-12,Gleichgewichtung,Oberer_Whisker,AM-03--AM-04,0.5903079604874013
+Vollstaendig,Paderborn,PA-09--PA-12,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.6804624328502011
+Vollstaendig,Paderborn,PA-02--PA-03,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.9091179725515254
+Vollstaendig,Paderborn,PA-02--PA-04,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.0432515463755057
+Vollstaendig,Paderborn,PA-02--PA-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.7431064116762507
+Vollstaendig,Paderborn,PA-02--PA-06,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.8373398382099905
+Vollstaendig,Paderborn,PA-02--PA-07,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.5816465750655677
+Vollstaendig,Paderborn,PA-02--PA-08,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.8825278640410311
+Vollstaendig,Paderborn,PA-02--PA-09,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,1.1854271389184543
+Vollstaendig,Paderborn,PA-03--PA-04,Gleichgewichtung,Oberer_Whisker,BB-02--BB-03,0.4580326642610562
+Vollstaendig,Paderborn,PA-03--PA-05,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.5110132621387061
+Vollstaendig,Paderborn,PA-03--PA-06,Gleichgewichtung,Oberer_Whisker,BB-01--BB-07,0.6161670055863157
+Vollstaendig,Paderborn,PA-03--PA-07,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.5799798275649234
+Vollstaendig,Paderborn,PA-03--PA-08,Gleichgewichtung,Oberer_Whisker,BB-01--BB-05,0.4110379410560646
+Vollstaendig,Paderborn,PA-03--PA-09,Gleichgewichtung,Oberer_Whisker,BC-01--BC-04,0.6950103474656111
+Vollstaendig,Paderborn,PA-04--PA-05,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.4167607000354935
+Vollstaendig,Paderborn,PA-04--PA-06,Gleichgewichtung,Oberer_Whisker,AM-02--AM-04,0.4475675555340251
+Vollstaendig,Paderborn,PA-04--PA-07,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.3026817440904982
+Vollstaendig,Paderborn,PA-04--PA-08,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.4306337432327008
+Vollstaendig,Paderborn,PA-04--PA-09,Gleichgewichtung,Oberer_Whisker,AM-01--AM-04,0.4818983703245145
+Vollstaendig,Paderborn,PA-05--PA-06,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.4556330192454246
+Vollstaendig,Paderborn,PA-05--PA-07,Gleichgewichtung,Oberer_Whisker,BC-04--BC-05,0.4981370327744897
+Vollstaendig,Paderborn,PA-05--PA-08,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.3567450700675605
+Vollstaendig,Paderborn,PA-05--PA-09,Gleichgewichtung,Oberer_Whisker,AM-02--AM-03,0.4829391538137189
+Vollstaendig,Paderborn,PA-06--PA-07,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.4693105460005853
+Vollstaendig,Paderborn,PA-06--PA-08,Gleichgewichtung,Oberer_Whisker,AM-02--AM-04,0.4631867510389326
+Vollstaendig,Paderborn,PA-06--PA-09,Gleichgewichtung,Oberer_Whisker,BC-02--BC-06,0.6097698355851816
+Vollstaendig,Paderborn,PA-07--PA-08,Gleichgewichtung,Oberer_Whisker,AM-01--AM-02,0.4249412907274079
+Vollstaendig,Paderborn,PA-07--PA-09,Gleichgewichtung,Oberer_Whisker,RB-01--RB-04,0.4557371647915739
+Vollstaendig,Paderborn,PA-08--PA-09,Gleichgewichtung,Oberer_Whisker,BC-04--BC-06,0.4987758548923997
+Vollstaendig,Paderborn,PA-01--PA-10,Gleichgewichtung,Quantil_95,BB-02--BB-06,0.8418509823410079
+Vollstaendig,Paderborn,PA-01--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.294888899228869
+Vollstaendig,Paderborn,PA-01--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.4984705316794544
+Vollstaendig,Paderborn,PA-01--PA-02,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.0750361303536713
+Vollstaendig,Paderborn,PA-01--PA-03,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.4483028545582602
+Vollstaendig,Paderborn,PA-01--PA-04,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.4994190924925453
+Vollstaendig,Paderborn,PA-01--PA-05,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.4354245123516181
+Vollstaendig,Paderborn,PA-01--PA-06,Gleichgewichtung,Quantil_95,BB-01--BB-06,0.588618645846701
+Vollstaendig,Paderborn,PA-01--PA-07,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.6376251368609318
+Vollstaendig,Paderborn,PA-01--PA-08,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.5901834282435848
+Vollstaendig,Paderborn,PA-01--PA-09,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.0759187133642496
+Vollstaendig,Paderborn,PA-10--PA-11,Gleichgewichtung,Quantil_95,LO-01--LO-03,0.8533213447051731
+Vollstaendig,Paderborn,PA-10--PA-12,Gleichgewichtung,Quantil_95,LO-01--LO-03,1.1379592872178756
+Vollstaendig,Paderborn,PA-02--PA-10,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.0411204850212663
+Vollstaendig,Paderborn,PA-03--PA-10,Gleichgewichtung,Quantil_95,BB-01--BB-06,0.4859074611190428
+Vollstaendig,Paderborn,PA-04--PA-10,Gleichgewichtung,Quantil_95,BB-01--BB-06,0.4835823602061864
+Vollstaendig,Paderborn,PA-05--PA-10,Gleichgewichtung,Quantil_95,BB-02--BB-07,0.6530429017120493
+Vollstaendig,Paderborn,PA-06--PA-10,Gleichgewichtung,Quantil_95,BB-02--BB-07,0.7145258572704368
+Vollstaendig,Paderborn,PA-07--PA-10,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.6036336363076188
+Vollstaendig,Paderborn,PA-08--PA-10,Gleichgewichtung,Quantil_95,BB-02--BB-07,0.3838227230953636
+Vollstaendig,Paderborn,PA-09--PA-10,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.636185561623664
+Vollstaendig,Paderborn,PA-11--PA-12,Gleichgewichtung,Quantil_95,BC-04--BC-05,0.3399922343207324
+Vollstaendig,Paderborn,PA-02--PA-11,Gleichgewichtung,Quantil_95,BB-01--BB-06,0.998142081529684
+Vollstaendig,Paderborn,PA-03--PA-11,Gleichgewichtung,Quantil_95,BC-01--BC-06,1.091270934183906
+Vollstaendig,Paderborn,PA-04--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.7660419593295071
+Vollstaendig,Paderborn,PA-05--PA-11,Gleichgewichtung,Quantil_95,AM-02--AM-04,0.3038136354229373
+Vollstaendig,Paderborn,PA-06--PA-11,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.6426297529276777
+Vollstaendig,Paderborn,PA-07--PA-11,Gleichgewichtung,Quantil_95,AM-02--AM-04,0.3723692336954363
+Vollstaendig,Paderborn,PA-08--PA-11,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.4180267831706836
+Vollstaendig,Paderborn,PA-09--PA-11,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.2862355313412641
+Vollstaendig,Paderborn,PA-02--PA-12,Gleichgewichtung,Quantil_95,BB-01--BB-06,1.0179328966971342
+Vollstaendig,Paderborn,PA-03--PA-12,Gleichgewichtung,Quantil_95,LO-01--LO-03,1.4527218964008508
+Vollstaendig,Paderborn,PA-04--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.1098267773077184
+Vollstaendig,Paderborn,PA-05--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.672529921300854
+Vollstaendig,Paderborn,PA-06--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.7045075309996177
+Vollstaendig,Paderborn,PA-07--PA-12,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.4000018430826938
+Vollstaendig,Paderborn,PA-08--PA-12,Gleichgewichtung,Quantil_95,AM-03--AM-04,0.5903079604874013
+Vollstaendig,Paderborn,PA-09--PA-12,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.6804624328502011
+Vollstaendig,Paderborn,PA-02--PA-03,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.9091179725515254
+Vollstaendig,Paderborn,PA-02--PA-04,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.0432515463755057
+Vollstaendig,Paderborn,PA-02--PA-05,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.7431064116762507
+Vollstaendig,Paderborn,PA-02--PA-06,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.8373398382099905
+Vollstaendig,Paderborn,PA-02--PA-07,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.5816465750655677
+Vollstaendig,Paderborn,PA-02--PA-08,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.8825278640410311
+Vollstaendig,Paderborn,PA-02--PA-09,Gleichgewichtung,Quantil_95,AM-01--AM-04,1.1854271389184543
+Vollstaendig,Paderborn,PA-03--PA-04,Gleichgewichtung,Quantil_95,BB-02--BB-03,0.4580326642610562
+Vollstaendig,Paderborn,PA-03--PA-05,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.5110132621387061
+Vollstaendig,Paderborn,PA-03--PA-06,Gleichgewichtung,Quantil_95,BB-01--BB-07,0.6161670055863157
+Vollstaendig,Paderborn,PA-03--PA-07,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.5799798275649234
+Vollstaendig,Paderborn,PA-03--PA-08,Gleichgewichtung,Quantil_95,BB-01--BB-05,0.4110379410560646
+Vollstaendig,Paderborn,PA-03--PA-09,Gleichgewichtung,Quantil_95,BC-01--BC-04,0.6950103474656111
+Vollstaendig,Paderborn,PA-04--PA-05,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.4167607000354935
+Vollstaendig,Paderborn,PA-04--PA-06,Gleichgewichtung,Quantil_95,AM-02--AM-04,0.4475675555340251
+Vollstaendig,Paderborn,PA-04--PA-07,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.3026817440904982
+Vollstaendig,Paderborn,PA-04--PA-08,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.4306337432327008
+Vollstaendig,Paderborn,PA-04--PA-09,Gleichgewichtung,Quantil_95,AM-01--AM-04,0.4818983703245145
+Vollstaendig,Paderborn,PA-05--PA-06,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.4556330192454246
+Vollstaendig,Paderborn,PA-05--PA-07,Gleichgewichtung,Quantil_95,BC-04--BC-05,0.4981370327744897
+Vollstaendig,Paderborn,PA-05--PA-08,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.3567450700675605
+Vollstaendig,Paderborn,PA-05--PA-09,Gleichgewichtung,Quantil_95,AM-02--AM-03,0.4829391538137189
+Vollstaendig,Paderborn,PA-06--PA-07,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.4693105460005853
+Vollstaendig,Paderborn,PA-06--PA-08,Gleichgewichtung,Quantil_95,AM-02--AM-04,0.4631867510389326
+Vollstaendig,Paderborn,PA-06--PA-09,Gleichgewichtung,Quantil_95,BC-02--BC-06,0.6097698355851816
+Vollstaendig,Paderborn,PA-07--PA-08,Gleichgewichtung,Quantil_95,AM-01--AM-02,0.4249412907274079
+Vollstaendig,Paderborn,PA-07--PA-09,Gleichgewichtung,Quantil_95,RB-01--RB-04,0.4557371647915739
+Vollstaendig,Paderborn,PA-08--PA-09,Gleichgewichtung,Quantil_95,BC-04--BC-06,0.4987758548923997
+Vollstaendig,Rheda-Beckum,RB-01--RB-02,Koeffizientenbetraege,Oberer_Whisker,AS-05--AS-06,0.0694344559894841
+Vollstaendig,Rheda-Beckum,RB-01--RB-03,Koeffizientenbetraege,Oberer_Whisker,BC-03--BC-04,0.172395262558139
+Vollstaendig,Rheda-Beckum,RB-01--RB-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.2822021913347991
+Vollstaendig,Rheda-Beckum,RB-01--RB-05,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.1682587273246326
+Vollstaendig,Rheda-Beckum,RB-02--RB-03,Koeffizientenbetraege,Oberer_Whisker,AS-04--AS-05,0.1199150436758768
+Vollstaendig,Rheda-Beckum,RB-02--RB-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.2361765927278064
+Vollstaendig,Rheda-Beckum,RB-02--RB-05,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.1185221445296613
+Vollstaendig,Rheda-Beckum,RB-03--RB-04,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.1545650475479542
+Vollstaendig,Rheda-Beckum,RB-03--RB-05,Koeffizientenbetraege,Oberer_Whisker,AS-02--AS-03,0.1412021920790783
+Vollstaendig,Rheda-Beckum,RB-04--RB-05,Koeffizientenbetraege,Oberer_Whisker,AS-04--AS-05,0.1017834951486862
+Vollstaendig,Rheda-Beckum,RB-01--RB-02,Koeffizientenbetraege,Quantil_95,AS-05--AS-06,0.0694344559894841
+Vollstaendig,Rheda-Beckum,RB-01--RB-03,Koeffizientenbetraege,Quantil_95,BC-03--BC-04,0.172395262558139
+Vollstaendig,Rheda-Beckum,RB-01--RB-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.2822021913347991
+Vollstaendig,Rheda-Beckum,RB-01--RB-05,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.1682587273246326
+Vollstaendig,Rheda-Beckum,RB-02--RB-03,Koeffizientenbetraege,Quantil_95,AS-04--AS-05,0.1199150436758768
+Vollstaendig,Rheda-Beckum,RB-02--RB-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.2361765927278064
+Vollstaendig,Rheda-Beckum,RB-02--RB-05,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.1185221445296613
+Vollstaendig,Rheda-Beckum,RB-03--RB-04,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.1545650475479542
+Vollstaendig,Rheda-Beckum,RB-03--RB-05,Koeffizientenbetraege,Quantil_95,AS-02--AS-03,0.1412021920790783
+Vollstaendig,Rheda-Beckum,RB-04--RB-05,Koeffizientenbetraege,Quantil_95,AS-04--AS-05,0.1017834951486862
+Vollstaendig,Rheda-Beckum,RB-01--RB-02,Gleichgewichtung,Oberer_Whisker,AS-05--AS-06,0.0615077451997893
+Vollstaendig,Rheda-Beckum,RB-01--RB-03,Gleichgewichtung,Oberer_Whisker,BC-03--BC-04,0.1662691856959972
+Vollstaendig,Rheda-Beckum,RB-01--RB-04,Gleichgewichtung,Oberer_Whisker,AS-02--AS-03,0.2566625136470133
+Vollstaendig,Rheda-Beckum,RB-01--RB-05,Gleichgewichtung,Oberer_Whisker,AS-02--AS-03,0.187835903634408
+Vollstaendig,Rheda-Beckum,RB-02--RB-03,Gleichgewichtung,Oberer_Whisker,AS-05--AS-06,0.1241577452308213
+Vollstaendig,Rheda-Beckum,RB-02--RB-04,Gleichgewichtung,Oberer_Whisker,AS-02--AS-03,0.2117221004770065
+Vollstaendig,Rheda-Beckum,RB-02--RB-05,Gleichgewichtung,Oberer_Whisker,AS-02--AS-03,0.0967102866989499
+Vollstaendig,Rheda-Beckum,RB-03--RB-04,Gleichgewichtung,Oberer_Whisker,AS-01--AS-03,0.1841380388617338
+Vollstaendig,Rheda-Beckum,RB-03--RB-05,Gleichgewichtung,Oberer_Whisker,AS-01--AS-03,0.1411839131488359
+Vollstaendig,Rheda-Beckum,RB-04--RB-05,Gleichgewichtung,Oberer_Whisker,AS-05--AS-06,0.0858381301187973
+Vollstaendig,Rheda-Beckum,RB-01--RB-02,Gleichgewichtung,Quantil_95,AS-05--AS-06,0.0615077451997893
+Vollstaendig,Rheda-Beckum,RB-01--RB-03,Gleichgewichtung,Quantil_95,BC-03--BC-04,0.1662691856959972
+Vollstaendig,Rheda-Beckum,RB-01--RB-04,Gleichgewichtung,Quantil_95,AS-02--AS-03,0.2566625136470133
+Vollstaendig,Rheda-Beckum,RB-01--RB-05,Gleichgewichtung,Quantil_95,AS-02--AS-03,0.187835903634408
+Vollstaendig,Rheda-Beckum,RB-02--RB-03,Gleichgewichtung,Quantil_95,AS-05--AS-06,0.1241577452308213
+Vollstaendig,Rheda-Beckum,RB-02--RB-04,Gleichgewichtung,Quantil_95,AS-02--AS-03,0.2117221004770065
+Vollstaendig,Rheda-Beckum,RB-02--RB-05,Gleichgewichtung,Quantil_95,AS-02--AS-03,0.0967102866989499
+Vollstaendig,Rheda-Beckum,RB-03--RB-04,Gleichgewichtung,Quantil_95,AS-01--AS-03,0.1841380388617338
+Vollstaendig,Rheda-Beckum,RB-03--RB-05,Gleichgewichtung,Quantil_95,AS-01--AS-03,0.1411839131488359
+Vollstaendig,Rheda-Beckum,RB-04--RB-05,Gleichgewichtung,Quantil_95,AS-05--AS-06,0.0858381301187973

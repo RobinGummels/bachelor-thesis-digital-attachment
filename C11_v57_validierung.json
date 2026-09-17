@@ -1,0 +1,25 @@
+{
+  "scikit_learn_version": "1.9.0",
+  "anzahl_clusterpaare": 142,
+  "anzahl_standorte": 8,
+  "anzahl_merkmalskombinationen": 57,
+  "kontrollvergleiche": [
+    {
+      "vergleich": "Notebook 06",
+      "modell": "Wald + Wind",
+      "maximale_abweichung_prognostiziertes_fehlerquadrat": 9.8879238130678e-17
+    },
+    {
+      "vergleich": "Notebook 06",
+      "modell": "Vollstaendig",
+      "maximale_abweichung_prognostiziertes_fehlerquadrat": 9.80118763926896e-17
+    },
+    {
+      "vergleich": "Notebook 09",
+      "modell": "Alle 15 Zweimerkmalmodelle",
+      "maximale_abweichung_prognostiziertes_fehlerquadrat": 9.974659986866641e-17
+    }
+  ],
+  "einheiten": "Prognostizierte Fehlerquadrate und ihre numerischen Abweichungen sind dimensionslos.",
+  "auswahl": "Explorativer Vergleich der Merkmale; ausschließlich Alpha wird in der inneren LOSO gewählt."
+}

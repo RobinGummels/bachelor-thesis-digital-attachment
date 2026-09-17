@@ -1,0 +1,569 @@
+﻿standort,clusterpaar,modell,prognostiziertes_rms_logfehlerniveau
+Alpen-Sevelen,AS-01--AS-02,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-01--AS-03,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-01--AS-04,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-01--AS-05,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-01--AS-06,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-02--AS-03,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-02--AS-04,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-02--AS-05,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-02--AS-06,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-03--AS-04,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-03--AS-05,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-03--AS-06,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-04--AS-05,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-04--AS-06,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-05--AS-06,Konstant,0.0818134928228002
+Alpen-Sevelen,AS-01--AS-02,Distanz,0.0818225407435944
+Alpen-Sevelen,AS-01--AS-03,Distanz,0.0818081356686668
+Alpen-Sevelen,AS-01--AS-04,Distanz,0.0818115870296377
+Alpen-Sevelen,AS-01--AS-05,Distanz,0.081811430194776
+Alpen-Sevelen,AS-01--AS-06,Distanz,0.0818091873261914
+Alpen-Sevelen,AS-02--AS-03,Distanz,0.0817986702603481
+Alpen-Sevelen,AS-02--AS-04,Distanz,0.0818027374518804
+Alpen-Sevelen,AS-02--AS-05,Distanz,0.0818045868492307
+Alpen-Sevelen,AS-02--AS-06,Distanz,0.0818019417734639
+Alpen-Sevelen,AS-03--AS-04,Distanz,0.081829771778086
+Alpen-Sevelen,AS-03--AS-05,Distanz,0.081824236208042
+Alpen-Sevelen,AS-03--AS-06,Distanz,0.0818259347822809
+Alpen-Sevelen,AS-04--AS-05,Distanz,0.0818280902873463
+Alpen-Sevelen,AS-04--AS-06,Distanz,0.081828803274258
+Alpen-Sevelen,AS-05--AS-06,Distanz,0.0818315205129127
+Alpen-Sevelen,AS-01--AS-02,Wald + Wind,0.0589281902772258
+Alpen-Sevelen,AS-01--AS-03,Wald + Wind,0.0566796021282838
+Alpen-Sevelen,AS-01--AS-04,Wald + Wind,0.0604531205664504
+Alpen-Sevelen,AS-01--AS-05,Wald + Wind,0.0641487995481512
+Alpen-Sevelen,AS-01--AS-06,Wald + Wind,0.0634147236738976
+Alpen-Sevelen,AS-02--AS-03,Wald + Wind,0.0607308560440681
+Alpen-Sevelen,AS-02--AS-04,Wald + Wind,0.0529064666787281
+Alpen-Sevelen,AS-02--AS-05,Wald + Wind,0.0547313552744126
+Alpen-Sevelen,AS-02--AS-06,Wald + Wind,0.0532670507593767
+Alpen-Sevelen,AS-03--AS-04,Wald + Wind,0.0477931054092758
+Alpen-Sevelen,AS-03--AS-05,Wald + Wind,0.0525201512311283
+Alpen-Sevelen,AS-03--AS-06,Wald + Wind,0.050985054859685
+Alpen-Sevelen,AS-04--AS-05,Wald + Wind,0.0454346407003331
+Alpen-Sevelen,AS-04--AS-06,Wald + Wind,0.0426593146281468
+Alpen-Sevelen,AS-05--AS-06,Wald + Wind,0.0426556071798321
+Alpen-Sevelen,AS-01--AS-02,Vollstaendig,0.0498507392665761
+Alpen-Sevelen,AS-01--AS-03,Vollstaendig,0.0495195042357818
+Alpen-Sevelen,AS-01--AS-04,Vollstaendig,0.0515232084162551
+Alpen-Sevelen,AS-01--AS-05,Vollstaendig,0.0559200112243496
+Alpen-Sevelen,AS-01--AS-06,Vollstaendig,0.0550638931052912
+Alpen-Sevelen,AS-02--AS-03,Vollstaendig,0.0527128375234807
+Alpen-Sevelen,AS-02--AS-04,Vollstaendig,0.0483517228557855
+Alpen-Sevelen,AS-02--AS-05,Vollstaendig,0.049270666498854
+Alpen-Sevelen,AS-02--AS-06,Vollstaendig,0.0485107649236329
+Alpen-Sevelen,AS-03--AS-04,Vollstaendig,0.0428864238137794
+Alpen-Sevelen,AS-03--AS-05,Vollstaendig,0.0466325711237868
+Alpen-Sevelen,AS-03--AS-06,Vollstaendig,0.0459701298782839
+Alpen-Sevelen,AS-04--AS-05,Vollstaendig,0.0415826138115635
+Alpen-Sevelen,AS-04--AS-06,Vollstaendig,0.0396798901953503
+Alpen-Sevelen,AS-05--AS-06,Vollstaendig,0.0406444547285243
+Altenmellrich,AM-01--AM-02,Konstant,0.06557317145387
+Altenmellrich,AM-01--AM-03,Konstant,0.06557317145387
+Altenmellrich,AM-01--AM-04,Konstant,0.06557317145387
+Altenmellrich,AM-02--AM-03,Konstant,0.06557317145387
+Altenmellrich,AM-02--AM-04,Konstant,0.06557317145387
+Altenmellrich,AM-03--AM-04,Konstant,0.06557317145387
+Altenmellrich,AM-01--AM-02,Distanz,0.0655012230361386
+Altenmellrich,AM-01--AM-03,Distanz,0.0655240620141045
+Altenmellrich,AM-01--AM-04,Distanz,0.0655509037493132
+Altenmellrich,AM-02--AM-03,Distanz,0.0655205614283614
+Altenmellrich,AM-02--AM-04,Distanz,0.0655460759631591
+Altenmellrich,AM-03--AM-04,Distanz,0.0655214383443651
+Altenmellrich,AM-01--AM-02,Wald + Wind,0.060662663588042
+Altenmellrich,AM-01--AM-03,Wald + Wind,0.0619009558192301
+Altenmellrich,AM-01--AM-04,Wald + Wind,0.0879262162975643
+Altenmellrich,AM-02--AM-03,Wald + Wind,0.0590024193034441
+Altenmellrich,AM-02--AM-04,Wald + Wind,0.0647486506016564
+Altenmellrich,AM-03--AM-04,Wald + Wind,0.0675719339294975
+Altenmellrich,AM-01--AM-02,Vollstaendig,0.0592848248748353
+Altenmellrich,AM-01--AM-03,Vollstaendig,0.0607746138525891
+Altenmellrich,AM-01--AM-04,Vollstaendig,0.0830544194084926
+Altenmellrich,AM-02--AM-03,Vollstaendig,0.0575326938276196
+Altenmellrich,AM-02--AM-04,Vollstaendig,0.0644576796861791
+Altenmellrich,AM-03--AM-04,Vollstaendig,0.066829792457098
+Bad Berleburg,BB-01--BB-02,Konstant,0.074452064482292
+Bad Berleburg,BB-01--BB-03,Konstant,0.074452064482292
+Bad Berleburg,BB-01--BB-04,Konstant,0.074452064482292
+Bad Berleburg,BB-01--BB-05,Konstant,0.074452064482292
+Bad Berleburg,BB-01--BB-06,Konstant,0.074452064482292
+Bad Berleburg,BB-01--BB-07,Konstant,0.074452064482292
+Bad Berleburg,BB-02--BB-03,Konstant,0.074452064482292
+Bad Berleburg,BB-02--BB-04,Konstant,0.074452064482292
+Bad Berleburg,BB-02--BB-05,Konstant,0.074452064482292
+Bad Berleburg,BB-02--BB-06,Konstant,0.074452064482292
+Bad Berleburg,BB-02--BB-07,Konstant,0.074452064482292
+Bad Berleburg,BB-03--BB-04,Konstant,0.074452064482292
+Bad Berleburg,BB-03--BB-05,Konstant,0.074452064482292
+Bad Berleburg,BB-03--BB-06,Konstant,0.074452064482292
+Bad Berleburg,BB-03--BB-07,Konstant,0.074452064482292
+Bad Berleburg,BB-04--BB-05,Konstant,0.074452064482292
+Bad Berleburg,BB-04--BB-06,Konstant,0.074452064482292
+Bad Berleburg,BB-04--BB-07,Konstant,0.074452064482292
+Bad Berleburg,BB-05--BB-06,Konstant,0.074452064482292
+Bad Berleburg,BB-05--BB-07,Konstant,0.074452064482292
+Bad Berleburg,BB-06--BB-07,Konstant,0.074452064482292
+Bad Berleburg,BB-01--BB-02,Distanz,0.0744485245641336
+Bad Berleburg,BB-01--BB-03,Distanz,0.0744482824245657
+Bad Berleburg,BB-01--BB-04,Distanz,0.0744492969641895
+Bad Berleburg,BB-01--BB-05,Distanz,0.0744504489819804
+Bad Berleburg,BB-01--BB-06,Distanz,0.0744516657077052
+Bad Berleburg,BB-01--BB-07,Distanz,0.0744530080958075
+Bad Berleburg,BB-02--BB-03,Distanz,0.0744480976240816
+Bad Berleburg,BB-02--BB-04,Distanz,0.0744479062312545
+Bad Berleburg,BB-02--BB-05,Distanz,0.0744489580004621
+Bad Berleburg,BB-02--BB-06,Distanz,0.0744501185312607
+Bad Berleburg,BB-02--BB-07,Distanz,0.074451317666113
+Bad Berleburg,BB-03--BB-04,Distanz,0.0744475951526162
+Bad Berleburg,BB-03--BB-05,Distanz,0.074448606373476
+Bad Berleburg,BB-03--BB-06,Distanz,0.0744497831309956
+Bad Berleburg,BB-03--BB-07,Distanz,0.0744511513785622
+Bad Berleburg,BB-04--BB-05,Distanz,0.0744474831956053
+Bad Berleburg,BB-04--BB-06,Distanz,0.0744487053774347
+Bad Berleburg,BB-04--BB-07,Distanz,0.074450026733423
+Bad Berleburg,BB-05--BB-06,Distanz,0.074447534697226
+Bad Berleburg,BB-05--BB-07,Distanz,0.0744488738538049
+Bad Berleburg,BB-06--BB-07,Distanz,0.0744476855674457
+Bad Berleburg,BB-01--BB-02,Wald + Wind,0.0733996290429039
+Bad Berleburg,BB-01--BB-03,Wald + Wind,0.0657851997119096
+Bad Berleburg,BB-01--BB-04,Wald + Wind,0.0840110459515829
+Bad Berleburg,BB-01--BB-05,Wald + Wind,0.0678824133820973
+Bad Berleburg,BB-01--BB-06,Wald + Wind,0.1100675666370707
+Bad Berleburg,BB-01--BB-07,Wald + Wind,0.0991056686241436
+Bad Berleburg,BB-02--BB-03,Wald + Wind,0.0949441502578534
+Bad Berleburg,BB-02--BB-04,Wald + Wind,0.0717026182551215
+Bad Berleburg,BB-02--BB-05,Wald + Wind,0.0942928959956562
+Bad Berleburg,BB-02--BB-06,Wald + Wind,0.1503090624515917
+Bad Berleburg,BB-02--BB-07,Wald + Wind,0.0696436268033073
+Bad Berleburg,BB-03--BB-04,Wald + Wind,0.0907794670817636
+Bad Berleburg,BB-03--BB-05,Wald + Wind,0.0833291531535921
+Bad Berleburg,BB-03--BB-06,Wald + Wind,0.1009957123590085
+Bad Berleburg,BB-03--BB-07,Wald + Wind,0.1225088365186248
+Bad Berleburg,BB-04--BB-05,Wald + Wind,0.0756181232531488
+Bad Berleburg,BB-04--BB-06,Wald + Wind,0.1136031310568449
+Bad Berleburg,BB-04--BB-07,Wald + Wind,0.0840199833434566
+Bad Berleburg,BB-05--BB-06,Wald + Wind,0.1088450206368071
+Bad Berleburg,BB-05--BB-07,Wald + Wind,0.09590135572951
+Bad Berleburg,BB-06--BB-07,Wald + Wind,0.1638468321657576
+Bad Berleburg,BB-01--BB-02,Vollstaendig,0.1249194511480085
+Bad Berleburg,BB-01--BB-03,Vollstaendig,0.1124207745332649
+Bad Berleburg,BB-01--BB-04,Vollstaendig,0.1258685944128046
+Bad Berleburg,BB-01--BB-05,Vollstaendig,0.0976532236121591
+Bad Berleburg,BB-01--BB-06,Vollstaendig,0.1562508218963208
+Bad Berleburg,BB-01--BB-07,Vollstaendig,0.1684260814793015
+Bad Berleburg,BB-02--BB-03,Vollstaendig,0.1592992574074732
+Bad Berleburg,BB-02--BB-04,Vollstaendig,0.1280726137318423
+Bad Berleburg,BB-02--BB-05,Vollstaendig,0.1370521420705059
+Bad Berleburg,BB-02--BB-06,Vollstaendig,0.2160258376967656
+Bad Berleburg,BB-02--BB-07,Vollstaendig,0.1105327711685979
+Bad Berleburg,BB-03--BB-04,Vollstaendig,0.132792948090524
+Bad Berleburg,BB-03--BB-05,Vollstaendig,0.134624349349821
+Bad Berleburg,BB-03--BB-06,Vollstaendig,0.1440337476866945
+Bad Berleburg,BB-03--BB-07,Vollstaendig,0.2391137669870494
+Bad Berleburg,BB-04--BB-05,Vollstaendig,0.1318652844661719
+Bad Berleburg,BB-04--BB-06,Vollstaendig,0.1556814421888248
+Bad Berleburg,BB-04--BB-07,Vollstaendig,0.1705229993671198
+Bad Berleburg,BB-05--BB-06,Vollstaendig,0.1774753792652662
+Bad Berleburg,BB-05--BB-07,Vollstaendig,0.1673461662198413
+Bad Berleburg,BB-06--BB-07,Vollstaendig,0.2968078835548804
+Borken-Coesfeld,BC-01--BC-02,Konstant,0.082673176134535
+Borken-Coesfeld,BC-01--BC-03,Konstant,0.082673176134535
+Borken-Coesfeld,BC-01--BC-04,Konstant,0.082673176134535
+Borken-Coesfeld,BC-01--BC-05,Konstant,0.082673176134535
+Borken-Coesfeld,BC-01--BC-06,Konstant,0.082673176134535
+Borken-Coesfeld,BC-02--BC-03,Konstant,0.082673176134535
+Borken-Coesfeld,BC-02--BC-04,Konstant,0.082673176134535
+Borken-Coesfeld,BC-02--BC-05,Konstant,0.082673176134535
+Borken-Coesfeld,BC-02--BC-06,Konstant,0.082673176134535
+Borken-Coesfeld,BC-03--BC-04,Konstant,0.082673176134535
+Borken-Coesfeld,BC-03--BC-05,Konstant,0.082673176134535
+Borken-Coesfeld,BC-03--BC-06,Konstant,0.082673176134535
+Borken-Coesfeld,BC-04--BC-05,Konstant,0.082673176134535
+Borken-Coesfeld,BC-04--BC-06,Konstant,0.082673176134535
+Borken-Coesfeld,BC-05--BC-06,Konstant,0.082673176134535
+Borken-Coesfeld,BC-01--BC-02,Distanz,0.0826649309870958
+Borken-Coesfeld,BC-01--BC-03,Distanz,0.0826919881237019
+Borken-Coesfeld,BC-01--BC-04,Distanz,0.0826903544521758
+Borken-Coesfeld,BC-01--BC-05,Distanz,0.0826840697913453
+Borken-Coesfeld,BC-01--BC-06,Distanz,0.082679436836763
+Borken-Coesfeld,BC-02--BC-03,Distanz,0.0826948850443832
+Borken-Coesfeld,BC-02--BC-04,Distanz,0.0826926701452419
+Borken-Coesfeld,BC-02--BC-05,Distanz,0.0826864568213598
+Borken-Coesfeld,BC-02--BC-06,Distanz,0.0826778824968562
+Borken-Coesfeld,BC-03--BC-04,Distanz,0.0826614835111869
+Borken-Coesfeld,BC-03--BC-05,Distanz,0.0826664324107953
+Borken-Coesfeld,BC-03--BC-06,Distanz,0.0826806240594159
+Borken-Coesfeld,BC-04--BC-05,Distanz,0.0826641594298382
+Borken-Coesfeld,BC-04--BC-06,Distanz,0.0826773165684958
+Borken-Coesfeld,BC-05--BC-06,Distanz,0.082672776941642
+Borken-Coesfeld,BC-01--BC-02,Wald + Wind,0.0564463077760915
+Borken-Coesfeld,BC-01--BC-03,Wald + Wind,0.0576887108752654
+Borken-Coesfeld,BC-01--BC-04,Wald + Wind,0.0594467101983941
+Borken-Coesfeld,BC-01--BC-05,Wald + Wind,0.0557493567796717
+Borken-Coesfeld,BC-01--BC-06,Wald + Wind,0.0629886415929649
+Borken-Coesfeld,BC-02--BC-03,Wald + Wind,0.0633001795736363
+Borken-Coesfeld,BC-02--BC-04,Wald + Wind,0.0605790063259792
+Borken-Coesfeld,BC-02--BC-05,Wald + Wind,0.0532395806257152
+Borken-Coesfeld,BC-02--BC-06,Wald + Wind,0.0684713799649468
+Borken-Coesfeld,BC-03--BC-04,Wald + Wind,0.0477965709969879
+Borken-Coesfeld,BC-03--BC-05,Wald + Wind,0.056997542586283
+Borken-Coesfeld,BC-03--BC-06,Wald + Wind,0.0535983197308367
+Borken-Coesfeld,BC-04--BC-05,Wald + Wind,0.0565605858006724
+Borken-Coesfeld,BC-04--BC-06,Wald + Wind,0.0560603983487499
+Borken-Coesfeld,BC-05--BC-06,Wald + Wind,0.0586183117331499
+Borken-Coesfeld,BC-01--BC-02,Vollstaendig,0.0529045917704476
+Borken-Coesfeld,BC-01--BC-03,Vollstaendig,0.0511661330812448
+Borken-Coesfeld,BC-01--BC-04,Vollstaendig,0.0495087056047318
+Borken-Coesfeld,BC-01--BC-05,Vollstaendig,0.0508202823959658
+Borken-Coesfeld,BC-01--BC-06,Vollstaendig,0.053354689545182
+Borken-Coesfeld,BC-02--BC-03,Vollstaendig,0.061496979861317
+Borken-Coesfeld,BC-02--BC-04,Vollstaendig,0.0561203323623516
+Borken-Coesfeld,BC-02--BC-05,Vollstaendig,0.0496924957915149
+Borken-Coesfeld,BC-02--BC-06,Vollstaendig,0.0636446537814963
+Borken-Coesfeld,BC-03--BC-04,Vollstaendig,0.0447697470409109
+Borken-Coesfeld,BC-03--BC-05,Vollstaendig,0.0539698918474509
+Borken-Coesfeld,BC-03--BC-06,Vollstaendig,0.0466551672469913
+Borken-Coesfeld,BC-04--BC-05,Vollstaendig,0.0509571367801636
+Borken-Coesfeld,BC-04--BC-06,Vollstaendig,0.0504446170769186
+Borken-Coesfeld,BC-05--BC-06,Vollstaendig,0.055073074310167
+Lorup,LO-01--LO-02,Konstant,0.0835788587563571
+Lorup,LO-01--LO-03,Konstant,0.0835788587563571
+Lorup,LO-02--LO-03,Konstant,0.0835788587563571
+Lorup,LO-01--LO-02,Distanz,0.0836086605927931
+Lorup,LO-01--LO-03,Distanz,0.0836090201021742
+Lorup,LO-02--LO-03,Distanz,0.0836133038938142
+Lorup,LO-01--LO-02,Wald + Wind,0.0605652473556965
+Lorup,LO-01--LO-03,Wald + Wind,0.073362832383255
+Lorup,LO-02--LO-03,Wald + Wind,0.0630361140503926
+Lorup,LO-01--LO-02,Vollstaendig,0.0564835774278986
+Lorup,LO-01--LO-03,Vollstaendig,0.0691105416007642
+Lorup,LO-02--LO-03,Vollstaendig,0.0590537111192551
+Ostfriesland,OF-01--OF-02,Konstant,0.0831577937137914
+Ostfriesland,OF-01--OF-03,Konstant,0.0831577937137914
+Ostfriesland,OF-01--OF-04,Konstant,0.0831577937137914
+Ostfriesland,OF-02--OF-03,Konstant,0.0831577937137914
+Ostfriesland,OF-02--OF-04,Konstant,0.0831577937137914
+Ostfriesland,OF-03--OF-04,Konstant,0.0831577937137914
+Ostfriesland,OF-01--OF-02,Distanz,0.0830697898783658
+Ostfriesland,OF-01--OF-03,Distanz,0.083327558786764
+Ostfriesland,OF-01--OF-04,Distanz,0.083506149749188
+Ostfriesland,OF-02--OF-03,Distanz,0.083266965968864
+Ostfriesland,OF-02--OF-04,Distanz,0.0834494051240822
+Ostfriesland,OF-03--OF-04,Distanz,0.0832227055946089
+Ostfriesland,OF-01--OF-02,Wald + Wind,0.0464321042608424
+Ostfriesland,OF-01--OF-03,Wald + Wind,0.0480723905575715
+Ostfriesland,OF-01--OF-04,Wald + Wind,0.0558581566554955
+Ostfriesland,OF-02--OF-03,Wald + Wind,0.0485278113392556
+Ostfriesland,OF-02--OF-04,Wald + Wind,0.0551175621685818
+Ostfriesland,OF-03--OF-04,Wald + Wind,0.0622236724993569
+Ostfriesland,OF-01--OF-02,Vollstaendig,0.0403309548451798
+Ostfriesland,OF-01--OF-03,Vollstaendig,0.0494532974626358
+Ostfriesland,OF-01--OF-04,Vollstaendig,0.0629758993674348
+Ostfriesland,OF-02--OF-03,Vollstaendig,0.0479930211593452
+Ostfriesland,OF-02--OF-04,Vollstaendig,0.0591974171194343
+Ostfriesland,OF-03--OF-04,Vollstaendig,0.0544159934210016
+Paderborn,PA-01--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-02,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-03,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-04,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-05,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-06,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-07,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-10--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-10--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-06--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-07--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-08--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-09--PA-10,Konstant,0.0737631224218017
+Paderborn,PA-11--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-06--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-07--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-08--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-09--PA-11,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-06--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-07--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-08--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-09--PA-12,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-03,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-04,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-05,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-06,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-07,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-02--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-04,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-05,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-06,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-07,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-03--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-05,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-06,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-07,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-04--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-06,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-07,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-05--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-06--PA-07,Konstant,0.0737631224218017
+Paderborn,PA-06--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-06--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-07--PA-08,Konstant,0.0737631224218017
+Paderborn,PA-07--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-08--PA-09,Konstant,0.0737631224218017
+Paderborn,PA-01--PA-10,Distanz,0.0736308865963835
+Paderborn,PA-01--PA-11,Distanz,0.0735891836319996
+Paderborn,PA-01--PA-12,Distanz,0.0735790752305418
+Paderborn,PA-01--PA-02,Distanz,0.0738134183051958
+Paderborn,PA-01--PA-03,Distanz,0.0737722462700341
+Paderborn,PA-01--PA-04,Distanz,0.0737655209283821
+Paderborn,PA-01--PA-05,Distanz,0.0737209577102723
+Paderborn,PA-01--PA-06,Distanz,0.0736808051868804
+Paderborn,PA-01--PA-07,Distanz,0.0736867655703361
+Paderborn,PA-01--PA-08,Distanz,0.0736896694641604
+Paderborn,PA-01--PA-09,Distanz,0.0735977934166401
+Paderborn,PA-10--PA-11,Distanz,0.0738003050334043
+Paderborn,PA-10--PA-12,Distanz,0.073791289092564
+Paderborn,PA-02--PA-10,Distanz,0.0736207506347627
+Paderborn,PA-03--PA-10,Distanz,0.0736839542624773
+Paderborn,PA-04--PA-10,Distanz,0.0737084897895315
+Paderborn,PA-05--PA-10,Distanz,0.0737499498502382
+Paderborn,PA-06--PA-10,Distanz,0.0737910964457256
+Paderborn,PA-07--PA-10,Distanz,0.0737814459866957
+Paderborn,PA-08--PA-10,Distanz,0.0737647607617168
+Paderborn,PA-09--PA-10,Distanz,0.0737821903106489
+Paderborn,PA-11--PA-12,Distanz,0.0738258661673043
+Paderborn,PA-02--PA-11,Distanz,0.0735805482571015
+Paderborn,PA-03--PA-11,Distanz,0.0736454716450575
+Paderborn,PA-04--PA-11,Distanz,0.073666788201711
+Paderborn,PA-05--PA-11,Distanz,0.0737100120605919
+Paderborn,PA-06--PA-11,Distanz,0.0737481109370144
+Paderborn,PA-07--PA-11,Distanz,0.073743474071563
+Paderborn,PA-08--PA-11,Distanz,0.0737316122492793
+Paderborn,PA-09--PA-11,Distanz,0.0737758706956114
+Paderborn,PA-02--PA-12,Distanz,0.0735689806768682
+Paderborn,PA-03--PA-12,Distanz,0.0736328032222403
+Paderborn,PA-04--PA-12,Distanz,0.0736565842921809
+Paderborn,PA-05--PA-12,Distanz,0.073698299906788
+Paderborn,PA-06--PA-12,Distanz,0.0737403650372703
+Paderborn,PA-07--PA-12,Distanz,0.0737308494871334
+Paderborn,PA-08--PA-12,Distanz,0.0737171807188726
+Paderborn,PA-09--PA-12,Distanz,0.0737858092599487
+Paderborn,PA-02--PA-03,Distanz,0.0737755791142819
+Paderborn,PA-02--PA-04,Distanz,0.0737533085509269
+Paderborn,PA-02--PA-05,Distanz,0.073713599288776
+Paderborn,PA-02--PA-06,Distanz,0.0736679986769515
+Paderborn,PA-02--PA-07,Distanz,0.0736799871184782
+Paderborn,PA-02--PA-08,Distanz,0.0736870037003163
+Paderborn,PA-02--PA-09,Distanz,0.0735820297552717
+Paderborn,PA-03--PA-04,Distanz,0.0738005143068605
+Paderborn,PA-03--PA-05,Distanz,0.0737768299055462
+Paderborn,PA-03--PA-06,Distanz,0.0737266401648223
+Paderborn,PA-03--PA-07,Distanz,0.0737450713319831
+Paderborn,PA-03--PA-08,Distanz,0.0737542966212113
+Paderborn,PA-03--PA-09,Distanz,0.0736387357345835
+Paderborn,PA-04--PA-05,Distanz,0.073797219192656
+Paderborn,PA-04--PA-06,Distanz,0.0737576098066189
+Paderborn,PA-04--PA-07,Distanz,0.073763480257912
+Paderborn,PA-04--PA-08,Distanz,0.0737623262356397
+Paderborn,PA-04--PA-09,Distanz,0.0736717810299083
+Paderborn,PA-05--PA-06,Distanz,0.0737916973669793
+Paderborn,PA-05--PA-07,Distanz,0.0738090656089889
+Paderborn,PA-05--PA-08,Distanz,0.0738066236136764
+Paderborn,PA-05--PA-09,Distanz,0.0737041110918599
+Paderborn,PA-06--PA-07,Distanz,0.0738069876088781
+Paderborn,PA-06--PA-08,Distanz,0.0737846012410298
+Paderborn,PA-06--PA-09,Distanz,0.0737552705726252
+Paderborn,PA-07--PA-08,Distanz,0.0738207683689747
+Paderborn,PA-07--PA-09,Distanz,0.0737286980714038
+Paderborn,PA-08--PA-09,Distanz,0.0737083625476288
+Paderborn,PA-01--PA-10,Wald + Wind,0.1574409106058627
+Paderborn,PA-01--PA-11,Wald + Wind,0.1632551423756582
+Paderborn,PA-01--PA-12,Wald + Wind,0.1844728393337318
+Paderborn,PA-01--PA-02,Wald + Wind,0.1144454767745401
+Paderborn,PA-01--PA-03,Wald + Wind,0.095875734803145
+Paderborn,PA-01--PA-04,Wald + Wind,0.0853985659037638
+Paderborn,PA-01--PA-05,Wald + Wind,0.1330029408592694
+Paderborn,PA-01--PA-06,Wald + Wind,0.1405666721635192
+Paderborn,PA-01--PA-07,Wald + Wind,0.1407123221428398
+Paderborn,PA-01--PA-08,Wald + Wind,0.1309640458483338
+Paderborn,PA-01--PA-09,Wald + Wind,0.1665606167621018
+Paderborn,PA-10--PA-11,Wald + Wind,0.0667741901339592
+Paderborn,PA-10--PA-12,Wald + Wind,0.0895104364752288
+Paderborn,PA-02--PA-10,Wald + Wind,0.1536369480183415
+Paderborn,PA-03--PA-10,Wald + Wind,0.0938780639751351
+Paderborn,PA-04--PA-10,Wald + Wind,0.0944075776891975
+Paderborn,PA-05--PA-10,Wald + Wind,0.0811357711408611
+Paderborn,PA-06--PA-10,Wald + Wind,0.057974794953876
+Paderborn,PA-07--PA-10,Wald + Wind,0.0791942332584213
+Paderborn,PA-08--PA-10,Wald + Wind,0.0635727734213912
+Paderborn,PA-09--PA-10,Wald + Wind,0.0649396614137416
+Paderborn,PA-11--PA-12,Wald + Wind,0.0553496047366214
+Paderborn,PA-02--PA-11,Wald + Wind,0.1348094620094536
+Paderborn,PA-03--PA-11,Wald + Wind,0.1043108787021691
+Paderborn,PA-04--PA-11,Wald + Wind,0.1127898928968853
+Paderborn,PA-05--PA-11,Wald + Wind,0.0669871543824936
+Paderborn,PA-06--PA-11,Wald + Wind,0.0656150180892397
+Paderborn,PA-07--PA-11,Wald + Wind,0.066657496099859
+Paderborn,PA-08--PA-11,Wald + Wind,0.0654414255810179
+Paderborn,PA-09--PA-11,Wald + Wind,0.0726370725809501
+Paderborn,PA-02--PA-12,Wald + Wind,0.1160236165558124
+Paderborn,PA-03--PA-12,Wald + Wind,0.1321612652663182
+Paderborn,PA-04--PA-12,Wald + Wind,0.1360941063773942
+Paderborn,PA-05--PA-12,Wald + Wind,0.0962210744858954
+Paderborn,PA-06--PA-12,Wald + Wind,0.0927078543713758
+Paderborn,PA-07--PA-12,Wald + Wind,0.0902646466310522
+Paderborn,PA-08--PA-12,Wald + Wind,0.0949058072774999
+Paderborn,PA-09--PA-12,Wald + Wind,0.0976728338180403
+Paderborn,PA-02--PA-03,Wald + Wind,0.1393151697971643
+Paderborn,PA-02--PA-04,Wald + Wind,0.1089929041310344
+Paderborn,PA-02--PA-05,Wald + Wind,0.152520082133197
+Paderborn,PA-02--PA-06,Wald + Wind,0.158878438863583
+Paderborn,PA-02--PA-07,Wald + Wind,0.1410407159820846
+Paderborn,PA-02--PA-08,Wald + Wind,0.1616565628405203
+Paderborn,PA-02--PA-09,Wald + Wind,0.1659151967220894
+Paderborn,PA-03--PA-04,Wald + Wind,0.0794943158319483
+Paderborn,PA-03--PA-05,Wald + Wind,0.0727984918414086
+Paderborn,PA-03--PA-06,Wald + Wind,0.0755003845876921
+Paderborn,PA-03--PA-07,Wald + Wind,0.0764624518209519
+Paderborn,PA-03--PA-08,Wald + Wind,0.0672701801708225
+Paderborn,PA-03--PA-09,Wald + Wind,0.0808905058394736
+Paderborn,PA-04--PA-05,Wald + Wind,0.0794763931220023
+Paderborn,PA-04--PA-06,Wald + Wind,0.0825274858758609
+Paderborn,PA-04--PA-07,Wald + Wind,0.0877875228011629
+Paderborn,PA-04--PA-08,Wald + Wind,0.086734688723821
+Paderborn,PA-04--PA-09,Wald + Wind,0.0936726550770097
+Paderborn,PA-05--PA-06,Wald + Wind,0.0553545180455422
+Paderborn,PA-05--PA-07,Wald + Wind,0.0485632486436371
+Paderborn,PA-05--PA-08,Wald + Wind,0.057941640209269
+Paderborn,PA-05--PA-09,Wald + Wind,0.0678653559003975
+Paderborn,PA-06--PA-07,Wald + Wind,0.0576485452425594
+Paderborn,PA-06--PA-08,Wald + Wind,0.0533976806113787
+Paderborn,PA-06--PA-09,Wald + Wind,0.0532165146951834
+Paderborn,PA-07--PA-08,Wald + Wind,0.0571947484224558
+Paderborn,PA-07--PA-09,Wald + Wind,0.0602807879804325
+Paderborn,PA-08--PA-09,Wald + Wind,0.0640307403049772
+Paderborn,PA-01--PA-10,Vollstaendig,0.0870826472821986
+Paderborn,PA-01--PA-11,Vollstaendig,0.0963579651094079
+Paderborn,PA-01--PA-12,Vollstaendig,0.0997837185303209
+Paderborn,PA-01--PA-02,Vollstaendig,0.0964628264009327
+Paderborn,PA-01--PA-03,Vollstaendig,0.0857851937357839
+Paderborn,PA-01--PA-04,Vollstaendig,0.0739616467600405
+Paderborn,PA-01--PA-05,Vollstaendig,0.0885136180252298
+Paderborn,PA-01--PA-06,Vollstaendig,0.0810723993141908
+Paderborn,PA-01--PA-07,Vollstaendig,0.0880603329057717
+Paderborn,PA-01--PA-08,Vollstaendig,0.0891369630715043
+Paderborn,PA-01--PA-09,Vollstaendig,0.0939103548254379
+Paderborn,PA-10--PA-11,Vollstaendig,0.077050980991321
+Paderborn,PA-10--PA-12,Vollstaendig,0.0826064351615541
+Paderborn,PA-02--PA-10,Vollstaendig,0.0919045139903505
+Paderborn,PA-03--PA-10,Vollstaendig,0.0769543715002003
+Paderborn,PA-04--PA-10,Vollstaendig,0.0776405637746019
+Paderborn,PA-05--PA-10,Vollstaendig,0.075034882508611
+Paderborn,PA-06--PA-10,Vollstaendig,0.070858266870595
+Paderborn,PA-07--PA-10,Vollstaendig,0.0737221015387446
+Paderborn,PA-08--PA-10,Vollstaendig,0.0721300259025821
+Paderborn,PA-09--PA-10,Vollstaendig,0.0740200422896287
+Paderborn,PA-11--PA-12,Vollstaendig,0.0650469802140722
+Paderborn,PA-02--PA-11,Vollstaendig,0.0787085735318473
+Paderborn,PA-03--PA-11,Vollstaendig,0.0784835354792396
+Paderborn,PA-04--PA-11,Vollstaendig,0.0881988494139555
+Paderborn,PA-05--PA-11,Vollstaendig,0.0719567661505937
+Paderborn,PA-06--PA-11,Vollstaendig,0.0783816825399015
+Paderborn,PA-07--PA-11,Vollstaendig,0.0732898159929442
+Paderborn,PA-08--PA-11,Vollstaendig,0.0710292920033996
+Paderborn,PA-09--PA-11,Vollstaendig,0.0708412896978229
+Paderborn,PA-02--PA-12,Vollstaendig,0.0764508675544265
+Paderborn,PA-03--PA-12,Vollstaendig,0.083287655829781
+Paderborn,PA-04--PA-12,Vollstaendig,0.0929156998503202
+Paderborn,PA-05--PA-12,Vollstaendig,0.0782345009508449
+Paderborn,PA-06--PA-12,Vollstaendig,0.0847049393671999
+Paderborn,PA-07--PA-12,Vollstaendig,0.0781934887935523
+Paderborn,PA-08--PA-12,Vollstaendig,0.0767700659913686
+Paderborn,PA-09--PA-12,Vollstaendig,0.0759015369693917
+Paderborn,PA-02--PA-03,Vollstaendig,0.0870718453512916
+Paderborn,PA-02--PA-04,Vollstaendig,0.0932696792511245
+Paderborn,PA-02--PA-05,Vollstaendig,0.0884295964463552
+Paderborn,PA-02--PA-06,Vollstaendig,0.0955602672424393
+Paderborn,PA-02--PA-07,Vollstaendig,0.0869907099011611
+Paderborn,PA-02--PA-08,Vollstaendig,0.0872233095575179
+Paderborn,PA-02--PA-09,Vollstaendig,0.0838773017312053
+Paderborn,PA-03--PA-04,Vollstaendig,0.0809016641530587
+Paderborn,PA-03--PA-05,Vollstaendig,0.0726273909488116
+Paderborn,PA-03--PA-06,Vollstaendig,0.078457718192386
+Paderborn,PA-03--PA-07,Vollstaendig,0.0740133245674221
+Paderborn,PA-03--PA-08,Vollstaendig,0.0696447921137479
+Paderborn,PA-03--PA-09,Vollstaendig,0.0720675439001533
+Paderborn,PA-04--PA-05,Vollstaendig,0.0787587718827964
+Paderborn,PA-04--PA-06,Vollstaendig,0.0729068920464076
+Paderborn,PA-04--PA-07,Vollstaendig,0.0788897599929634
+Paderborn,PA-04--PA-08,Vollstaendig,0.0804357480804378
+Paderborn,PA-04--PA-09,Vollstaendig,0.0823469858344107
+Paderborn,PA-05--PA-06,Vollstaendig,0.0716275808131331
+Paderborn,PA-05--PA-07,Vollstaendig,0.0659398792826773
+Paderborn,PA-05--PA-08,Vollstaendig,0.0681817738508297
+Paderborn,PA-05--PA-09,Vollstaendig,0.0703805416303862
+Paderborn,PA-06--PA-07,Vollstaendig,0.0713770945717354
+Paderborn,PA-06--PA-08,Vollstaendig,0.0724419988904504
+Paderborn,PA-06--PA-09,Vollstaendig,0.0733075430159119
+Paderborn,PA-07--PA-08,Vollstaendig,0.0684814056362903
+Paderborn,PA-07--PA-09,Vollstaendig,0.0688822951099253
+Paderborn,PA-08--PA-09,Vollstaendig,0.0681965437064327
+Rheda-Beckum,RB-01--RB-02,Konstant,0.0800182811425265
+Rheda-Beckum,RB-01--RB-03,Konstant,0.0800182811425265
+Rheda-Beckum,RB-01--RB-04,Konstant,0.0800182811425265
+Rheda-Beckum,RB-01--RB-05,Konstant,0.0800182811425265
+Rheda-Beckum,RB-02--RB-03,Konstant,0.0800182811425265
+Rheda-Beckum,RB-02--RB-04,Konstant,0.0800182811425265
+Rheda-Beckum,RB-02--RB-05,Konstant,0.0800182811425265
+Rheda-Beckum,RB-03--RB-04,Konstant,0.0800182811425265
+Rheda-Beckum,RB-03--RB-05,Konstant,0.0800182811425265
+Rheda-Beckum,RB-04--RB-05,Konstant,0.0800182811425265
+Rheda-Beckum,RB-01--RB-02,Distanz,0.0800515180589817
+Rheda-Beckum,RB-01--RB-03,Distanz,0.0800474741575446
+Rheda-Beckum,RB-01--RB-04,Distanz,0.0799996456111497
+Rheda-Beckum,RB-01--RB-05,Distanz,0.0799937538913115
+Rheda-Beckum,RB-02--RB-03,Distanz,0.0800482513050788
+Rheda-Beckum,RB-02--RB-04,Distanz,0.0799999776541798
+Rheda-Beckum,RB-02--RB-05,Distanz,0.0799941447778773
+Rheda-Beckum,RB-03--RB-04,Distanz,0.0800072910614002
+Rheda-Beckum,RB-03--RB-05,Distanz,0.080001438689155
+Rheda-Beckum,RB-04--RB-05,Distanz,0.0800497043253944
+Rheda-Beckum,RB-01--RB-02,Wald + Wind,0.042476337334772
+Rheda-Beckum,RB-01--RB-03,Wald + Wind,0.0463686149075874
+Rheda-Beckum,RB-01--RB-04,Wald + Wind,0.064751207778006
+Rheda-Beckum,RB-01--RB-05,Wald + Wind,0.0613751732247506
+Rheda-Beckum,RB-02--RB-03,Wald + Wind,0.0430338094500839
+Rheda-Beckum,RB-02--RB-04,Wald + Wind,0.0653063343125145
+Rheda-Beckum,RB-02--RB-05,Wald + Wind,0.0618382430253827
+Rheda-Beckum,RB-03--RB-04,Wald + Wind,0.0643162826171316
+Rheda-Beckum,RB-03--RB-05,Wald + Wind,0.0604035520019311
+Rheda-Beckum,RB-04--RB-05,Wald + Wind,0.0441576635822531
+Rheda-Beckum,RB-01--RB-02,Vollstaendig,0.0387393273704604
+Rheda-Beckum,RB-01--RB-03,Vollstaendig,0.0439183510544654
+Rheda-Beckum,RB-01--RB-04,Vollstaendig,0.0557388818001638
+Rheda-Beckum,RB-01--RB-05,Vollstaendig,0.0520667750344546
+Rheda-Beckum,RB-02--RB-03,Vollstaendig,0.0408823007403762
+Rheda-Beckum,RB-02--RB-04,Vollstaendig,0.0546769231588474
+Rheda-Beckum,RB-02--RB-05,Vollstaendig,0.0511184179700385
+Rheda-Beckum,RB-03--RB-04,Vollstaendig,0.0521560027289493
+Rheda-Beckum,RB-03--RB-05,Vollstaendig,0.0484483347356771
+Rheda-Beckum,RB-04--RB-05,Vollstaendig,0.0402869225469683

@@ -1,0 +1,457 @@
+﻿modell,teststandort,alpha,mae_direkte_fehlerprognose
+Distanz + RIX,Alpen-Sevelen,10.0,0.0392241667156165
+Distanz + RIX,Altenmellrich,1.0,0.0572820839578046
+Distanz + RIX,Bad Berleburg,1.0,0.0806538879988677
+Distanz + RIX,Borken-Coesfeld,10.0,0.0496258983860194
+Distanz + RIX,Lorup,1.0,0.0538985281569998
+Distanz + RIX,Ostfriesland,1.0,0.0487636215698171
+Distanz + RIX,Paderborn,10.0,0.0518049764539727
+Distanz + RIX,Rheda-Beckum,1.0,0.0257229524575016
+Distanz + Gelaendehoehe,Alpen-Sevelen,1.0,0.0291950331509046
+Distanz + Gelaendehoehe,Altenmellrich,1.0,0.0537155025429609
+Distanz + Gelaendehoehe,Bad Berleburg,1.0,0.0494948612221523
+Distanz + Gelaendehoehe,Borken-Coesfeld,1.0,0.0449243993996768
+Distanz + Gelaendehoehe,Lorup,1.0,0.0594987597206266
+Distanz + Gelaendehoehe,Ostfriesland,1.0,0.0483212736801137
+Distanz + Gelaendehoehe,Paderborn,1.0,0.0557668989173594
+Distanz + Gelaendehoehe,Rheda-Beckum,1.0,0.029241378853388
+Distanz + Rauigkeit,Alpen-Sevelen,100.0,0.0425383041404244
+Distanz + Rauigkeit,Altenmellrich,100.0,0.0536787837416704
+Distanz + Rauigkeit,Bad Berleburg,100.0,0.0436348376191963
+Distanz + Rauigkeit,Borken-Coesfeld,100.0,0.0528266374091592
+Distanz + Rauigkeit,Lorup,1.0,0.0795606157964095
+Distanz + Rauigkeit,Ostfriesland,10.0,0.0579413190055043
+Distanz + Rauigkeit,Paderborn,100.0,0.0516972363178704
+Distanz + Rauigkeit,Rheda-Beckum,100.0,0.0319067170774885
+Distanz + Wald,Alpen-Sevelen,1.0,0.0354854187687793
+Distanz + Wald,Altenmellrich,10.0,0.0531222719339585
+Distanz + Wald,Bad Berleburg,1.0,0.0451071065989586
+Distanz + Wald,Borken-Coesfeld,1.0,0.0435245843701413
+Distanz + Wald,Lorup,1.0,0.0808660820565271
+Distanz + Wald,Ostfriesland,1.0,0.045371917508349
+Distanz + Wald,Paderborn,1.0,0.0509715324120524
+Distanz + Wald,Rheda-Beckum,1.0,0.0256924013700419
+Distanz + Wind,Alpen-Sevelen,1.0,0.0225516795738422
+Distanz + Wind,Altenmellrich,1.0,0.0566549088648639
+Distanz + Wind,Bad Berleburg,1.0,0.0502758628389418
+Distanz + Wind,Borken-Coesfeld,1.0,0.0305714527146607
+Distanz + Wind,Lorup,1.0,0.0449562075465687
+Distanz + Wind,Ostfriesland,1.0,0.0396945009454659
+Distanz + Wind,Paderborn,1.0,0.0494659282501548
+Distanz + Wind,Rheda-Beckum,1.0,0.0229059315397045
+RIX + Gelaendehoehe,Alpen-Sevelen,1.0,0.0226742483172624
+RIX + Gelaendehoehe,Altenmellrich,1.0,0.0519593810298619
+RIX + Gelaendehoehe,Bad Berleburg,1.0,0.0754564435460217
+RIX + Gelaendehoehe,Borken-Coesfeld,1.0,0.0315896612652869
+RIX + Gelaendehoehe,Lorup,1.0,0.0463048991514596
+RIX + Gelaendehoehe,Ostfriesland,1.0,0.0300583672308756
+RIX + Gelaendehoehe,Paderborn,1.0,0.0541705740742975
+RIX + Gelaendehoehe,Rheda-Beckum,1.0,0.0254814524940314
+RIX + Rauigkeit,Alpen-Sevelen,1.0,0.0253740811671963
+RIX + Rauigkeit,Altenmellrich,1.0,0.05378772352058
+RIX + Rauigkeit,Bad Berleburg,0.1,0.4281334572784662
+RIX + Rauigkeit,Borken-Coesfeld,1.0,0.0371131255478316
+RIX + Rauigkeit,Lorup,1.0,0.0589842457844705
+RIX + Rauigkeit,Ostfriesland,1.0,0.0383190182461181
+RIX + Rauigkeit,Paderborn,10.0,0.0514634057355835
+RIX + Rauigkeit,Rheda-Beckum,1.0,0.0240360183543032
+RIX + Wald,Alpen-Sevelen,1.0,0.0240993683530166
+RIX + Wald,Altenmellrich,1.0,0.0514013459424535
+RIX + Wald,Bad Berleburg,1.0,0.0684415710867181
+RIX + Wald,Borken-Coesfeld,1.0,0.0306778420329673
+RIX + Wald,Lorup,1.0,0.0620383609042811
+RIX + Wald,Ostfriesland,1.0,0.0284435185942928
+RIX + Wald,Paderborn,10.0,0.0511585976681521
+RIX + Wald,Rheda-Beckum,1.0,0.0229255631865091
+RIX + Wind,Alpen-Sevelen,1.0,0.0197836005693261
+RIX + Wind,Altenmellrich,1.0,0.0542377705913081
+RIX + Wind,Bad Berleburg,1.0,0.0861423617189046
+RIX + Wind,Borken-Coesfeld,1.0,0.0254495352444545
+RIX + Wind,Lorup,1.0,0.0382017730284105
+RIX + Wind,Ostfriesland,1.0,0.0284639537094597
+RIX + Wind,Paderborn,10.0,0.050505814391979
+RIX + Wind,Rheda-Beckum,1.0,0.020916160407383
+Gelaendehoehe + Rauigkeit,Alpen-Sevelen,1.0,0.0272307815953804
+Gelaendehoehe + Rauigkeit,Altenmellrich,1.0,0.0527739785691481
+Gelaendehoehe + Rauigkeit,Bad Berleburg,0.1,0.0641181840989929
+Gelaendehoehe + Rauigkeit,Borken-Coesfeld,1.0,0.0457485066886731
+Gelaendehoehe + Rauigkeit,Lorup,1.0,0.0634013081944747
+Gelaendehoehe + Rauigkeit,Ostfriesland,1.0,0.0403742975392681
+Gelaendehoehe + Rauigkeit,Paderborn,1.0,0.055839259147354
+Gelaendehoehe + Rauigkeit,Rheda-Beckum,1.0,0.0266244161248034
+Gelaendehoehe + Wald,Alpen-Sevelen,1.0,0.0276823340698704
+Gelaendehoehe + Wald,Altenmellrich,1.0,0.0479476059846267
+Gelaendehoehe + Wald,Bad Berleburg,1.0,0.0485771364258222
+Gelaendehoehe + Wald,Borken-Coesfeld,1.0,0.0402310804809726
+Gelaendehoehe + Wald,Lorup,1.0,0.0675999630189713
+Gelaendehoehe + Wald,Ostfriesland,1.0,0.032985991013183
+Gelaendehoehe + Wald,Paderborn,1.0,0.0554734856037818
+Gelaendehoehe + Wald,Rheda-Beckum,1.0,0.0251400714900872
+Gelaendehoehe + Wind,Alpen-Sevelen,1.0,0.0203938050125095
+Gelaendehoehe + Wind,Altenmellrich,1.0,0.0543090947389325
+Gelaendehoehe + Wind,Bad Berleburg,1.0,0.0559889404327383
+Gelaendehoehe + Wind,Borken-Coesfeld,1.0,0.0308889631537963
+Gelaendehoehe + Wind,Lorup,1.0,0.0415330970504862
+Gelaendehoehe + Wind,Ostfriesland,1.0,0.030568599794295
+Gelaendehoehe + Wind,Paderborn,1.0,0.0543149206282616
+Gelaendehoehe + Wind,Rheda-Beckum,1.0,0.0224788757546508
+Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0325538009709796
+Rauigkeit + Wald,Altenmellrich,1.0,0.0518892721537754
+Rauigkeit + Wald,Bad Berleburg,0.1,0.0463530789361401
+Rauigkeit + Wald,Borken-Coesfeld,1.0,0.045241752389716
+Rauigkeit + Wald,Lorup,1.0,0.0825241142129102
+Rauigkeit + Wald,Ostfriesland,1.0,0.0387671055470416
+Rauigkeit + Wald,Paderborn,1.0,0.049907170948936
+Rauigkeit + Wald,Rheda-Beckum,1.0,0.0233242034961238
+Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0215658611791952
+Rauigkeit + Wind,Altenmellrich,1.0,0.0556476414804846
+Rauigkeit + Wind,Bad Berleburg,0.1,0.1307771747398899
+Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0324391745176669
+Rauigkeit + Wind,Lorup,1.0,0.0479239306378213
+Rauigkeit + Wind,Ostfriesland,1.0,0.0347489883868392
+Rauigkeit + Wind,Paderborn,1.0,0.0498195548440611
+Rauigkeit + Wind,Rheda-Beckum,1.0,0.0211994577444256
+Wald + Wind,Alpen-Sevelen,1.0,0.0205278318520889
+Wald + Wind,Altenmellrich,1.0,0.0519428059113134
+Wald + Wind,Bad Berleburg,1.0,0.0466005672604867
+Wald + Wind,Borken-Coesfeld,1.0,0.0280585993516361
+Wald + Wind,Lorup,1.0,0.0518340234209268
+Wald + Wind,Ostfriesland,1.0,0.0272037782318453
+Wald + Wind,Paderborn,1.0,0.0514863664881365
+Wald + Wind,Rheda-Beckum,1.0,0.0196867968518084
+Distanz + RIX + Gelaendehoehe,Alpen-Sevelen,1.0,0.0223027393431286
+Distanz + RIX + Gelaendehoehe,Altenmellrich,1.0,0.0558073153880418
+Distanz + RIX + Gelaendehoehe,Bad Berleburg,1.0,0.0739600294491928
+Distanz + RIX + Gelaendehoehe,Borken-Coesfeld,1.0,0.032184343639459
+Distanz + RIX + Gelaendehoehe,Lorup,1.0,0.0469202264481795
+Distanz + RIX + Gelaendehoehe,Ostfriesland,1.0,0.0374042693360104
+Distanz + RIX + Gelaendehoehe,Paderborn,10.0,0.0517703552002473
+Distanz + RIX + Gelaendehoehe,Rheda-Beckum,1.0,0.0254831941507089
+Distanz + RIX + Rauigkeit,Alpen-Sevelen,10.0,0.0380850318395645
+Distanz + RIX + Rauigkeit,Altenmellrich,1.0,0.0571848251676529
+Distanz + RIX + Rauigkeit,Bad Berleburg,1.0,0.079842247413439
+Distanz + RIX + Rauigkeit,Borken-Coesfeld,10.0,0.0496220966180614
+Distanz + RIX + Rauigkeit,Lorup,1.0,0.0610585993549541
+Distanz + RIX + Rauigkeit,Ostfriesland,1.0,0.0464013167848987
+Distanz + RIX + Rauigkeit,Paderborn,10.0,0.0517003422384848
+Distanz + RIX + Rauigkeit,Rheda-Beckum,1.0,0.02457656474379
+Distanz + RIX + Wald,Alpen-Sevelen,1.0,0.0239944906964374
+Distanz + RIX + Wald,Altenmellrich,1.0,0.0534228738318206
+Distanz + RIX + Wald,Bad Berleburg,1.0,0.0671744425726526
+Distanz + RIX + Wald,Borken-Coesfeld,1.0,0.0311537267357839
+Distanz + RIX + Wald,Lorup,1.0,0.063381223233834
+Distanz + RIX + Wald,Ostfriesland,1.0,0.0357027790053409
+Distanz + RIX + Wald,Paderborn,10.0,0.0513899773852224
+Distanz + RIX + Wald,Rheda-Beckum,1.0,0.0230981217904135
+Distanz + RIX + Wind,Alpen-Sevelen,1.0,0.0199291031947748
+Distanz + RIX + Wind,Altenmellrich,1.0,0.0567861083270365
+Distanz + RIX + Wind,Bad Berleburg,1.0,0.0858206168749498
+Distanz + RIX + Wind,Borken-Coesfeld,1.0,0.025583208814006
+Distanz + RIX + Wind,Lorup,1.0,0.0393931693742422
+Distanz + RIX + Wind,Ostfriesland,1.0,0.0343695698330122
+Distanz + RIX + Wind,Paderborn,10.0,0.050733064465305
+Distanz + RIX + Wind,Rheda-Beckum,1.0,0.0214069561531691
+Distanz + Gelaendehoehe + Rauigkeit,Alpen-Sevelen,1.0,0.0275282079964432
+Distanz + Gelaendehoehe + Rauigkeit,Altenmellrich,1.0,0.0540789626298924
+Distanz + Gelaendehoehe + Rauigkeit,Bad Berleburg,1.0,0.0488091950409844
+Distanz + Gelaendehoehe + Rauigkeit,Borken-Coesfeld,1.0,0.0457463108644001
+Distanz + Gelaendehoehe + Rauigkeit,Lorup,1.0,0.0662625069811881
+Distanz + Gelaendehoehe + Rauigkeit,Ostfriesland,1.0,0.0463364415859578
+Distanz + Gelaendehoehe + Rauigkeit,Paderborn,1.0,0.0560510194888383
+Distanz + Gelaendehoehe + Rauigkeit,Rheda-Beckum,1.0,0.027688163978284
+Distanz + Gelaendehoehe + Wald,Alpen-Sevelen,1.0,0.0280665013569536
+Distanz + Gelaendehoehe + Wald,Altenmellrich,1.0,0.0487580878271612
+Distanz + Gelaendehoehe + Wald,Bad Berleburg,1.0,0.0485218545107908
+Distanz + Gelaendehoehe + Wald,Borken-Coesfeld,1.0,0.0402997184083476
+Distanz + Gelaendehoehe + Wald,Lorup,1.0,0.0699238337593792
+Distanz + Gelaendehoehe + Wald,Ostfriesland,1.0,0.0387200364757202
+Distanz + Gelaendehoehe + Wald,Paderborn,1.0,0.0554931534736777
+Distanz + Gelaendehoehe + Wald,Rheda-Beckum,1.0,0.0261377100402298
+Distanz + Gelaendehoehe + Wind,Alpen-Sevelen,1.0,0.0209163612264676
+Distanz + Gelaendehoehe + Wind,Altenmellrich,1.0,0.0554108398136868
+Distanz + Gelaendehoehe + Wind,Bad Berleburg,1.0,0.0562478569831235
+Distanz + Gelaendehoehe + Wind,Borken-Coesfeld,1.0,0.0305861364184775
+Distanz + Gelaendehoehe + Wind,Lorup,1.0,0.0431334192440129
+Distanz + Gelaendehoehe + Wind,Ostfriesland,1.0,0.0350093153038624
+Distanz + Gelaendehoehe + Wind,Paderborn,1.0,0.0540171181106021
+Distanz + Gelaendehoehe + Wind,Rheda-Beckum,1.0,0.0235311817830238
+Distanz + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0328997132245208
+Distanz + Rauigkeit + Wald,Altenmellrich,10.0,0.0533358826669905
+Distanz + Rauigkeit + Wald,Bad Berleburg,1.0,0.0443674272701159
+Distanz + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.044853293216515
+Distanz + Rauigkeit + Wald,Lorup,1.0,0.0861335718321607
+Distanz + Rauigkeit + Wald,Ostfriesland,1.0,0.0439679510901457
+Distanz + Rauigkeit + Wald,Paderborn,1.0,0.0512270730605974
+Distanz + Rauigkeit + Wald,Rheda-Beckum,1.0,0.0246563509130128
+Distanz + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0220320772307008
+Distanz + Rauigkeit + Wind,Altenmellrich,1.0,0.0566334315894042
+Distanz + Rauigkeit + Wind,Bad Berleburg,0.1,0.1387395697658492
+Distanz + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0317307884903587
+Distanz + Rauigkeit + Wind,Lorup,1.0,0.0504035684524677
+Distanz + Rauigkeit + Wind,Ostfriesland,1.0,0.0388847098114134
+Distanz + Rauigkeit + Wind,Paderborn,1.0,0.0495375984357723
+Distanz + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0224492369492864
+Distanz + Wald + Wind,Alpen-Sevelen,1.0,0.020850976775527
+Distanz + Wald + Wind,Altenmellrich,1.0,0.0530486096980007
+Distanz + Wald + Wind,Bad Berleburg,1.0,0.0470797953431335
+Distanz + Wald + Wind,Borken-Coesfeld,1.0,0.0276712948913818
+Distanz + Wald + Wind,Lorup,1.0,0.0536966695355014
+Distanz + Wald + Wind,Ostfriesland,1.0,0.0310189781096974
+Distanz + Wald + Wind,Paderborn,1.0,0.0512449000268649
+Distanz + Wald + Wind,Rheda-Beckum,1.0,0.0207536891712014
+RIX + Gelaendehoehe + Rauigkeit,Alpen-Sevelen,1.0,0.0225420191160487
+RIX + Gelaendehoehe + Rauigkeit,Altenmellrich,1.0,0.0522298311133895
+RIX + Gelaendehoehe + Rauigkeit,Bad Berleburg,0.1,0.2945361583291482
+RIX + Gelaendehoehe + Rauigkeit,Borken-Coesfeld,1.0,0.0325130028509916
+RIX + Gelaendehoehe + Rauigkeit,Lorup,1.0,0.0506309213518815
+RIX + Gelaendehoehe + Rauigkeit,Ostfriesland,1.0,0.0300483725584032
+RIX + Gelaendehoehe + Rauigkeit,Paderborn,10.0,0.051357095724218
+RIX + Gelaendehoehe + Rauigkeit,Rheda-Beckum,1.0,0.0250180724290077
+RIX + Gelaendehoehe + Wald,Alpen-Sevelen,1.0,0.0218820004023904
+RIX + Gelaendehoehe + Wald,Altenmellrich,1.0,0.0496486713264036
+RIX + Gelaendehoehe + Wald,Bad Berleburg,1.0,0.0690315360459268
+RIX + Gelaendehoehe + Wald,Borken-Coesfeld,1.0,0.0296448866952811
+RIX + Gelaendehoehe + Wald,Lorup,1.0,0.0554478159228779
+RIX + Gelaendehoehe + Wald,Ostfriesland,1.0,0.0249566225006794
+RIX + Gelaendehoehe + Wald,Paderborn,1.0,0.0548053343270847
+RIX + Gelaendehoehe + Wald,Rheda-Beckum,1.0,0.0241509322412069
+RIX + Gelaendehoehe + Wind,Alpen-Sevelen,1.0,0.0195730831180627
+RIX + Gelaendehoehe + Wind,Altenmellrich,1.0,0.0534229521864144
+RIX + Gelaendehoehe + Wind,Bad Berleburg,1.0,0.0822368266601066
+RIX + Gelaendehoehe + Wind,Borken-Coesfeld,1.0,0.0257516000385606
+RIX + Gelaendehoehe + Wind,Lorup,1.0,0.0372073584556401
+RIX + Gelaendehoehe + Wind,Ostfriesland,1.0,0.0252419013120564
+RIX + Gelaendehoehe + Wind,Paderborn,10.0,0.050530123658469
+RIX + Gelaendehoehe + Wind,Rheda-Beckum,1.0,0.0217536044154283
+RIX + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0236356885283697
+RIX + Rauigkeit + Wald,Altenmellrich,1.0,0.0517622885278677
+RIX + Rauigkeit + Wald,Bad Berleburg,1.0,0.0701654344627452
+RIX + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.0320816662235919
+RIX + Rauigkeit + Wald,Lorup,1.0,0.0656540131971272
+RIX + Rauigkeit + Wald,Ostfriesland,1.0,0.0288415803425826
+RIX + Rauigkeit + Wald,Paderborn,10.0,0.0510576862610582
+RIX + Rauigkeit + Wald,Rheda-Beckum,1.0,0.0226112012752628
+RIX + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0197625710378098
+RIX + Rauigkeit + Wind,Altenmellrich,1.0,0.0542586726150526
+RIX + Rauigkeit + Wind,Bad Berleburg,0.1,0.3284585357966545
+RIX + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0260646540367832
+RIX + Rauigkeit + Wind,Lorup,1.0,0.041840096687875
+RIX + Rauigkeit + Wind,Ostfriesland,1.0,0.0284559379219598
+RIX + Rauigkeit + Wind,Paderborn,10.0,0.0503743328954272
+RIX + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0206717125487596
+RIX + Wald + Wind,Alpen-Sevelen,1.0,0.0198792796298351
+RIX + Wald + Wind,Altenmellrich,1.0,0.0515216333299401
+RIX + Wald + Wind,Bad Berleburg,1.0,0.0777315192955068
+RIX + Wald + Wind,Borken-Coesfeld,1.0,0.0239511006895638
+RIX + Wald + Wind,Lorup,1.0,0.0466231076162376
+RIX + Wald + Wind,Ostfriesland,1.0,0.024149976299188
+RIX + Wald + Wind,Paderborn,10.0,0.0500404505558414
+RIX + Wald + Wind,Rheda-Beckum,1.0,0.0197473654621496
+Gelaendehoehe + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0269027021999357
+Gelaendehoehe + Rauigkeit + Wald,Altenmellrich,1.0,0.0489669540337978
+Gelaendehoehe + Rauigkeit + Wald,Bad Berleburg,1.0,0.0485316595964505
+Gelaendehoehe + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.0413604855404748
+Gelaendehoehe + Rauigkeit + Wald,Lorup,1.0,0.0715812602879182
+Gelaendehoehe + Rauigkeit + Wald,Ostfriesland,1.0,0.0331206256541461
+Gelaendehoehe + Rauigkeit + Wald,Paderborn,1.0,0.0559088959848346
+Gelaendehoehe + Rauigkeit + Wald,Rheda-Beckum,1.0,0.0243955521673191
+Gelaendehoehe + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0203547337826715
+Gelaendehoehe + Rauigkeit + Wind,Altenmellrich,1.0,0.0544670789950631
+Gelaendehoehe + Rauigkeit + Wind,Bad Berleburg,0.1,0.1346419815215979
+Gelaendehoehe + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0314836543264305
+Gelaendehoehe + Rauigkeit + Wind,Lorup,1.0,0.0451718270931672
+Gelaendehoehe + Rauigkeit + Wind,Ostfriesland,1.0,0.0305306806544536
+Gelaendehoehe + Rauigkeit + Wind,Paderborn,1.0,0.0539399053114635
+Gelaendehoehe + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0222177308833584
+Gelaendehoehe + Wald + Wind,Alpen-Sevelen,1.0,0.0198779406537871
+Gelaendehoehe + Wald + Wind,Altenmellrich,1.0,0.0511932497497168
+Gelaendehoehe + Wald + Wind,Bad Berleburg,1.0,0.0525007128529132
+Gelaendehoehe + Wald + Wind,Borken-Coesfeld,1.0,0.02882038760281
+Gelaendehoehe + Wald + Wind,Lorup,1.0,0.0497778434299961
+Gelaendehoehe + Wald + Wind,Ostfriesland,1.0,0.0258593129235979
+Gelaendehoehe + Wald + Wind,Paderborn,1.0,0.0553356552019898
+Gelaendehoehe + Wald + Wind,Rheda-Beckum,1.0,0.0208305919324064
+Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.0206206409558337
+Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.0520434459009876
+Rauigkeit + Wald + Wind,Bad Berleburg,0.1,0.1125282429103459
+Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.0286426422291991
+Rauigkeit + Wald + Wind,Lorup,1.0,0.0545154296696162
+Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0275469442049021
+Rauigkeit + Wald + Wind,Paderborn,1.0,0.0510502203126875
+Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0195895100785975
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Alpen-Sevelen,1.0,0.0222401010310369
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Altenmellrich,1.0,0.0558303712442992
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Bad Berleburg,1.0,0.0785924797137698
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Borken-Coesfeld,1.0,0.0329730811882241
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Lorup,1.0,0.0520504988851778
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Ostfriesland,1.0,0.0371652478619276
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Paderborn,10.0,0.051587171481897
+Distanz + RIX + Gelaendehoehe + Rauigkeit,Rheda-Beckum,1.0,0.0252189531124184
+Distanz + RIX + Gelaendehoehe + Wald,Alpen-Sevelen,1.0,0.0216299816829388
+Distanz + RIX + Gelaendehoehe + Wald,Altenmellrich,1.0,0.0525406299106165
+Distanz + RIX + Gelaendehoehe + Wald,Bad Berleburg,1.0,0.0678211396912511
+Distanz + RIX + Gelaendehoehe + Wald,Borken-Coesfeld,1.0,0.0300749929340256
+Distanz + RIX + Gelaendehoehe + Wald,Lorup,1.0,0.0564600001536791
+Distanz + RIX + Gelaendehoehe + Wald,Ostfriesland,1.0,0.031720207693085
+Distanz + RIX + Gelaendehoehe + Wald,Paderborn,10.0,0.0512560256677085
+Distanz + RIX + Gelaendehoehe + Wald,Rheda-Beckum,1.0,0.0242008026129726
+Distanz + RIX + Gelaendehoehe + Wind,Alpen-Sevelen,1.0,0.0196438405444584
+Distanz + RIX + Gelaendehoehe + Wind,Altenmellrich,1.0,0.0559929591610671
+Distanz + RIX + Gelaendehoehe + Wind,Bad Berleburg,1.0,0.0816966505242014
+Distanz + RIX + Gelaendehoehe + Wind,Borken-Coesfeld,1.0,0.0259955056517506
+Distanz + RIX + Gelaendehoehe + Wind,Lorup,1.0,0.0382188611436539
+Distanz + RIX + Gelaendehoehe + Wind,Ostfriesland,1.0,0.0307598919811901
+Distanz + RIX + Gelaendehoehe + Wind,Paderborn,10.0,0.0507378750576573
+Distanz + RIX + Gelaendehoehe + Wind,Rheda-Beckum,1.0,0.0221582361831069
+Distanz + RIX + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0235927579719854
+Distanz + RIX + Rauigkeit + Wald,Altenmellrich,1.0,0.0535240548957372
+Distanz + RIX + Rauigkeit + Wald,Bad Berleburg,1.0,0.0692452046216447
+Distanz + RIX + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.0324400892470942
+Distanz + RIX + Rauigkeit + Wald,Lorup,1.0,0.0677511295979167
+Distanz + RIX + Rauigkeit + Wald,Ostfriesland,1.0,0.0356177039577657
+Distanz + RIX + Rauigkeit + Wald,Paderborn,10.0,0.0512926041977511
+Distanz + RIX + Rauigkeit + Wald,Rheda-Beckum,1.0,0.0230109102078057
+Distanz + RIX + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0199121058785497
+Distanz + RIX + Rauigkeit + Wind,Altenmellrich,1.0,0.0567912392299893
+Distanz + RIX + Rauigkeit + Wind,Bad Berleburg,1.0,0.0936192868342197
+Distanz + RIX + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0261544340404791
+Distanz + RIX + Rauigkeit + Wind,Lorup,1.0,0.0436820806277118
+Distanz + RIX + Rauigkeit + Wind,Ostfriesland,1.0,0.034222442093846
+Distanz + RIX + Rauigkeit + Wind,Paderborn,10.0,0.0506097321408427
+Distanz + RIX + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0212069113949258
+Distanz + RIX + Wald + Wind,Alpen-Sevelen,1.0,0.0199641984634726
+Distanz + RIX + Wald + Wind,Altenmellrich,1.0,0.0541350009513877
+Distanz + RIX + Wald + Wind,Bad Berleburg,1.0,0.0773077600271867
+Distanz + RIX + Wald + Wind,Borken-Coesfeld,1.0,0.0240918394287726
+Distanz + RIX + Wald + Wind,Lorup,1.0,0.0479011410638028
+Distanz + RIX + Wald + Wind,Ostfriesland,1.0,0.0283544319246805
+Distanz + RIX + Wald + Wind,Paderborn,10.0,0.0502697169140792
+Distanz + RIX + Wald + Wind,Rheda-Beckum,1.0,0.020116703543217
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0272132015755614
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Altenmellrich,1.0,0.0495822108878259
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Bad Berleburg,1.0,0.0485178969368836
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.0412906378803444
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Lorup,1.0,0.0746464975510947
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Ostfriesland,1.0,0.03831845312901
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Paderborn,1.0,0.0559233858621774
+Distanz + Gelaendehoehe + Rauigkeit + Wald,Rheda-Beckum,1.0,0.0254289049214997
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0208486978844335
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Altenmellrich,1.0,0.0554835739348143
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Bad Berleburg,1.0,0.0579021842332636
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0311473598090219
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Lorup,1.0,0.0474237028090221
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Ostfriesland,1.0,0.0347866070317244
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Paderborn,1.0,0.0536567496236632
+Distanz + Gelaendehoehe + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0232348886024308
+Distanz + Gelaendehoehe + Wald + Wind,Alpen-Sevelen,1.0,0.0202262484547905
+Distanz + Gelaendehoehe + Wald + Wind,Altenmellrich,1.0,0.052307357929102
+Distanz + Gelaendehoehe + Wald + Wind,Bad Berleburg,1.0,0.0526983114938004
+Distanz + Gelaendehoehe + Wald + Wind,Borken-Coesfeld,1.0,0.0285674696743163
+Distanz + Gelaendehoehe + Wald + Wind,Lorup,1.0,0.0515296833553029
+Distanz + Gelaendehoehe + Wald + Wind,Ostfriesland,1.0,0.0293905224029093
+Distanz + Gelaendehoehe + Wald + Wind,Paderborn,1.0,0.0550497194861338
+Distanz + Gelaendehoehe + Wald + Wind,Rheda-Beckum,1.0,0.0217809718341299
+Distanz + Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.0208963013324442
+Distanz + Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.0530983749566001
+Distanz + Rauigkeit + Wald + Wind,Bad Berleburg,1.0,0.0480122136769923
+Distanz + Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.028244249484071
+Distanz + Rauigkeit + Wald + Wind,Lorup,1.0,0.0568876790738081
+Distanz + Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0310389356215047
+Distanz + Rauigkeit + Wald + Wind,Paderborn,1.0,0.0508212808774665
+Distanz + Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0206546737694142
+RIX + Gelaendehoehe + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0219525428243133
+RIX + Gelaendehoehe + Rauigkeit + Wald,Altenmellrich,1.0,0.049772510567822
+RIX + Gelaendehoehe + Rauigkeit + Wald,Bad Berleburg,0.1,0.2706398902327727
+RIX + Gelaendehoehe + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.0300435348181553
+RIX + Gelaendehoehe + Rauigkeit + Wald,Lorup,1.0,0.0581635975925801
+RIX + Gelaendehoehe + Rauigkeit + Wald,Ostfriesland,1.0,0.0252320018153086
+RIX + Gelaendehoehe + Rauigkeit + Wald,Paderborn,10.0,0.0509214110786051
+RIX + Gelaendehoehe + Rauigkeit + Wald,Rheda-Beckum,1.0,0.0239834544676293
+RIX + Gelaendehoehe + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.019628121229779
+RIX + Gelaendehoehe + Rauigkeit + Wind,Altenmellrich,1.0,0.0533956261847949
+RIX + Gelaendehoehe + Rauigkeit + Wind,Bad Berleburg,0.1,0.3109578562395184
+RIX + Gelaendehoehe + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.0256213981357557
+RIX + Gelaendehoehe + Rauigkeit + Wind,Lorup,1.0,0.039721804262529
+RIX + Gelaendehoehe + Rauigkeit + Wind,Ostfriesland,1.0,0.0252974383510202
+RIX + Gelaendehoehe + Rauigkeit + Wind,Paderborn,10.0,0.0503874294742234
+RIX + Gelaendehoehe + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0217386798647793
+RIX + Gelaendehoehe + Wald + Wind,Alpen-Sevelen,1.0,0.0197762891509515
+RIX + Gelaendehoehe + Wald + Wind,Altenmellrich,1.0,0.0510971238547867
+RIX + Gelaendehoehe + Wald + Wind,Bad Berleburg,1.0,0.0768901209498445
+RIX + Gelaendehoehe + Wald + Wind,Borken-Coesfeld,1.0,0.024615526499255
+RIX + Gelaendehoehe + Wald + Wind,Lorup,1.0,0.0450125860933798
+RIX + Gelaendehoehe + Wald + Wind,Ostfriesland,1.0,0.0231322334994048
+RIX + Gelaendehoehe + Wald + Wind,Paderborn,10.0,0.0500132554782826
+RIX + Gelaendehoehe + Wald + Wind,Rheda-Beckum,1.0,0.02102104042733
+RIX + Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.0199427986448675
+RIX + Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.0513690398883284
+RIX + Rauigkeit + Wald + Wind,Bad Berleburg,1.0,0.0853019097637429
+RIX + Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.0238171470045042
+RIX + Rauigkeit + Wald + Wind,Lorup,1.0,0.0484108386150943
+RIX + Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0242474829775099
+RIX + Rauigkeit + Wald + Wind,Paderborn,10.0,0.0499472076376339
+RIX + Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0197698205560937
+Gelaendehoehe + Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.020006479691734
+Gelaendehoehe + Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.0512275592096059
+Gelaendehoehe + Rauigkeit + Wald + Wind,Bad Berleburg,0.1,0.1188842111372061
+Gelaendehoehe + Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.0289225722511142
+Gelaendehoehe + Rauigkeit + Wald + Wind,Lorup,1.0,0.0519280573015422
+Gelaendehoehe + Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0260500703967899
+Gelaendehoehe + Rauigkeit + Wald + Wind,Paderborn,1.0,0.0546225854166942
+Gelaendehoehe + Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0208076045542845
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Alpen-Sevelen,1.0,0.0216690908294643
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Altenmellrich,1.0,0.0524853219632371
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Bad Berleburg,1.0,0.0725887973799831
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Borken-Coesfeld,1.0,0.0303745267916205
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Lorup,1.0,0.0597421735571637
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Ostfriesland,1.0,0.0317595304975817
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Paderborn,10.0,0.0511459605071666
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,Rheda-Beckum,1.0,0.024126169550394
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Alpen-Sevelen,1.0,0.0196578459750937
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Altenmellrich,1.0,0.0559670247080269
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Bad Berleburg,1.0,0.0913744240808924
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Borken-Coesfeld,1.0,0.025837271431721
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Lorup,1.0,0.0412473836835169
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Ostfriesland,1.0,0.0307743614744509
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Paderborn,10.0,0.0505840324133726
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,Rheda-Beckum,1.0,0.0221506675628363
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Alpen-Sevelen,1.0,0.0198101085842311
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Altenmellrich,1.0,0.0537182435715467
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Bad Berleburg,1.0,0.0763141734513655
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Borken-Coesfeld,1.0,0.0248440161713285
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Lorup,1.0,0.0461536296961447
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Ostfriesland,1.0,0.0275722689858164
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Paderborn,10.0,0.0502098016802032
+Distanz + RIX + Gelaendehoehe + Wald + Wind,Rheda-Beckum,1.0,0.0213477888496892
+Distanz + RIX + Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.019990751927851
+Distanz + RIX + Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.054009531909575
+Distanz + RIX + Rauigkeit + Wald + Wind,Bad Berleburg,1.0,0.0847666918006378
+Distanz + RIX + Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.023941739222626
+Distanz + RIX + Rauigkeit + Wald + Wind,Lorup,1.0,0.0501147001697297
+Distanz + RIX + Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0282946441222885
+Distanz + RIX + Rauigkeit + Wald + Wind,Paderborn,10.0,0.050179426363517
+Distanz + RIX + Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0201319848848518
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.0203151072420462
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.0523061099322916
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Bad Berleburg,1.0,0.0544818267738901
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.0286811147935859
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Lorup,1.0,0.054155898330291
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0294156578567665
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Paderborn,1.0,0.054395136734842
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0217225997207195
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Alpen-Sevelen,1.0,0.0198707180971166
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Altenmellrich,1.0,0.0508329675857759
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Bad Berleburg,0.1,0.2862290505770046
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Borken-Coesfeld,1.0,0.0239781965630149
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Lorup,1.0,0.0462277000271343
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Ostfriesland,1.0,0.0230212558029766
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Paderborn,10.0,0.0499324140523629
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,Rheda-Beckum,1.0,0.0210517886007376
+Vollstaendig,Alpen-Sevelen,1.0,0.0198493038767496
+Vollstaendig,Altenmellrich,1.0,0.0534922848449245
+Vollstaendig,Bad Berleburg,1.0,0.0851608936115775
+Vollstaendig,Borken-Coesfeld,1.0,0.0241889315275608
+Vollstaendig,Lorup,1.0,0.0477285688737847
+Vollstaendig,Ostfriesland,1.0,0.0272715875479024
+Vollstaendig,Paderborn,10.0,0.0501080007241164
+Vollstaendig,Rheda-Beckum,1.0,0.0213407968555044

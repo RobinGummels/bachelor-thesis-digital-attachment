@@ -1,0 +1,95 @@
+﻿standort,zielcluster,modell,spearman_rho_referenzranking
+Alpen-Sevelen,AS-01,Wald + Wind,0.6
+Alpen-Sevelen,AS-01,Vollstaendig,0.6
+Alpen-Sevelen,AS-02,Wald + Wind,-0.1999999999999999
+Alpen-Sevelen,AS-02,Vollstaendig,-0.1999999999999999
+Alpen-Sevelen,AS-03,Wald + Wind,0.6
+Alpen-Sevelen,AS-03,Vollstaendig,0.6
+Alpen-Sevelen,AS-04,Wald + Wind,-1.0
+Alpen-Sevelen,AS-04,Vollstaendig,-1.0
+Alpen-Sevelen,AS-05,Wald + Wind,0.7999999999999999
+Alpen-Sevelen,AS-05,Vollstaendig,0.7999999999999999
+Alpen-Sevelen,AS-06,Wald + Wind,0.7999999999999999
+Alpen-Sevelen,AS-06,Vollstaendig,0.6
+Altenmellrich,AM-01,Wald + Wind,0.5
+Altenmellrich,AM-01,Vollstaendig,0.5
+Altenmellrich,AM-02,Wald + Wind,-0.5
+Altenmellrich,AM-02,Vollstaendig,-0.5
+Altenmellrich,AM-03,Wald + Wind,1.0
+Altenmellrich,AM-03,Vollstaendig,1.0
+Altenmellrich,AM-04,Wald + Wind,1.0
+Altenmellrich,AM-04,Vollstaendig,1.0
+Bad Berleburg,BB-01,Wald + Wind,0.6
+Bad Berleburg,BB-01,Vollstaendig,0.2
+Bad Berleburg,BB-02,Wald + Wind,0.3714285714285715
+Bad Berleburg,BB-02,Vollstaendig,0.4285714285714286
+Bad Berleburg,BB-03,Wald + Wind,-0.1428571428571428
+Bad Berleburg,BB-03,Vollstaendig,-0.3714285714285715
+Bad Berleburg,BB-04,Wald + Wind,-0.0285714285714285
+Bad Berleburg,BB-04,Vollstaendig,-0.4857142857142857
+Bad Berleburg,BB-05,Wald + Wind,-0.6571428571428573
+Bad Berleburg,BB-05,Vollstaendig,-0.6571428571428573
+Bad Berleburg,BB-06,Wald + Wind,-0.1428571428571428
+Bad Berleburg,BB-06,Vollstaendig,-0.2571428571428572
+Bad Berleburg,BB-07,Wald + Wind,0.5428571428571429
+Bad Berleburg,BB-07,Vollstaendig,0.3142857142857143
+Borken-Coesfeld,BC-01,Wald + Wind,-0.3999999999999999
+Borken-Coesfeld,BC-01,Vollstaendig,-0.6
+Borken-Coesfeld,BC-02,Wald + Wind,-0.3
+Borken-Coesfeld,BC-02,Vollstaendig,-0.3
+Borken-Coesfeld,BC-03,Wald + Wind,0.0999999999999999
+Borken-Coesfeld,BC-03,Vollstaendig,-0.1999999999999999
+Borken-Coesfeld,BC-04,Wald + Wind,0.3
+Borken-Coesfeld,BC-04,Vollstaendig,0.1999999999999999
+Borken-Coesfeld,BC-05,Wald + Wind,0.0999999999999999
+Borken-Coesfeld,BC-05,Vollstaendig,0.0999999999999999
+Borken-Coesfeld,BC-06,Wald + Wind,-0.6
+Borken-Coesfeld,BC-06,Vollstaendig,-0.1999999999999999
+Lorup,LO-01,Wald + Wind,
+Lorup,LO-01,Vollstaendig,
+Lorup,LO-02,Wald + Wind,
+Lorup,LO-02,Vollstaendig,
+Lorup,LO-03,Wald + Wind,
+Lorup,LO-03,Vollstaendig,
+Ostfriesland,OF-01,Wald + Wind,-1.0
+Ostfriesland,OF-01,Vollstaendig,-1.0
+Ostfriesland,OF-02,Wald + Wind,-0.5
+Ostfriesland,OF-02,Vollstaendig,-0.5
+Ostfriesland,OF-03,Wald + Wind,0.5
+Ostfriesland,OF-03,Vollstaendig,-0.5
+Ostfriesland,OF-04,Wald + Wind,-0.5
+Ostfriesland,OF-04,Vollstaendig,-0.5
+Paderborn,PA-01,Wald + Wind,0.1545454545454545
+Paderborn,PA-01,Vollstaendig,0.2727272727272727
+Paderborn,PA-02,Wald + Wind,0.3181818181818182
+Paderborn,PA-02,Vollstaendig,-0.3363636363636363
+Paderborn,PA-03,Wald + Wind,0.4727272727272727
+Paderborn,PA-03,Vollstaendig,0.2636363636363636
+Paderborn,PA-04,Wald + Wind,0.5727272727272729
+Paderborn,PA-04,Vollstaendig,0.009090909090909
+Paderborn,PA-05,Wald + Wind,0.2090909090909091
+Paderborn,PA-05,Vollstaendig,0.0636363636363636
+Paderborn,PA-06,Wald + Wind,0.3454545454545455
+Paderborn,PA-06,Vollstaendig,0.2909090909090909
+Paderborn,PA-07,Wald + Wind,0.3363636363636363
+Paderborn,PA-07,Vollstaendig,0.1727272727272727
+Paderborn,PA-08,Wald + Wind,0.0909090909090909
+Paderborn,PA-08,Vollstaendig,0.2272727272727272
+Paderborn,PA-09,Wald + Wind,0.3181818181818182
+Paderborn,PA-09,Vollstaendig,0.0454545454545454
+Paderborn,PA-10,Wald + Wind,0.5727272727272729
+Paderborn,PA-10,Vollstaendig,0.4727272727272727
+Paderborn,PA-11,Wald + Wind,-0.1636363636363636
+Paderborn,PA-11,Vollstaendig,-0.3363636363636363
+Paderborn,PA-12,Wald + Wind,0.4454545454545455
+Paderborn,PA-12,Vollstaendig,0.0636363636363636
+Rheda-Beckum,RB-01,Wald + Wind,0.3999999999999999
+Rheda-Beckum,RB-01,Vollstaendig,0.3999999999999999
+Rheda-Beckum,RB-02,Wald + Wind,0.7999999999999999
+Rheda-Beckum,RB-02,Vollstaendig,0.7999999999999999
+Rheda-Beckum,RB-03,Wald + Wind,0.7999999999999999
+Rheda-Beckum,RB-03,Vollstaendig,0.7999999999999999
+Rheda-Beckum,RB-04,Wald + Wind,0.3999999999999999
+Rheda-Beckum,RB-04,Vollstaendig,0.1999999999999999
+Rheda-Beckum,RB-05,Wald + Wind,0.3999999999999999
+Rheda-Beckum,RB-05,Vollstaendig,0.1999999999999999

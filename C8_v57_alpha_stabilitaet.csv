@@ -1,0 +1,104 @@
+﻿modell,alpha,anzahl_faltungen
+Distanz + Gelaendehoehe,1.0,8
+Distanz + Gelaendehoehe + Wald,1.0,8
+Distanz + Gelaendehoehe + Wald + Wind,1.0,8
+Distanz + Gelaendehoehe + Rauigkeit,1.0,8
+Distanz + Gelaendehoehe + Rauigkeit + Wald,1.0,8
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,1.0,8
+Distanz + Gelaendehoehe + Rauigkeit + Wind,1.0,8
+Distanz + Gelaendehoehe + Wind,1.0,8
+Distanz + Wald,1.0,7
+Distanz + Wald,10.0,1
+Distanz + Wald + Wind,1.0,8
+Distanz + RIX,1.0,5
+Distanz + RIX,10.0,3
+Distanz + RIX + Gelaendehoehe,1.0,7
+Distanz + RIX + Gelaendehoehe,10.0,1
+Distanz + RIX + Gelaendehoehe + Wald,1.0,7
+Distanz + RIX + Gelaendehoehe + Wald,10.0,1
+Distanz + RIX + Gelaendehoehe + Wald + Wind,1.0,7
+Distanz + RIX + Gelaendehoehe + Wald + Wind,10.0,1
+Distanz + RIX + Gelaendehoehe + Rauigkeit,1.0,7
+Distanz + RIX + Gelaendehoehe + Rauigkeit,10.0,1
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,1.0,7
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,10.0,1
+Vollstaendig,1.0,7
+Vollstaendig,10.0,1
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,1.0,7
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,10.0,1
+Distanz + RIX + Gelaendehoehe + Wind,1.0,7
+Distanz + RIX + Gelaendehoehe + Wind,10.0,1
+Distanz + RIX + Wald,1.0,7
+Distanz + RIX + Wald,10.0,1
+Distanz + RIX + Wald + Wind,1.0,7
+Distanz + RIX + Wald + Wind,10.0,1
+Distanz + RIX + Rauigkeit,1.0,5
+Distanz + RIX + Rauigkeit,10.0,3
+Distanz + RIX + Rauigkeit + Wald,1.0,7
+Distanz + RIX + Rauigkeit + Wald,10.0,1
+Distanz + RIX + Rauigkeit + Wald + Wind,1.0,7
+Distanz + RIX + Rauigkeit + Wald + Wind,10.0,1
+Distanz + RIX + Rauigkeit + Wind,1.0,7
+Distanz + RIX + Rauigkeit + Wind,10.0,1
+Distanz + RIX + Wind,1.0,7
+Distanz + RIX + Wind,10.0,1
+Distanz + Rauigkeit,1.0,1
+Distanz + Rauigkeit,10.0,1
+Distanz + Rauigkeit,100.0,6
+Distanz + Rauigkeit + Wald,1.0,7
+Distanz + Rauigkeit + Wald,10.0,1
+Distanz + Rauigkeit + Wald + Wind,1.0,8
+Distanz + Rauigkeit + Wind,0.1,1
+Distanz + Rauigkeit + Wind,1.0,7
+Distanz + Wind,1.0,8
+Gelaendehoehe + Wald,1.0,8
+Gelaendehoehe + Wald + Wind,1.0,8
+Gelaendehoehe + Rauigkeit,0.1,1
+Gelaendehoehe + Rauigkeit,1.0,7
+Gelaendehoehe + Rauigkeit + Wald,1.0,8
+Gelaendehoehe + Rauigkeit + Wald + Wind,0.1,1
+Gelaendehoehe + Rauigkeit + Wald + Wind,1.0,7
+Gelaendehoehe + Rauigkeit + Wind,0.1,1
+Gelaendehoehe + Rauigkeit + Wind,1.0,7
+Gelaendehoehe + Wind,1.0,8
+Wald + Wind,1.0,8
+RIX + Gelaendehoehe,1.0,8
+RIX + Gelaendehoehe + Wald,1.0,8
+RIX + Gelaendehoehe + Wald + Wind,1.0,7
+RIX + Gelaendehoehe + Wald + Wind,10.0,1
+RIX + Gelaendehoehe + Rauigkeit,0.1,1
+RIX + Gelaendehoehe + Rauigkeit,1.0,6
+RIX + Gelaendehoehe + Rauigkeit,10.0,1
+RIX + Gelaendehoehe + Rauigkeit + Wald,0.1,1
+RIX + Gelaendehoehe + Rauigkeit + Wald,1.0,6
+RIX + Gelaendehoehe + Rauigkeit + Wald,10.0,1
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,0.1,1
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,1.0,6
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,10.0,1
+RIX + Gelaendehoehe + Rauigkeit + Wind,0.1,1
+RIX + Gelaendehoehe + Rauigkeit + Wind,1.0,6
+RIX + Gelaendehoehe + Rauigkeit + Wind,10.0,1
+RIX + Gelaendehoehe + Wind,1.0,7
+RIX + Gelaendehoehe + Wind,10.0,1
+RIX + Wald,1.0,7
+RIX + Wald,10.0,1
+RIX + Wald + Wind,1.0,7
+RIX + Wald + Wind,10.0,1
+RIX + Rauigkeit,0.1,1
+RIX + Rauigkeit,1.0,6
+RIX + Rauigkeit,10.0,1
+RIX + Rauigkeit + Wald,1.0,7
+RIX + Rauigkeit + Wald,10.0,1
+RIX + Rauigkeit + Wald + Wind,1.0,7
+RIX + Rauigkeit + Wald + Wind,10.0,1
+RIX + Rauigkeit + Wind,0.1,1
+RIX + Rauigkeit + Wind,1.0,6
+RIX + Rauigkeit + Wind,10.0,1
+RIX + Wind,1.0,7
+RIX + Wind,10.0,1
+Rauigkeit + Wald,0.1,1
+Rauigkeit + Wald,1.0,7
+Rauigkeit + Wald + Wind,0.1,1
+Rauigkeit + Wald + Wind,1.0,7
+Rauigkeit + Wind,0.1,1
+Rauigkeit + Wind,1.0,7

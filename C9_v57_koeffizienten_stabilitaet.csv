@@ -1,0 +1,187 @@
+﻿modell,merkmal,kleinster_koeffizient,groesster_koeffizient,mittlerer_koeffizient
+Distanz + Gelaendehoehe,gelaendehoehendifferenz_m,0.2111476234384245,0.4168135959097894,0.3233114929773448
+Distanz + Gelaendehoehe,distanz_m,-0.0881365597719889,0.1065815802686473,-0.0010079192188951
+Distanz + Gelaendehoehe + Wald,gelaendehoehendifferenz_m,0.1684846053240015,0.3570138446951325,0.2703554647864298
+Distanz + Gelaendehoehe + Wald,waldanteilsdifferenz_rms,0.1524283543221205,0.3176154948110501,0.2231706605213665
+Distanz + Gelaendehoehe + Wald,distanz_m,-0.077270532143824,0.097720613482302,-0.0071950303673933
+Distanz + Gelaendehoehe + Wald + Wind,gelaendehoehendifferenz_m,0.0683798204438928,0.2126631102500225,0.1595701543455838
+Distanz + Gelaendehoehe + Wald + Wind,waldanteilsdifferenz_rms,0.1209219726413656,0.2669078798973443,0.1721992892913073
+Distanz + Gelaendehoehe + Wald + Wind,winddissimilaritaet_log_rms,0.3389344679565706,0.4379097889464674,0.4071670607598127
+Distanz + Gelaendehoehe + Wald + Wind,distanz_m,-0.0802271426376017,0.0801926411980968,-0.0175239014330117
+Distanz + Gelaendehoehe + Rauigkeit,gelaendehoehendifferenz_m,0.1838170779194684,0.4069081632263975,0.3025797061377699
+Distanz + Gelaendehoehe + Rauigkeit,rauigkeitsdifferenz_rms_m,0.0407663618994849,0.1847197837281197,0.1022555554099084
+Distanz + Gelaendehoehe + Rauigkeit,distanz_m,-0.0916057753194321,0.0932125343033449,-0.0147152518372564
+Distanz + Gelaendehoehe + Rauigkeit + Wald,gelaendehoehendifferenz_m,0.1563351150889484,0.3569654960403052,0.2605672064119733
+Distanz + Gelaendehoehe + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.1389151243692553,0.2923644183785497,0.2108948323026998
+Distanz + Gelaendehoehe + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,0.000260003972241,0.1297583523390802,0.0631764023166109
+Distanz + Gelaendehoehe + Rauigkeit + Wald,distanz_m,-0.0905323393005021,0.0894109513426516,-0.0140875936908541
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,gelaendehoehendifferenz_m,0.0684110452301017,0.2251770616745899,0.1607249281035367
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.1189934221273775,0.2554159656595473,0.1732598604377143
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.3265758842174731,0.4536976192502962,0.4084762384292973
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.0898837170734413,0.0683558790674901,-0.0083974193471679
+Distanz + Gelaendehoehe + Rauigkeit + Wald + Wind,distanz_m,-0.0867122903838066,0.0791384633870915,-0.0170162281285156
+Distanz + Gelaendehoehe + Rauigkeit + Wind,gelaendehoehendifferenz_m,0.086489031572109,0.2564728080883975,0.1937860994846633
+Distanz + Gelaendehoehe + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.3532051869007693,0.4704055014745343,0.4236855938154834
+Distanz + Gelaendehoehe + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.0634610445981534,0.1129451344508714,0.0227969813494191
+Distanz + Gelaendehoehe + Rauigkeit + Wind,distanz_m,-0.0981492857499296,0.0767033116545344,-0.025982352309581
+Distanz + Gelaendehoehe + Wind,gelaendehoehendifferenz_m,0.0930652262349845,0.24515211391663,0.1974035587941662
+Distanz + Gelaendehoehe + Wind,winddissimilaritaet_log_rms,0.3767054353274467,0.457539827469735,0.428289202741815
+Distanz + Gelaendehoehe + Wind,distanz_m,-0.0866727582846473,0.0799462159900763,-0.0232205606494198
+Distanz + Wald,waldanteilsdifferenz_rms,0.0468755116815781,0.3848498282943258,0.2824475240160797
+Distanz + Wald,distanz_m,-0.098021093647924,0.0930003165038167,-0.0261456888389331
+Distanz + Wald + Wind,waldanteilsdifferenz_rms,0.1551886910384198,0.2961910866997187,0.2101664022882186
+Distanz + Wald + Wind,winddissimilaritaet_log_rms,0.375194137630974,0.5111855022521137,0.4552973746080174
+Distanz + Wald + Wind,distanz_m,-0.0868726549049018,0.0746881119758222,-0.0262876332824792
+Distanz + RIX,distanz_m,-0.0267476579510832,0.1758748329217794,0.0441519955563035
+Distanz + RIX,mittlerer_rix_prozent,0.058987958039271,0.5285431903500983,0.2905912106255549
+Distanz + RIX + Gelaendehoehe,gelaendehoehendifferenz_m,0.0785941378412085,0.3472807460413195,0.246901578372813
+Distanz + RIX + Gelaendehoehe,distanz_m,-0.0219110693374576,0.1600869173210486,0.0538144800977406
+Distanz + RIX + Gelaendehoehe,mittlerer_rix_prozent,0.0702023457193672,0.4094245457042362,0.3271341322990251
+Distanz + RIX + Gelaendehoehe + Wald,gelaendehoehendifferenz_m,0.0757900735544531,0.3012467507155294,0.208442780209964
+Distanz + RIX + Gelaendehoehe + Wald,waldanteilsdifferenz_rms,0.0472428183456758,0.2789737891485161,0.1582911460889742
+Distanz + RIX + Gelaendehoehe + Wald,distanz_m,-0.0304576406498933,0.1520121214446584,0.0483630019754903
+Distanz + RIX + Gelaendehoehe + Wald,mittlerer_rix_prozent,0.0692982881401108,0.3856912132293978,0.3053183043952043
+Distanz + RIX + Gelaendehoehe + Wald + Wind,gelaendehoehendifferenz_m,0.0444051032402211,0.2068648798470144,0.1326603426940118
+Distanz + RIX + Gelaendehoehe + Wald + Wind,waldanteilsdifferenz_rms,0.0452754324768861,0.2433847662075935,0.1279246648550769
+Distanz + RIX + Gelaendehoehe + Wald + Wind,winddissimilaritaet_log_rms,0.0849477646368549,0.3679750493044519,0.3063654147014641
+Distanz + RIX + Gelaendehoehe + Wald + Wind,distanz_m,-0.045568847825495,0.1241702816753333,0.0252936375710668
+Distanz + RIX + Gelaendehoehe + Wald + Wind,mittlerer_rix_prozent,0.0649465109208149,0.2958367912896082,0.2322094574863799
+Distanz + RIX + Gelaendehoehe + Rauigkeit,gelaendehoehendifferenz_m,0.0776966593946571,0.3350596725001477,0.2399152189209011
+Distanz + RIX + Gelaendehoehe + Rauigkeit,rauigkeitsdifferenz_rms_m,-0.0764678635256192,0.126571640573354,0.0331154642418175
+Distanz + RIX + Gelaendehoehe + Rauigkeit,distanz_m,-0.0410580693956693,0.1562870153810112,0.0489350999834986
+Distanz + RIX + Gelaendehoehe + Rauigkeit,mittlerer_rix_prozent,0.0695971395066394,0.4249815936844482,0.3214943660493858
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,gelaendehoehendifferenz_m,0.0749776665622737,0.2963978718210254,0.2078487351575527
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.0467941339570584,0.2652340372170259,0.1574536921568345
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,-0.0974236580123718,0.0806826129297691,0.00507070530611
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,distanz_m,-0.0409337482036713,0.1500617695968224,0.047984231440897
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wald,mittlerer_rix_prozent,0.068729921239788,0.4013353115359011,0.3053334280185138
+Vollstaendig,gelaendehoehendifferenz_m,0.0517589836756145,0.2083016156431705,0.1373677067716753
+Vollstaendig,waldanteilsdifferenz_rms,0.0449189666494591,0.2375259901151705,0.1336144029433692
+Vollstaendig,winddissimilaritaet_log_rms,0.0844171848971023,0.3852354705891854,0.3108007118973624
+Vollstaendig,rauigkeitsdifferenz_rms_m,-0.1458093417993106,0.0394497543931503,-0.0349438900355703
+Vollstaendig,distanz_m,-0.0503785487658386,0.1272132737833979,0.0297540912308349
+Vollstaendig,mittlerer_rix_prozent,0.0644974429406965,0.3134930293388547,0.2378809903453056
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,gelaendehoehendifferenz_m,0.0675212495142213,0.2382935043390623,0.1622302692309645
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.085385818554802,0.3938481275344392,0.3211496706973961
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.1313269624354168,0.0770629919636152,-0.0124537746030529
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,distanz_m,-0.0575146822228044,0.1258564844646355,0.0260418888036351
+Distanz + RIX + Gelaendehoehe + Rauigkeit + Wind,mittlerer_rix_prozent,0.0654028994836768,0.3298655530006578,0.25086369987664
+Distanz + RIX + Gelaendehoehe + Wind,gelaendehoehendifferenz_m,0.0634258197739592,0.2395786587500603,0.1600884221130002
+Distanz + RIX + Gelaendehoehe + Wind,winddissimilaritaet_log_rms,0.0859653285562514,0.3764530136705381,0.3195800829524784
+Distanz + RIX + Gelaendehoehe + Wind,distanz_m,-0.0475667086025479,0.1247153674009655,0.0243742283742732
+Distanz + RIX + Gelaendehoehe + Wind,mittlerer_rix_prozent,0.0658893799608616,0.3128323952891377,0.2480537771175419
+Distanz + RIX + Wald,waldanteilsdifferenz_rms,0.052149867147568,0.3405368305073754,0.2209298154238739
+Distanz + RIX + Wald,distanz_m,-0.0384954508617575,0.1538514647479298,0.0437187944450196
+Distanz + RIX + Wald,mittlerer_rix_prozent,0.0710408413032285,0.463176804197184,0.3347648585856928
+Distanz + RIX + Wald + Wind,waldanteilsdifferenz_rms,0.0496363126147349,0.2716326096945591,0.1574874558255197
+Distanz + RIX + Wald + Wind,winddissimilaritaet_log_rms,0.0906724869955955,0.4161568016053747,0.3434787676610336
+Distanz + RIX + Wald + Wind,distanz_m,-0.0514498408360941,0.1188726275941209,0.0201057601385473
+Distanz + RIX + Wald + Wind,mittlerer_rix_prozent,0.0664030328347926,0.3216129564279619,0.2411353886136502
+Distanz + RIX + Rauigkeit,rauigkeitsdifferenz_rms_m,0.0096773657642615,0.1979036426729152,0.0764344855445027
+Distanz + RIX + Rauigkeit,distanz_m,-0.0577158730503888,0.1632573041709409,0.0323556299520635
+Distanz + RIX + Rauigkeit,mittlerer_rix_prozent,0.0582123653634806,0.5253210847097689,0.2766148372248478
+Distanz + RIX + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.0515353734644984,0.3122656905314865,0.2101283527511019
+Distanz + RIX + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,-0.0373651023349786,0.1195550104038207,0.0469407682427559
+Distanz + RIX + Rauigkeit + Wald,distanz_m,-0.0531495357927588,0.1518038886853951,0.0378782485559617
+Distanz + RIX + Rauigkeit + Wald,mittlerer_rix_prozent,0.07037696862173,0.4728015890324661,0.3273951799167371
+Distanz + RIX + Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.0491461581922454,0.2611169175637768,0.1607787131858178
+Distanz + RIX + Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.0899453165599933,0.4355517439220569,0.3461560075125799
+Distanz + RIX + Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.1203929533223132,0.0569666301982779,-0.0160136662884712
+Distanz + RIX + Rauigkeit + Wald + Wind,distanz_m,-0.0580602155871301,0.1202075370472489,0.0222925807020976
+Distanz + RIX + Rauigkeit + Wald + Wind,mittlerer_rix_prozent,0.065868428955237,0.3442892518470116,0.2444052333003643
+Distanz + RIX + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.0912132555516035,0.4552160257150739,0.3681622510796704
+Distanz + RIX + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.0965178175471441,0.1103091339623911,0.0175936579191536
+Distanz + RIX + Rauigkeit + Wind,distanz_m,-0.0708260454724676,0.122141790586705,0.0152573111066841
+Distanz + RIX + Rauigkeit + Wind,mittlerer_rix_prozent,0.0668217996793733,0.3719779737936916,0.2617247951772401
+Distanz + RIX + Wind,winddissimilaritaet_log_rms,0.092008211833961,0.4512543440646616,0.3722991740031076
+Distanz + RIX + Wind,distanz_m,-0.0573760419241519,0.1215730476625869,0.0172587083152753
+Distanz + RIX + Wind,mittlerer_rix_prozent,0.0673959030678989,0.349800798042735,0.2635303061051983
+Distanz + Rauigkeit,rauigkeitsdifferenz_rms_m,0.0026238764626041,0.2586020648135896,0.0385294460054303
+Distanz + Rauigkeit,distanz_m,-0.1093183860630455,0.0185158350794317,-0.0114984214798619
+Distanz + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.0449215668227943,0.3419022221138217,0.2572458026074382
+Distanz + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,0.0299837231978402,0.1714580211048529,0.1097869724971928
+Distanz + Rauigkeit + Wald,distanz_m,-0.1057182198968456,0.078484551772121,-0.0372285874153349
+Distanz + Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.1490711504342727,0.2791154837527721,0.2071596316849809
+Distanz + Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.3566342550937548,0.5231494918658813,0.4525045817340967
+Distanz + Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.0539719914992236,0.0854399125751067,0.0138124406241934
+Distanz + Rauigkeit + Wald + Wind,distanz_m,-0.0946179052798402,0.0717832201314779,-0.0278061795454819
+Distanz + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.4018833714068418,1.2091889526391786,0.5641733691275037
+Distanz + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.3257873023366813,0.1458833300970833,0.0195645758902
+Distanz + Rauigkeit + Wind,distanz_m,-0.1255156122212933,0.0664884455409311,-0.0518408650105409
+Distanz + Wind,winddissimilaritaet_log_rms,0.4411098407542252,0.5589418166560608,0.4979884297167223
+Distanz + Wind,distanz_m,-0.0975966974027651,0.073066486344529,-0.0364800651872419
+Gelaendehoehe + Wald,gelaendehoehendifferenz_m,0.1683846432773425,0.355327287540169,0.2711375250519116
+Gelaendehoehe + Wald,waldanteilsdifferenz_rms,0.1581775752110347,0.3169331088693649,0.2247715699262763
+Gelaendehoehe + Wald + Wind,gelaendehoehendifferenz_m,0.0681023960802436,0.2143422248581125,0.1607966260076327
+Gelaendehoehe + Wald + Wind,waldanteilsdifferenz_rms,0.1205653819729457,0.2693286563075281,0.1736634695670741
+Gelaendehoehe + Wald + Wind,winddissimilaritaet_log_rms,0.3381200556618343,0.4364480815508062,0.4073894465774508
+Gelaendehoehe + Rauigkeit,gelaendehoehendifferenz_m,0.1839818172865791,0.7457776722755269,0.3466866787305882
+Gelaendehoehe + Rauigkeit,rauigkeitsdifferenz_rms_m,-0.0630511949216162,0.1754806541476261,0.0884179798718155
+Gelaendehoehe + Rauigkeit + Wald,gelaendehoehendifferenz_m,0.155229081382334,0.354816743747627,0.2616289188181528
+Gelaendehoehe + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.1413898750025249,0.2939099996365737,0.212500092935541
+Gelaendehoehe + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,0.0029069934310547,0.121802619305787,0.0622506672740919
+Gelaendehoehe + Rauigkeit + Wald + Wind,gelaendehoehendifferenz_m,0.0674596189934801,0.2072935743152943,0.1577673209747263
+Gelaendehoehe + Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.1171433263017982,0.2594721606388454,0.185118952321315
+Gelaendehoehe + Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.3271845877396476,1.0395779437193688,0.4824015276613643
+Gelaendehoehe + Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.4729182932959446,0.0606581564442753,-0.0579025141196474
+Gelaendehoehe + Rauigkeit + Wind,gelaendehoehendifferenz_m,0.0859349022138193,0.2808160813193651,0.1989676404277734
+Gelaendehoehe + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.3517960435312579,1.057601904974286,0.4974859803590287
+Gelaendehoehe + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.4048286244198361,0.1045923458751781,-0.0218366799132178
+Gelaendehoehe + Wind,gelaendehoehendifferenz_m,0.0934324543993714,0.2477229708780688,0.199467055291508
+Gelaendehoehe + Wind,winddissimilaritaet_log_rms,0.3733622012152297,0.4553823841599857,0.4281051388728706
+Wald + Wind,waldanteilsdifferenz_rms,0.1541593149367368,0.2996345245434529,0.2124562774183178
+Wald + Wind,winddissimilaritaet_log_rms,0.3752499054864958,0.5093003086580795,0.4556790323094959
+RIX + Gelaendehoehe,gelaendehoehendifferenz_m,0.1481928871798351,0.3472831071796779,0.2773972549534452
+RIX + Gelaendehoehe,mittlerer_rix_prozent,0.3048058043809705,0.4094373672927687,0.3538515223465945
+RIX + Gelaendehoehe + Wald,gelaendehoehendifferenz_m,0.1120005769287912,0.3013422327312648,0.2332480140170256
+RIX + Gelaendehoehe + Wald,waldanteilsdifferenz_rms,0.1252239682680892,0.2784791862724975,0.1749581297394506
+RIX + Gelaendehoehe + Wald,mittlerer_rix_prozent,0.266841240850843,0.3861414636969786,0.3293768357640422
+RIX + Gelaendehoehe + Wald + Wind,gelaendehoehendifferenz_m,0.0463348421035883,0.2076884648807202,0.1322573328883445
+RIX + Gelaendehoehe + Wald + Wind,waldanteilsdifferenz_rms,0.0455193436533143,0.243949889897109,0.1285522669031478
+RIX + Gelaendehoehe + Wald + Wind,winddissimilaritaet_log_rms,0.0850812536934293,0.3711657830382622,0.3096675868318976
+RIX + Gelaendehoehe + Wald + Wind,mittlerer_rix_prozent,0.0653624451943922,0.299598151132307,0.2271374929596485
+RIX + Gelaendehoehe + Rauigkeit,gelaendehoehendifferenz_m,0.0779555862089531,0.4047098111818237,0.2515730336670749
+RIX + Gelaendehoehe + Rauigkeit,rauigkeitsdifferenz_rms_m,-0.4364974112190494,0.121343560984058,-0.0059514697596716
+RIX + Gelaendehoehe + Rauigkeit,mittlerer_rix_prozent,0.0700533017930854,0.8980504068819466,0.3735338991853401
+RIX + Gelaendehoehe + Rauigkeit + Wald,gelaendehoehendifferenz_m,0.0752147188348852,0.3810405855052257,0.219597288126027
+RIX + Gelaendehoehe + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.0470367484491785,0.2655715280718479,0.1539977014978409
+RIX + Gelaendehoehe + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,-0.457686003507426,0.0757725811502835,-0.0346065100979211
+RIX + Gelaendehoehe + Rauigkeit + Wald,mittlerer_rix_prozent,0.0691676808171427,0.866067100042166,0.3561401870858857
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,gelaendehoehendifferenz_m,0.0515473230795383,0.2093411788480419,0.1228855680370031
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.0451616913604943,0.2390640613477639,0.1324656861803214
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.0845497882760386,0.8428339732815728,0.3707353238091579
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.5332343113148147,0.0335488987760272,-0.0803131644479065
+RIX + Gelaendehoehe + Rauigkeit + Wald + Wind,mittlerer_rix_prozent,0.0649136641710272,0.5443157081900805,0.2614678547676549
+RIX + Gelaendehoehe + Rauigkeit + Wind,gelaendehoehendifferenz_m,0.0680195649435009,0.2401894352986401,0.1486698372231362
+RIX + Gelaendehoehe + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.0855222256055152,0.8406666114604116,0.3797953366796101
+RIX + Gelaendehoehe + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.5134735784304615,0.0704692190731105,-0.057553017106614
+RIX + Gelaendehoehe + Rauigkeit + Wind,mittlerer_rix_prozent,0.0658410448525293,0.5759003990053401,0.2769889184303046
+RIX + Gelaendehoehe + Wind,gelaendehoehendifferenz_m,0.0667619759990899,0.2408296492380915,0.1599536835186278
+RIX + Gelaendehoehe + Wind,winddissimilaritaet_log_rms,0.0861029111625608,0.3794580282981418,0.3231184857450797
+RIX + Gelaendehoehe + Wind,mittlerer_rix_prozent,0.0663274657548499,0.3172863594652769,0.2432529798704599
+RIX + Wald,waldanteilsdifferenz_rms,0.0524194163407903,0.3401680940098612,0.2237889330924296
+RIX + Wald,mittlerer_rix_prozent,0.0714954561938722,0.4550221798286609,0.3277024827685804
+RIX + Wald + Wind,waldanteilsdifferenz_rms,0.0499094203410141,0.2728327055007385,0.1581754499573223
+RIX + Wald + Wind,winddissimilaritaet_log_rms,0.0908259276134305,0.4180902616021857,0.3463565103160345
+RIX + Wald + Wind,mittlerer_rix_prozent,0.0668400317788887,0.3180446920077415,0.2368818232647545
+RIX + Rauigkeit,rauigkeitsdifferenz_rms_m,-0.3328171708686571,0.1913435189475835,0.0611658084756473
+RIX + Rauigkeit,mittlerer_rix_prozent,0.0717361340205509,1.1581843409288337,0.4266959048654237
+RIX + Rauigkeit + Wald,waldanteilsdifferenz_rms,0.0518036798912955,0.3134415768260888,0.2113419013022032
+RIX + Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,-0.0288117791452423,0.1138742676787347,0.0522961656207201
+RIX + Rauigkeit + Wald,mittlerer_rix_prozent,0.0708333790911434,0.4619772177253562,0.3201260005551249
+RIX + Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.0494178948281707,0.2637027899864159,0.1608018717447811
+RIX + Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.0900978148783798,0.4381141879542669,0.3488124982275887
+RIX + Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.1158998724276307,0.0506656374629313,-0.0131401982541836
+RIX + Rauigkeit + Wald + Wind,mittlerer_rix_prozent,0.0663063419789864,0.33751013236202,0.2393403825075152
+RIX + Rauigkeit + Wind,winddissimilaritaet_log_rms,0.0913691051535581,0.8789228798978137,0.423459343882025
+RIX + Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.4994315906511867,0.1031245312298435,-0.0311013463852119
+RIX + Rauigkeit + Wind,mittlerer_rix_prozent,0.0672807573612989,0.606959431934082,0.2879951034982439
+RIX + Wind,winddissimilaritaet_log_rms,0.0921652195039128,0.4489627171749425,0.3753839752608643
+RIX + Wind,mittlerer_rix_prozent,0.0678539563349568,0.3470096404611919,0.2598634200791918
+Rauigkeit + Wald,waldanteilsdifferenz_rms,0.1997637016365307,0.6972758689299873,0.3287544992312651
+Rauigkeit + Wald,rauigkeitsdifferenz_rms_m,-0.021646189631759,0.1631035117748988,0.1028476118947216
+Rauigkeit + Wald + Wind,waldanteilsdifferenz_rms,0.1464243410291235,0.2898090882742983,0.2208448227294081
+Rauigkeit + Wald + Wind,winddissimilaritaet_log_rms,0.3585846321555181,1.1211653378304398,0.5282962106078624
+Rauigkeit + Wald + Wind,rauigkeitsdifferenz_rms_m,-0.4500415986043438,0.0776213634916688,-0.0378665641363015
+Rauigkeit + Wind,winddissimilaritaet_log_rms,0.401769539139402,1.2032551227433046,0.564283905643077
+Rauigkeit + Wind,rauigkeitsdifferenz_rms_m,-0.3426038063829576,0.1373138659838592,0.0149163394347748

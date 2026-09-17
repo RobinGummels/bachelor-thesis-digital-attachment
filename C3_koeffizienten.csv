@@ -1,0 +1,73 @@
+﻿teststandort,modell,merkmal,koeffizient_standardisiert
+Alpen-Sevelen,Distanz,distanz_m,-0.0003978185495639
+Alpen-Sevelen,Wald + Wind,waldanteilsdifferenz_rms,0.2396905779017086
+Alpen-Sevelen,Wald + Wind,winddissimilaritaet_log_rms,0.4569878438054747
+Alpen-Sevelen,Vollstaendig,distanz_m,0.0033019326290211
+Alpen-Sevelen,Vollstaendig,mittlerer_rix_prozent,0.2618201741270073
+Alpen-Sevelen,Vollstaendig,gelaendehoehendifferenz_m,0.1574145901065698
+Alpen-Sevelen,Vollstaendig,rauigkeitsdifferenz_rms_m,-0.0633017125868961
+Alpen-Sevelen,Vollstaendig,waldanteilsdifferenz_rms,0.1806983587903858
+Alpen-Sevelen,Vollstaendig,winddissimilaritaet_log_rms,0.3625685747419176
+Altenmellrich,Distanz,distanz_m,0.0015637032409956
+Altenmellrich,Wald + Wind,waldanteilsdifferenz_rms,0.1612280068430565
+Altenmellrich,Wald + Wind,winddissimilaritaet_log_rms,0.4170760862685821
+Altenmellrich,Vollstaendig,distanz_m,0.1202009402436821
+Altenmellrich,Vollstaendig,mittlerer_rix_prozent,0.2880497409531734
+Altenmellrich,Vollstaendig,gelaendehoehendifferenz_m,0.0517589836756145
+Altenmellrich,Vollstaendig,rauigkeitsdifferenz_rms_m,-0.0450439532529042
+Altenmellrich,Vollstaendig,waldanteilsdifferenz_rms,0.1179770367408438
+Altenmellrich,Vollstaendig,winddissimilaritaet_log_rms,0.3092058207473022
+Bad Berleburg,Distanz,distanz_m,0.0001096236472976
+Bad Berleburg,Wald + Wind,waldanteilsdifferenz_rms,0.1917889522425256
+Bad Berleburg,Wald + Wind,winddissimilaritaet_log_rms,0.5093003086580795
+Bad Berleburg,Vollstaendig,distanz_m,0.0472253350548065
+Bad Berleburg,Vollstaendig,mittlerer_rix_prozent,0.3134930293388547
+Bad Berleburg,Vollstaendig,gelaendehoehendifferenz_m,0.1789332116942901
+Bad Berleburg,Vollstaendig,rauigkeitsdifferenz_rms_m,-0.1458093417993106
+Bad Berleburg,Vollstaendig,waldanteilsdifferenz_rms,0.1020130266467696
+Bad Berleburg,Vollstaendig,winddissimilaritaet_log_rms,0.3852354705891854
+Borken-Coesfeld,Distanz,distanz_m,0.0002787849739592
+Borken-Coesfeld,Wald + Wind,waldanteilsdifferenz_rms,0.2094294603612992
+Borken-Coesfeld,Wald + Wind,winddissimilaritaet_log_rms,0.4524601049196946
+Borken-Coesfeld,Vollstaendig,distanz_m,0.0245403809446976
+Borken-Coesfeld,Vollstaendig,mittlerer_rix_prozent,0.2412955657373003
+Borken-Coesfeld,Vollstaendig,gelaendehoehendifferenz_m,0.1774640132234277
+Borken-Coesfeld,Vollstaendig,rauigkeitsdifferenz_rms_m,-0.0361892056016723
+Borken-Coesfeld,Vollstaendig,waldanteilsdifferenz_rms,0.1455318511988849
+Borken-Coesfeld,Vollstaendig,winddissimilaritaet_log_rms,0.3491797203804037
+Lorup,Distanz,distanz_m,-0.0011156224196132
+Lorup,Wald + Wind,waldanteilsdifferenz_rms,0.2996345245434529
+Lorup,Wald + Wind,winddissimilaritaet_log_rms,0.3752499054864958
+Lorup,Vollstaendig,distanz_m,-0.0503785487658386
+Lorup,Vollstaendig,mittlerer_rix_prozent,0.1849609221649276
+Lorup,Vollstaendig,gelaendehoehendifferenz_m,0.1148250898798572
+Lorup,Vollstaendig,rauigkeitsdifferenz_rms_m,0.0394497543931503
+Lorup,Vollstaendig,waldanteilsdifferenz_rms,0.2375259901151705
+Lorup,Vollstaendig,winddissimilaritaet_log_rms,0.2845360950153344
+Ostfriesland,Distanz,distanz_m,0.002119113974138
+Ostfriesland,Wald + Wind,waldanteilsdifferenz_rms,0.1541593149367368
+Ostfriesland,Wald + Wind,winddissimilaritaet_log_rms,0.4600141202760435
+Ostfriesland,Vollstaendig,distanz_m,0.1272132737833979
+Ostfriesland,Vollstaendig,mittlerer_rix_prozent,0.2515973798640276
+Ostfriesland,Vollstaendig,gelaendehoehendifferenz_m,0.1416732961514442
+Ostfriesland,Vollstaendig,rauigkeitsdifferenz_rms_m,-0.0277131878211301
+Ostfriesland,Vollstaendig,waldanteilsdifferenz_rms,0.1001393015982903
+Ostfriesland,Vollstaendig,winddissimilaritaet_log_rms,0.3572867674932926
+Paderborn,Distanz,distanz_m,-0.001953558590771
+Paderborn,Wald + Wind,waldanteilsdifferenz_rms,0.2217512705937125
+Paderborn,Wald + Wind,winddissimilaritaet_log_rms,0.4882796899990363
+Paderborn,Vollstaendig,distanz_m,-0.0136799908598307
+Paderborn,Vollstaendig,mittlerer_rix_prozent,0.0644974429406965
+Paderborn,Vollstaendig,gelaendehoehendifferenz_m,0.0685708537990282
+Paderborn,Vollstaendig,rauigkeitsdifferenz_rms_m,0.0139026454783162
+Paderborn,Vollstaendig,waldanteilsdifferenz_rms,0.0449189666494591
+Paderborn,Vollstaendig,winddissimilaritaet_log_rms,0.0844171848971023
+Rheda-Beckum,Distanz,distanz_m,-0.0007317703402816
+Rheda-Beckum,Wald + Wind,waldanteilsdifferenz_rms,0.2219681119240501
+Rheda-Beckum,Wald + Wind,winddissimilaritaet_log_rms,0.4860641990625612
+Rheda-Beckum,Vollstaendig,distanz_m,-0.0203905931832567
+Rheda-Beckum,Vollstaendig,mittlerer_rix_prozent,0.2973336676364573
+Rheda-Beckum,Vollstaendig,gelaendehoehendifferenz_m,0.2083016156431705
+Rheda-Beckum,Vollstaendig,rauigkeitsdifferenz_rms_m,-0.0148461190941159
+Rheda-Beckum,Vollstaendig,waldanteilsdifferenz_rms,0.1401106918071496
+Rheda-Beckum,Vollstaendig,winddissimilaritaet_log_rms,0.3539760613143617
