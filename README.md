@@ -34,7 +34,7 @@ Die wichtigsten Verknüpfungen sind:
 
 - A1 und A2 werden über `cluster`, A1 und B5 über `position` verbunden.
 - B1 enthält die Merkmale und den beobachteten absoluten Logfehler jedes ungeordneten Paares. C2, C10 und D8 verweisen über `clusterpaar` auf diese Angaben.
-- C1 enthält das gewählte Alpha je Hauptmodell und Teststandort. Für die 57 Merkmalskombinationen stehen diese Angaben in C6. Die Koeffizienten in C3 bzw. C7 sind über Modell und Teststandort zuzuordnen.
+- C1 enthält das gewählte Alpha je Hauptmodell und Teststandort. Für die 63 Merkmalskombinationen stehen diese Angaben in C6. Die Koeffizienten in C3 bzw. C7 sind über Modell und Teststandort zuzuordnen.
 - D8 und D9 werden über Modell, Standort bzw. Teststandort, Merkmalsgewichtung und AOA-Grenzverfahren verbunden. Ein Fall liegt innerhalb der AOA, wenn `dissimilarity_index <= aoa_grenze_di` gilt.
 
 Gegenrichtungen eines Transfers und mehrfach aufgeführte Modell- oder AOA-Varianten sind keine unabhängigen zusätzlichen Beobachtungen.
@@ -72,7 +72,7 @@ Die Standardunsicherheit in A2 ist keine Varianz. Die vorbereiteten Trainingsgew
 | Wald + Wind | Gamma-Regression mit Waldanteilsdifferenz und Windgeschwindigkeitsdissimilarität |
 | Vollstaendig | Gamma-Regression mit allen sechs Merkmalen aus B1 |
 
-**C5–C11** dokumentieren den explorativen Vergleich aller 57 Merkmalskombinationen aus zwei bis sechs Prädiktoren. C5 enthält Rangfolge und Standortrobustheit, C6 die Standort-MAE und Alpha-Wahlen, C7–C9 die Koeffizienten und Stabilitätszusammenfassungen und C10 die äußeren Vorhersagen. C11 enthält den numerischen Abgleich mit den Notebook-Ergebnissen. Die Kombinationsnamen verwenden die Kurzformen Distanz, RIX, Gelaendehoehe, Rauigkeit, Wald und Wind für die sechs Prädiktoren aus B1. Die Merkmalsauswahl ist explorativ; ausschließlich Alpha wird in der inneren LOSO ausgewählt. Der vollständige Vergleich der 57 Kombinationen betrifft die direkte Fehlerprognose.
+**C5–C11** dokumentieren den explorativen Vergleich aller 63 Merkmalskombinationen aus einem bis sechs Prädiktoren. C5 enthält Rangfolge und Standortrobustheit, C6 die Standort-MAE und Alpha-Wahlen, C7–C9 die Koeffizienten und Stabilitätszusammenfassungen und C10 die äußeren Vorhersagen. C11 enthält den numerischen Abgleich mit den Notebook-Ergebnissen. Die Kombinationsnamen verwenden die Kurzformen Distanz, RIX, Gelaendehoehe, Rauigkeit, Wald und Wind für die sechs Prädiktoren aus B1. Die Merkmalsauswahl ist explorativ; ausschließlich Alpha wird in der inneren LOSO ausgewählt. Der vollständige Vergleich der 63 Kombinationen betrifft die direkte Fehlerprognose. Er umfasst alle nicht leeren Teilmengen der sechs Prädiktoren: 6 + 15 + 20 + 15 + 6 + 1 = 63 Modelle. Das konstante Modell gehört nicht zu diesen Merkmalskombinationen. Die Dateinamen C5–C11 enthalten die Kennzeichnung `v63`. C6 enthält 504 äußere Faltungen, C10 enthält 8.946 äußere Vorhersagen. Die Einzelmodelle tragen die Bezeichnungen Distanz, RIX, Gelaendehoehe, Rauigkeit, Wald und Wind; das Distanzmodell entspricht dem gleichnamigen Hauptmodell in C1–C4.
 
 Die prognostizierte Größe in C2/C10 ist die Quadratwurzel des geschätzten mittleren quadrierten Logfehlers. Sie beschreibt ein RMS-artiges Fehlerniveau und entspricht nicht allgemein einem erwarteten absoluten Fehler oder einer reinen Standardabweichung. Die absolute Abweichung der direkten Fehlerprognose ergibt sich als:
 

@@ -67,10 +67,10 @@ B5_wake_residuen.csv,position,Kennung,Positionskennung dieser Beigabe; Verbindun
 B5_wake_residuen.csv,standort,Kategorie,Untersuchungsstandort.,0
 B5_wake_residuen.csv,wakeverlust_anteil,1,Relativer modellierter Wakeverlust; 0.05 entspricht 5 Prozent.,0
 B5_wake_residuen.csv,reproduktionsguete_unkorrigiert,1,Unkorrigierte dimensionslose Reproduktionsgüte der WEA.,0
-C10_v57_oof.csv,standort,Kategorie,Untersuchungsstandort.,0
-C10_v57_oof.csv,clusterpaar,Kennung,Ungeordnetes Paar zweier global eindeutiger Clusterkennungen; numerisch sortiert.,0
-C10_v57_oof.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
-C10_v57_oof.csv,prognostiziertes_rms_logfehlerniveau,1,"Quadratwurzel des prognostizierten mittleren quadrierten Logfehlers; RMS-artiges Niveau, nicht allgemein der erwartete absolute Fehler.",0
+C10_v63_oof.csv,standort,Kategorie,Untersuchungsstandort.,0
+C10_v63_oof.csv,clusterpaar,Kennung,Ungeordnetes Paar zweier global eindeutiger Clusterkennungen; numerisch sortiert.,0
+C10_v63_oof.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C10_v63_oof.csv,prognostiziertes_rms_logfehlerniveau,1,"Quadratwurzel des prognostizierten mittleren quadrierten Logfehlers; RMS-artiges Niveau, nicht allgemein der erwartete absolute Fehler.",0
 C1_loso_folds.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
 C1_loso_folds.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
 C1_loso_folds.csv,alpha,1,Im inneren LOSO gewählte Regularisierungsstärke; beim konstanten Modell nicht anwendbar.,8
@@ -90,28 +90,28 @@ C4_alpha_innere_validierung.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und
 C4_alpha_innere_validierung.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
 C4_alpha_innere_validierung.csv,innerer_makro_mae,1,Ungewichtetes Mittel der standortweisen direkten MAE der inneren Validierung.,0
 C4_alpha_innere_validierung.csv,standardabweichung_innerer_standort_mae,1,"Streuung der direkten MAE über die inneren Validierungsstandorte, wie im Notebook exportiert.",0
-C5_v57_rangfolge.csv,rang,Rang,"Rangfolge nach direktem LOSO-Makro-MAE, kleiner ist besser.",0
-C5_v57_rangfolge.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
-C5_v57_rangfolge.csv,makro_mae_direkte_fehlerprognose,1,Ungewichtetes Mittel der direkten MAE über die acht äußeren Teststandorte.,0
-C5_v57_rangfolge.csv,median_standort_mae,1,Median der acht direkten Standort-MAE.,0
-C5_v57_rangfolge.csv,groesster_standort_mae,1,Größter direkter MAE unter den acht Teststandorten.,0
-C5_v57_rangfolge.csv,anzahl_standorte_besser_als_wald_wind,Anzahl,Zahl der acht Standorte mit kleinerem direkten MAE als Wald + Wind.,0
-C6_v57_folds.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
-C6_v57_folds.csv,teststandort,Kategorie,Vollständig zurückgehaltener äußerer Teststandort.,0
-C6_v57_folds.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
-C6_v57_folds.csv,mae_direkte_fehlerprognose,1,Direkter MAE des äußeren Teststandorts.,0
-C7_v57_koeffizienten.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
-C7_v57_koeffizienten.csv,teststandort,Kategorie,Vollständig zurückgehaltener äußerer Teststandort.,0
-C7_v57_koeffizienten.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
-C7_v57_koeffizienten.csv,koeffizient_standardisiert,1,Gamma-Koeffizient auf der mit Trainingsgewichten standardisierten Merkmalsachse.,0
-C8_v57_alpha_stabilitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
-C8_v57_alpha_stabilitaet.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
-C8_v57_alpha_stabilitaet.csv,anzahl_faltungen,Anzahl,"Zahl der äußeren Faltungen, in denen dieses Alpha gewählt wurde; insgesamt acht je Modell.",0
-C9_v57_koeffizienten_stabilitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
-C9_v57_koeffizienten_stabilitaet.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
-C9_v57_koeffizienten_stabilitaet.csv,kleinster_koeffizient,1,Kleinster standardisierter Koeffizient über die acht äußeren Faltungen.,0
-C9_v57_koeffizienten_stabilitaet.csv,groesster_koeffizient,1,Größter standardisierter Koeffizient über die acht äußeren Faltungen.,0
-C9_v57_koeffizienten_stabilitaet.csv,mittlerer_koeffizient,1,Arithmetischer Mittelwert des standardisierten Koeffizienten über die acht äußeren Faltungen.,0
+C5_v63_rangfolge.csv,rang,Rang,"Rangfolge nach direktem LOSO-Makro-MAE, kleiner ist besser.",0
+C5_v63_rangfolge.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C5_v63_rangfolge.csv,makro_mae_direkte_fehlerprognose,1,Ungewichtetes Mittel der direkten MAE über die acht äußeren Teststandorte.,0
+C5_v63_rangfolge.csv,median_standort_mae,1,Median der acht direkten Standort-MAE.,0
+C5_v63_rangfolge.csv,groesster_standort_mae,1,Größter direkter MAE unter den acht Teststandorten.,0
+C5_v63_rangfolge.csv,anzahl_standorte_besser_als_wald_wind,Anzahl,Zahl der acht Standorte mit kleinerem direkten MAE als Wald + Wind.,0
+C6_v63_folds.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C6_v63_folds.csv,teststandort,Kategorie,Vollständig zurückgehaltener äußerer Teststandort.,0
+C6_v63_folds.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
+C6_v63_folds.csv,mae_direkte_fehlerprognose,1,Direkter MAE des äußeren Teststandorts.,0
+C7_v63_koeffizienten.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C7_v63_koeffizienten.csv,teststandort,Kategorie,Vollständig zurückgehaltener äußerer Teststandort.,0
+C7_v63_koeffizienten.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
+C7_v63_koeffizienten.csv,koeffizient_standardisiert,1,Gamma-Koeffizient auf der mit Trainingsgewichten standardisierten Merkmalsachse.,0
+C8_v63_alpha_stabilitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C8_v63_alpha_stabilitaet.csv,alpha,1,Regularisierungsstärke der Gamma-Regression.,0
+C8_v63_alpha_stabilitaet.csv,anzahl_faltungen,Anzahl,"Zahl der äußeren Faltungen, in denen dieses Alpha gewählt wurde; insgesamt acht je Modell.",0
+C9_v63_koeffizienten_stabilitaet.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
+C9_v63_koeffizienten_stabilitaet.csv,merkmal,Kategorie,Merkmal mit Einheit in der Bezeichnung; Definition wie in B1.,0
+C9_v63_koeffizienten_stabilitaet.csv,kleinster_koeffizient,1,Kleinster standardisierter Koeffizient über die acht äußeren Faltungen.,0
+C9_v63_koeffizienten_stabilitaet.csv,groesster_koeffizient,1,Größter standardisierter Koeffizient über die acht äußeren Faltungen.,0
+C9_v63_koeffizienten_stabilitaet.csv,mittlerer_koeffizient,1,Arithmetischer Mittelwert des standardisierten Koeffizienten über die acht äußeren Faltungen.,0
 D10_aoa_merkmalsgewichte.csv,modell,Kategorie,Fehlermodell; Bezeichnungen und Merkmale sind in README erläutert.,0
 D10_aoa_merkmalsgewichte.csv,teststandort,Kategorie,Vollständig zurückgehaltener Standort der äußeren LOSO-Faltung.,0
 D10_aoa_merkmalsgewichte.csv,merkmalsgewichtung,Kategorie,Koeffizientenbetraege oder Gleichgewichtung; Hauptauswertung: Koeffizientenbetraege.,0
